@@ -21,6 +21,18 @@ export interface HowToApplySteps {
   my: string[];
 }
 
+export interface DishItem {
+  dishName: BilingualText;
+  region: BilingualText;
+  description: BilingualText;
+}
+
+export interface RegionalPrepItem {
+  region: BilingualText;
+  technique: BilingualText;
+  description: BilingualText;
+}
+
 export interface Herb {
   id: string;
   slug: string;
@@ -38,4 +50,7 @@ export interface Herb {
   dosageAndFrequency: BilingualText;
   warnings: BilingualText;
   relatedHerbs: string[];
+  whyUsedInCooking?: BilingualText;
+  dishes?: DishItem[];
+  regionalPreparations?: RegionalPrepItem[];
 }

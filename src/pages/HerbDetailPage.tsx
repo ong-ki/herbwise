@@ -28,6 +28,8 @@ import {
   Droplets,
   Link2,
   Leaf,
+  Utensils,
+  Globe2,
 } from 'lucide-react';
 
 const herbsList: Herb[] = herbsDataRaw as Herb[];
@@ -50,6 +52,8 @@ export const HerbDetailPage: React.FC = () => {
   const [openSections, setOpenSections] = useState({
     overview: true,
     whyUseIt: true,
+    culinary: true,
+    regionalPrep: true,
     howToUse: true,
     howToApply: true,
     dosage: true,
@@ -61,6 +65,8 @@ export const HerbDetailPage: React.FC = () => {
   const sectionRefs = {
     overview: useRef<HTMLDivElement>(null),
     whyUseIt: useRef<HTMLDivElement>(null),
+    culinary: useRef<HTMLDivElement>(null),
+    regionalPrep: useRef<HTMLDivElement>(null),
     howToUse: useRef<HTMLDivElement>(null),
     howToApply: useRef<HTMLDivElement>(null),
     dosage: useRef<HTMLDivElement>(null),
@@ -137,6 +143,8 @@ export const HerbDetailPage: React.FC = () => {
     setOpenSections({
       overview: expand,
       whyUseIt: expand,
+      culinary: expand,
+      regionalPrep: expand,
       howToUse: expand,
       howToApply: expand,
       dosage: expand,
@@ -281,6 +289,8 @@ export const HerbDetailPage: React.FC = () => {
           {[
             { id: 'overview', label: t('sectionOverview') },
             { id: 'whyUseIt', label: t('sectionWhyUseIt') },
+            { id: 'culinary', label: t('culinaryTab') },
+            { id: 'regionalPrep', label: t('regionalPrep') },
             { id: 'howToUse', label: t('sectionHowToUse') },
             { id: 'howToApply', label: t('sectionHowToApply') },
             { id: 'dosage', label: t('sectionDosage') },
@@ -423,6 +433,140 @@ export const HerbDetailPage: React.FC = () => {
                       </span>
                     </div>
                   ))}
+                </div>
+              </div>
+            )}
+          </Card>
+        </div>
+
+        {/* SECTION: WHY USED IN COOKING & DISHES */}
+        <div ref={sectionRefs.culinary} className="scroll-mt-28">
+          <Card variant="default" padding="none">
+            <button
+              type="button"
+              onClick={() => toggleSection('culinary')}
+              className="w-full p-4 sm:p-5 flex items-center justify-between text-left cursor-pointer hover:bg-sage-50/30 transition-colors"
+            >
+              <div className="flex items-center gap-2.5">
+                <div className="w-8 h-8 rounded-xl bg-sage-50 text-sage-700 flex items-center justify-center">
+                  <Utensils className="w-4 h-4" />
+                </div>
+                <div>
+                  <h2 className="text-base font-bold text-charcoal-900">
+                    3. {t('dishesGoesIn')} ({language === 'my' ? 'ဟင်းချက်နည်းလမ်းညွှန်' : 'Culinary Guide'})
+                  </h2>
+                  <span className="text-xs text-charcoal-400">
+                    Why used in cooking &amp; popular dishes across Asia
+                  </span>
+                </div>
+              </div>
+              {openSections.culinary ? (
+                <ChevronUp className="w-4 h-4 text-charcoal-400" />
+              ) : (
+                <ChevronDown className="w-4 h-4 text-charcoal-400" />
+              )}
+            </button>
+
+            {openSections.culinary && (
+              <div className="p-5 pt-0 space-y-4 border-t border-charcoal-100 mt-1">
+                {/* Why Used in Cooking */}
+                {herb.whyUsedInCooking && (
+                  <div className="p-4 rounded-2xl bg-amber-50/80 border border-amber-200/80 space-y-1.5 pt-3">
+                    <span className="text-xs font-bold text-amber-900 uppercase tracking-wide block">
+                      {t('whyUsedInCooking')}
+                    </span>
+                    <p className="text-xs sm:text-sm text-charcoal-800 leading-relaxed font-medium">
+                      {getText(herb.whyUsedInCooking)}
+                    </p>
+                  </div>
+                )}
+
+                {/* Dishes List */}
+                {herb.dishes && herb.dishes.length > 0 && (
+                  <div className="space-y-3 pt-1">
+                    <span className="text-xs font-bold uppercase tracking-wider text-sage-800 block">
+                      {t('dishesGoesIn')}
+                    </span>
+                    <div className="space-y-2.5">
+                      {herb.dishes.map((dish, dIdx) => (
+                        <div
+                          key={dIdx}
+                          className="p-3.5 rounded-2xl bg-offwhite border border-charcoal-200/80 space-y-1"
+                        >
+                          <div className="flex items-center justify-between gap-2">
+                            <h4 className="text-xs sm:text-sm font-bold text-charcoal-900">
+                              {getText(dish.dishName)}
+                            </h4>
+                            <span className="text-[10px] font-semibold text-sage-800 bg-sage-100 px-2.5 py-0.5 rounded-full shrink-0">
+                              {getText(dish.region)}
+                            </span>
+                          </div>
+                          <p className="text-xs text-charcoal-700 leading-relaxed">
+                            {getText(dish.description)}
+                          </p>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
+              </div>
+            )}
+          </Card>
+        </div>
+
+        {/* SECTION: REGIONAL PREPARATIONS ACROSS ASIA */}
+        <div ref={sectionRefs.regionalPrep} className="scroll-mt-28">
+          <Card variant="default" padding="none">
+            <button
+              type="button"
+              onClick={() => toggleSection('regionalPrep')}
+              className="w-full p-4 sm:p-5 flex items-center justify-between text-left cursor-pointer hover:bg-sage-50/30 transition-colors"
+            >
+              <div className="flex items-center gap-2.5">
+                <div className="w-8 h-8 rounded-xl bg-sage-50 text-sage-700 flex items-center justify-center">
+                  <Globe2 className="w-4 h-4" />
+                </div>
+                <div>
+                  <h2 className="text-base font-bold text-charcoal-900">
+                    4. {t('regionalPrep')}
+                  </h2>
+                  <span className="text-xs text-charcoal-400">
+                    Regional preparation techniques across South, Southeast &amp; East Asia
+                  </span>
+                </div>
+              </div>
+              {openSections.regionalPrep ? (
+                <ChevronUp className="w-4 h-4 text-charcoal-400" />
+              ) : (
+                <ChevronDown className="w-4 h-4 text-charcoal-400" />
+              )}
+            </button>
+
+            {openSections.regionalPrep && (
+              <div className="p-5 pt-0 border-t border-charcoal-100 mt-1">
+                <div className="pt-3 space-y-3">
+                  {herb.regionalPreparations && herb.regionalPreparations.length > 0 ? (
+                    herb.regionalPreparations.map((prep, pIdx) => (
+                      <div
+                        key={pIdx}
+                        className="p-3.5 rounded-2xl bg-white border border-charcoal-200/90 shadow-soft-xs space-y-1.5"
+                      >
+                        <div className="flex items-center justify-between gap-2 border-b border-charcoal-100 pb-1.5">
+                          <span className="text-xs font-bold text-sage-900">
+                            {getText(prep.region)}
+                          </span>
+                          <span className="text-[11px] font-semibold text-charcoal-700 bg-charcoal-100 px-2 py-0.5 rounded-lg">
+                            {getText(prep.technique)}
+                          </span>
+                        </div>
+                        <p className="text-xs text-charcoal-700 leading-relaxed pt-0.5">
+                          {getText(prep.description)}
+                        </p>
+                      </div>
+                    ))
+                  ) : (
+                    <p className="text-xs text-charcoal-500">No regional preparations cataloged.</p>
+                  )}
                 </div>
               </div>
             )}

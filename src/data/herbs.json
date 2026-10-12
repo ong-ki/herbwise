@@ -79,6 +79,84 @@
       "ginger",
       "galangal",
       "garlic"
+    ],
+    "whyUsedInCooking": {
+      "en": "Imparts vibrant golden color, subtle earthy bitterness, and warm aroma while neutralizing gamey smells in seafood and meats.",
+      "my": "ဟင်းလျာများတွင် ရွှေဝါရောင်သန်းစေပြီး မြေနံ့သင်းသည့် အရသာနှင့် ရနံ့ကို ပေးစွမ်းသည်။ ငါးနှင့် အသားများ၏ ညှီနံ့ကို ဖျောက်ဖျက်ပေးပါသည်။"
+    },
+    "dishes": [
+      {
+        "dishName": {
+          "en": "Myanmar Fish Curry & Mohinga Base",
+          "my": "မြန်မာ့ငါးဟင်းနှင့် မုန့်ဟင်းခါး အနှစ်"
+        },
+        "region": {
+          "en": "Myanmar",
+          "my": "မြန်မာ"
+        },
+        "description": {
+          "en": "Sautéed in cooking oil with garlic, onions, and lemongrass to build the base oil for fish curries and soup broths.",
+          "my": "ငါးဟင်းနှင့် မုန့်ဟင်းခါးအနှစ်အတွက် ဆီသတ်ရာတွင် ကြက်သွန်၊ စပါးလင်တို့နှင့်အတူ အဓိကထည့်သွင်းချက်ပြုတ်သည်။"
+        }
+      },
+      {
+        "dishName": {
+          "en": "Indonesian Nasi Kuning (Yellow Rice)",
+          "my": "အင်ဒိုနီးရှား နာဆီကူနင်း ရွှေဝါထမင်း"
+        },
+        "region": {
+          "en": "Indonesia (Southeast Asia)",
+          "my": "အင်ဒိုနီးရှား (အရှေ့တောင်အာရှ)"
+        },
+        "description": {
+          "en": "Steamed with coconut milk, lemongrass, and freshly grated turmeric juice for festive celebrations.",
+          "my": "အုန်းနို့၊ စပါးလင်နှင့် နနွင်းစိမ်းအရည်တို့ဖြင့် ပွဲလမ်းသဘင်များတွင် ရွှေဝါရောင် မွှေးပျံ့စွာ ချက်ပြုတ်သည်။"
+        }
+      },
+      {
+        "dishName": {
+          "en": "Indian Yellow Dal & Curry Powders",
+          "my": "အိန္ဒိယ ပဲဟင်းနှင့် ဟင်းခတ်အနှစ်"
+        },
+        "region": {
+          "en": "India (South Asia)",
+          "my": "အိန္ဒိယ (တောင်အာရှ)"
+        },
+        "description": {
+          "en": "Essential foundation in everyday lentils (tadka dal) and spice masalas for warmth and color.",
+          "my": "နေ့စဉ် သောက်သုံးသော ပဲဟင်းနှင့် မဆလာအနှစ်များတွင် အရောင်နှင့် ကျန်းမာရေးအတွက် မပါမဖြစ် သုံးစွဲသည်။"
+        }
+      }
+    ],
+    "regionalPreparations": [
+      {
+        "region": {
+          "en": "Southeast Asia (Myanmar & Thailand)",
+          "my": "အရှေ့တောင်အာရှ (မြန်မာနှင့် ထိုင်း)"
+        },
+        "technique": {
+          "en": "Oil Bloom (Sautéing)",
+          "my": "ဆီသတ်ချက်ပြုတ်ခြင်း"
+        },
+        "description": {
+          "en": "Freshly ground turmeric powder is bloomed in hot cooking oil with crushed aromatics to dissolve fat-soluble curcumin.",
+          "my": "နနွင်းမှုန့်ကို ဆီပူတွင် အမွှေးနံ့သာများနှင့်အတူ ရှေ့ဦးစွာ ဆီသတ်၍ အာဟာရဓာတ်များ ထွက်ပေါ်စေသည်။"
+        }
+      },
+      {
+        "region": {
+          "en": "South Asia (India)",
+          "my": "တောင်အာရှ (အိန္ဒိယ)"
+        },
+        "technique": {
+          "en": "Tempering (Tadka / Baghar)",
+          "my": "ဆီကျက်သတ်ခြင်း"
+        },
+        "description": {
+          "en": "Added into hot ghee with mustard seeds and cumin at the end of cooking to pour over cooked lentils.",
+          "my": "ပဲဟင်းကျက်ခါနီးတွင် ထောပတ်ပူပူထဲ နနွင်းနှင့် မုန်ညင်းစေ့ထည့်၍ ဆီကျက်ခတ်သည်။"
+        }
+      }
     ]
   },
   {
@@ -161,6 +239,84 @@
       "turmeric",
       "galangal",
       "lemongrass"
+    ],
+    "whyUsedInCooking": {
+      "en": "Adds sharp, pungent bite, zesty citrus warmth, and enzymatic tenderization to tough meats while stimulating appetite.",
+      "my": "စပ်ရှသော အရသာ၊ လန်းဆန်းသည့် ရနံ့ကိုပေးပြီး အသားများကို နူးညော့စေကာ အစာစားချင်စိတ်ကို နှိုးဆွပေးသည်။"
+    },
+    "dishes": [
+      {
+        "dishName": {
+          "en": "Myanmar Ginger Salad (Gyo Thoke) & Stir-Fries",
+          "my": "မြန်မာ့ဂျင်းသုပ်နှင့် ဂျင်းမျှင်ကြော်"
+        },
+        "region": {
+          "en": "Myanmar",
+          "my": "မြန်မာ"
+        },
+        "description": {
+          "en": "Pickled thin ginger strips tossed with toasted sesame, nuts, and garlic; or stir-fried with chicken.",
+          "my": "ဂျင်းမျှင်နှပ်ကို နှမ်း၊ မြေပဲတို့ဖြင့် အရသာရှိစွာ သုပ်စားခြင်း သို့မဟုတ် ကြက်သားနှင့် ရောကြော်ခြင်း။"
+        }
+      },
+      {
+        "dishName": {
+          "en": "Chinese Hainanese Chicken Rice & Steamed Fish",
+          "my": "တရုတ် ဟိုင်နန်ကြက်ထမင်းနှင့် ငါးပေါင်း"
+        },
+        "region": {
+          "en": "China & East Asia",
+          "my": "တရုတ်နှင့် အရှေ့အာရှ"
+        },
+        "description": {
+          "en": "Finely julienned ginger combined with scallions and hot oil to top delicate steamed seafood.",
+          "my": "ဂျင်းမျှင်ကို ကြက်သွန်မြှောက်၊ ဆီပူတို့ဖြင့် စပ်ယူကာ ပေါင်းထားသော ငါးနှင့် ကြက်သားပေါ် ဆမ်းစားသည်။"
+        }
+      },
+      {
+        "dishName": {
+          "en": "Vietnamese Pho Broth",
+          "my": "ဗီယက်နမ် ဖိုခေါက်ဆွဲဟင်းရည်"
+        },
+        "region": {
+          "en": "Vietnam",
+          "my": "ဗီယက်နမ်"
+        },
+        "description": {
+          "en": "Charred whole ginger knobs simmered with beef bones and star anise for deep aromatic warmth.",
+          "my": "ဂျင်းတက်ကို မီးကင်ပြီး အမဲရိုး၊ ပန်းပွတ်တို့နှင့်အတူ နာရီပေါင်းများစွာ ကျိုချက်ကာ ဟင်းရည်ပြုလုပ်သည်။"
+        }
+      }
+    ],
+    "regionalPreparations": [
+      {
+        "region": {
+          "en": "East Asia (China & Japan)",
+          "my": "အရှေ့အာရှ (တရုတ်နှင့် ဂျပန်)"
+        },
+        "technique": {
+          "en": "Julienning & Pickling",
+          "my": "ပါးပါးမျှင်လှီးခြင်းနှင့် ချဉ်ဖတ်နှပ်ခြင်း"
+        },
+        "description": {
+          "en": "Shredded into paper-thin matches or pickled in rice vinegar (gari) to cleanse the palate between dishes.",
+          "my": "ပါးပါးမျှင်လှီး၍ သို့မဟုတ် ဆန်အရက်ချဉ်ဖြင့် နှပ်၍ အစားအစာတစ်ခုနှင့်တစ်ခု ကြား ခံတွင်းရှင်းစေရန် သုံးသည်။"
+        }
+      },
+      {
+        "region": {
+          "en": "Southeast Asia (Myanmar & Thailand)",
+          "my": "အရှေ့တောင်အာရှ (မြန်မာနှင့် ထိုင်း)"
+        },
+        "technique": {
+          "en": "Pounding Paste Foundation",
+          "my": "ကျောက်ဆုံထောင်း အနှစ်ပြုလုပ်ခြင်း"
+        },
+        "description": {
+          "en": "Pounded with garlic and shallots to create savory base pastes for curries and braises.",
+          "my": "ကြက်သွန်ဖြူ၊ နီတို့နှင့်အတူ ကျောက်ဆုံတွင် ထောင်း၍ ဟင်းချက်အနှစ် ပြုလုပ်သည်။"
+        }
+      }
     ]
   },
   {
@@ -245,6 +401,56 @@
       "lemongrass",
       "rosemary",
       "peppermint"
+    ],
+    "whyUsedInCooking": {
+      "en": "Provides a peppery, clove-like aromatic intensity that balances rich coconut milk and cuts through fatty meats.",
+      "my": "စူးရှမွှေးပျံ့ပြီး လေးညှင်းပွင့်နံ့သန်းသော အရသာဖြင့် အဆီအဆိမ့်ဟင်းလျာများကို မျှတစေပါသည်။"
+    },
+    "dishes": [
+      {
+        "dishName": {
+          "en": "Thai Pad Kra Pao (Spicy Basil Stir-Fry)",
+          "my": "ထိုင်း ဖတ်ကပရော ပင်စိမ်းအစပ်ကြော်"
+        },
+        "region": {
+          "en": "Thailand",
+          "my": "ထိုင်း"
+        },
+        "description": {
+          "en": "Minced pork or chicken flash-fried with garlic, chilies, fish sauce, and generous Holy Basil leaves.",
+          "my": "အသားတုံးငယ်များကို ကြက်သွန်ဖြူ၊ ငရုတ်သီး၊ ပင်စိမ်းရွက်တို့ဖြင့် အပူပြင်းပြင်း ကြော်ချက်သည်။"
+        }
+      },
+      {
+        "dishName": {
+          "en": "Myanmar Country Style Soups (Taw Hin Cho)",
+          "my": "မြန်မာ့တောချက် ပင်စိမ်းဟင်းချို"
+        },
+        "region": {
+          "en": "Myanmar",
+          "my": "မြန်မာ"
+        },
+        "description": {
+          "en": "Fresh holy basil leaves added at the final boil of spicy fish or vegetable broths for a herbal kick.",
+          "my": "ငါးဟင်းချိုနှင့် ဟင်းသီးဟင်းရွက် ဟင်းချိုများ ကျက်ခါနီးတွင် ပင်စိမ်းရွက် ခတ်လိုက်ခြင်း။"
+        }
+      }
+    ],
+    "regionalPreparations": [
+      {
+        "region": {
+          "en": "Southeast Asia (Thailand & Myanmar)",
+          "my": "အရှေ့တောင်အာရှ (ထိုင်းနှင့် မြန်မာ)"
+        },
+        "technique": {
+          "en": "Flash Wilting",
+          "my": "မီးပိတ်ခါနီး ခတ်အုပ်ခြင်း"
+        },
+        "description": {
+          "en": "Leaves are added in the final 30 seconds of high-heat cooking to preserve sweet volatile aromas.",
+          "my": "အမွှေးရနံ့များ မပျောက်ပျက်စေရန် မီးမပိတ်မီ စက္ကန့်ပိုင်းလိုမှ ခတ်အုပ်ပေးသည်။"
+        }
+      }
     ]
   },
   {
@@ -329,6 +535,56 @@
       "thanakha",
       "butterfly-pea",
       "tulsi"
+    ],
+    "whyUsedInCooking": {
+      "en": "Delivers a crisp, jelly-like cooling texture that absorbs sweet syrups and tropical fruit flavors in desserts.",
+      "my": "အေးမြပြီး ကျူးကျူးကြွကြွရှိသော ဂျယ်လီအနှစ်ဖြင့် အမိုအချိုဖျော်ရည်များနှင့် အချိုပွဲများတွင် သုံးစွဲသည်။"
+    },
+    "dishes": [
+      {
+        "dishName": {
+          "en": "Vietnamese Aloe Vera Sweet Soup (Chè Nha Trang)",
+          "my": "ဗီယက်နမ် ရှားစောင်းလက်ပတ် အချိုပွဲ"
+        },
+        "region": {
+          "en": "Vietnam",
+          "my": "ဗီယက်နမ်"
+        },
+        "description": {
+          "en": "Clear aloe gel cubes boiled with pandan leaves and rock sugar served cold over crushed ice.",
+          "my": "ရှားစောင်းအနှစ်တုံးများကို ဆွမ်းမွှေးရွက်၊ သကြားခဲတို့ဖြင့် ကျိုချက်၍ ရေခဲစိမ် အချိုပွဲအဖြစ် သုံးဆောင်သည်။"
+        }
+      },
+      {
+        "dishName": {
+          "en": "Myanmar & Asian Herbal Refreshment Juices",
+          "my": "မြန်မာနှင့် အာရှ ရှားစောင်းလက်ပတ် ဖျော်ရည်"
+        },
+        "region": {
+          "en": "Myanmar & East Asia",
+          "my": "မြန်မာနှင့် အရှေ့အာရှ"
+        },
+        "description": {
+          "en": "Rinsed gel blended with honey, lime juice, or coconut water for a summer cooling beverage.",
+          "my": "အစေးဆေးထားသော အနှစ်ကို ပျားရည်၊ သံပရာရည် သို့မဟုတ် အုန်းရည်တို့ဖြင့် အေးမြစွာ ဖျော်သောက်သည်။"
+        }
+      }
+    ],
+    "regionalPreparations": [
+      {
+        "region": {
+          "en": "Southeast & East Asia",
+          "my": "အရှေ့တောင်အာရှနှင့် အရှေ့အာရှ"
+        },
+        "technique": {
+          "en": "Draining & Blanching Gel Cubes",
+          "my": "အစေးစွန့်ထုတ်ခြင်းနှင့် ရေနွေးဖျောခြင်း"
+        },
+        "description": {
+          "en": "Leaves are drained of bitter yellow latex, cut into translucent cubes, and blanched in boiling water before sweetening.",
+          "my": "အဝါရောင် အစေးခါး စွန့်ထုတ်ပြီး အတုံးတုံးကာ ရေနွေးဖျောပြီးမှ သကြားရည်တွင် စိမ်သည်။"
+        }
+      }
     ]
   },
   {
@@ -411,6 +667,70 @@
       "ginger",
       "tulsi",
       "roselle"
+    ],
+    "whyUsedInCooking": {
+      "en": "Imparts an intense, citrusy-floral fragrance without adding fruit acidity, cutting heavy oils in broths and pastes.",
+      "my": "သံပရာအရသာ အချဉ်မပါဘဲ လန်းဆန်းသော သံပရာရနံ့သင်းစေကာ အဆီများသော ဟင်းရည်များကို ရနံ့မွှေးစေသည်။"
+    },
+    "dishes": [
+      {
+        "dishName": {
+          "en": "Myanmar Mohinga Fish Broth & Catfish Curry",
+          "my": "မြန်မာ့မုန့်ဟင်းခါးနှင့် ငါးခူဟင်း"
+        },
+        "region": {
+          "en": "Myanmar",
+          "my": "မြန်မာ"
+        },
+        "description": {
+          "en": "Crushed stalks simmered in the catfish soup base and pounded into the spice paste.",
+          "my": "မုန့်ဟင်းခါး ငါးစွပ်ပြုတ်နှင့် အနှစ်ထောင်းရာတွင် စပါးလင်ကို အဓိက သုံးစွဲသည်။"
+        }
+      },
+      {
+        "dishName": {
+          "en": "Thai Tom Yum & Tom Kha Soups",
+          "my": "ထိုင်း တုံယမ်းနှင့် တုံခါ အုန်းနို့ဟင်းချို"
+        },
+        "region": {
+          "en": "Thailand",
+          "my": "ထိုင်း"
+        },
+        "description": {
+          "en": "Sliced on the bias and simmered with galangal and kaffir lime leaves for world-famous aromatic broths.",
+          "my": "စပါးလင်၊ ပဒဲကော၊ ရှဲလူသီးရွက်တို့ဖြင့် ကျိုချက်ထားသော ကမ္ဘာကျော် ချဉ်စပ်ဟင်းချို။"
+        }
+      },
+      {
+        "dishName": {
+          "en": "Indonesian Rendang & Balinese Sambal Matah",
+          "my": "အင်ဒိုနီးရှား ရန်ဒန်းနှင့် ဘာလီ ငရုတ်သီးစပါးလင်သုပ်"
+        },
+        "region": {
+          "en": "Indonesia",
+          "my": "အင်ဒိုနီးရှား"
+        },
+        "description": {
+          "en": "Bruised whole stalks tied into knots during slow coconut milk reduction of beef rendang.",
+          "my": "အမဲသား ရန်ဒန်းချက်ရာတွင် စပါးလင်တုံးများကို ခွေ၍ အုန်းနို့ထဲ ထည့်ကျိုသည်။"
+        }
+      }
+    ],
+    "regionalPreparations": [
+      {
+        "region": {
+          "en": "Southeast Asia (Myanmar, Thailand, Vietnam)",
+          "my": "အရှေ့တောင်အာရှ (မြန်မာ၊ ထိုင်း၊ ဗီယက်နမ်)"
+        },
+        "technique": {
+          "en": "Bruising & Fine Mincing",
+          "my": "ထုထောင်းခြင်းနှင့် ပါးပါးစင်းခြင်း"
+        },
+        "description": {
+          "en": "Bruised whole for infusion into soups or micro-minced into curry pastes to release essential citral oils.",
+          "my": "ဟင်းရည်အတွက် ထုထောင်းထည့်ခတ်ခြင်း သို့မဟုတ် အနှစ်အတွက် ညက်ညက်စင်းထောင်းခြင်း။"
+        }
+      }
     ]
   },
   {
@@ -490,6 +810,42 @@
       "aloe-vera",
       "turmeric",
       "neem"
+    ],
+    "whyUsedInCooking": {
+      "en": "Traditionally applied topically during hot cooking work; in rare rural traditions, tiny shavings of authentic bark are used in traditional cooling tea infusions.",
+      "my": "ဟင်းချက်ရာတွင် မျက်နှာ အပူမပြန်စေရန် လိမ်းကျံကြပြီး အချို့ရိုးရာတွင် သနပ်ခါးခေါက်ကို ရေနွေးကြမ်းတွင် အနည်းငယ် ခတ်သောက်ကြသည်။"
+    },
+    "dishes": [
+      {
+        "dishName": {
+          "en": "Myanmar Central Dry Zone Tea Companion",
+          "my": "မြန်မာ့ အလယ်ပိုင်း အပူပိုင်းဒေသ ရိုးရာ ရေနွေးကြမ်း"
+        },
+        "region": {
+          "en": "Myanmar",
+          "my": "မြန်မာ"
+        },
+        "description": {
+          "en": "In dry zone villages, pure bark essence is infused in hot water to cool internal body heat after meals.",
+          "my": "အပူပိုင်းဒေသ ကျေးလက်များတွင် အစားစားပြီးနောက် ကိုယ်တွင်းအပူငြိမ်းစေရန် ရေနွေးထဲ ခတ်သောက်လေ့ရှိသည်။"
+        }
+      }
+    ],
+    "regionalPreparations": [
+      {
+        "region": {
+          "en": "Myanmar",
+          "my": "မြန်မာ"
+        },
+        "technique": {
+          "en": "Stone Grinding (Kyauk Pyin)",
+          "my": "ကျောက်ပြင်တွင် သွေးယူခြင်း"
+        },
+        "description": {
+          "en": "Ground with pure spring water on circular slate stone to extract pristine bark essence.",
+          "my": "ကျောက်ပြင်ပေါ်တွင် ရေကြည်ဖြင့် သွေးယူ၍ အဆီနှင့် အနှစ်ကို ထုတ်ယူသည်။"
+        }
+      }
     ]
   },
   {
@@ -572,6 +928,56 @@
       "moringa",
       "neem",
       "turmeric"
+    ],
+    "whyUsedInCooking": {
+      "en": "Brings a fresh, grassy, slightly bitter herbal taste that pairs wonderfully with nutty, sour, and savory dressings.",
+      "my": "လန်းဆန်းသော အရွက်စိမ်းနံ့၊ ခါးသက်သက်အရသာဖြင့် အခွံမာသီးနှင့် အချဉ်စပ်အသုပ်များတွင် အရသာပေါ်လွင်စေသည်။"
+    },
+    "dishes": [
+      {
+        "dishName": {
+          "en": "Myanmar Pennywort Salad (Myin Kwa Ywet Thoke)",
+          "my": "မြန်မာ့မြင်းခွာရွက်သုပ်"
+        },
+        "region": {
+          "en": "Myanmar",
+          "my": "မြန်မာ"
+        },
+        "description": {
+          "en": "Chopped fresh leaves tossed with roasted peanut powder, sesame seeds, fried garlic oil, and lime.",
+          "my": "မြင်းခွာရွက်ကို ပါးပါးလှီး၍ မြေပဲဆံထောင်း၊ နှမ်း၊ ကြက်သွန်ဖြူဆီချက်၊ သံပရာရည်တို့ဖြင့် နယ်သုပ်ထားသည်။"
+        }
+      },
+      {
+        "dishName": {
+          "en": "Vietnamese Gotu Kola Cold Juice (Rau Má)",
+          "my": "ဗီယက်နမ် မြင်းခွာရွက် အေးဖျော်ရည်"
+        },
+        "region": {
+          "en": "Vietnam",
+          "my": "ဗီယက်နမ်"
+        },
+        "description": {
+          "en": "Blended raw green juice served cold with coconut milk or mung bean paste as a popular street drink.",
+          "my": "မြင်းခွာရွက်စိမ်းကို ကြိတ်၍ အုန်းနို့ သို့မဟုတ် ပဲတီစိမ်းအနှစ်ဖြင့် အေးမြစွာ သောက်သုံးကြသည်။"
+        }
+      }
+    ],
+    "regionalPreparations": [
+      {
+        "region": {
+          "en": "Southeast Asia (Myanmar & Vietnam)",
+          "my": "အရှေ့တောင်အာရှ (မြန်မာနှင့် ဗီယက်နမ်)"
+        },
+        "technique": {
+          "en": "Raw Tossing & Blending",
+          "my": "အစိမ်းသုပ်စားခြင်းနှင့် ရေအေးကြိတ်ခြင်း"
+        },
+        "description": {
+          "en": "Eaten uncooked to preserve heat-sensitive brain-boosting saponins and vitamin C.",
+          "my": "အပူကြောင့် ဗီတာမင်မပျက်စီးစေရန် အစိမ်းအတိုင်း လတ်ဆတ်စွာ သုပ်စား၊ ဖျော်သောက်သည်။"
+        }
+      }
     ]
   },
   {
@@ -654,6 +1060,56 @@
       "pennywort",
       "neem",
       "roselle"
+    ],
+    "whyUsedInCooking": {
+      "en": "Adds a mild spinach-like green flavor and immense protein/nutrient density to everyday household broths and curries.",
+      "my": "ဟင်းနုနွယ်ရွက်နီးပါး ချိုမွှေးသော အရသာဖြင့် နေ့စဉ် ဟင်းချိုနှင့် ဟင်းလျာများတွင် အာဟာရဓာတ် မြှင့်တင်ပေးသည်။"
+    },
+    "dishes": [
+      {
+        "dishName": {
+          "en": "Myanmar Moringa Leaf Soup (Dan Da Lun Ywet Hin Cho)",
+          "my": "မြန်မာ့ဒန့်ဒလွန်ရွက် ဟင်းချို"
+        },
+        "region": {
+          "en": "Myanmar",
+          "my": "မြန်မာ"
+        },
+        "description": {
+          "en": "Tender leaves simmered with dried shrimp, shallots, and black pepper for a light nutritional broth.",
+          "my": "ဒန့်ဒလွန်ရွက်နုများကို ပုစွန်ခြောက်၊ ကြက်သွန်နီ၊ ငရုတ်ကောင်းတို့ဖြင့် ဟင်းချိုချက်သောက်သည်။"
+        }
+      },
+      {
+        "dishName": {
+          "en": "South Indian Sambal & Drumstick Curry",
+          "my": "တောင်အိန္ဒိယ သံဘာပဲဟင်းနှင့် ဒန့်ဒလွန်သီးဟင်း"
+        },
+        "region": {
+          "en": "India (South Asia)",
+          "my": "အိန္ဒိယ (တောင်အာရှ)"
+        },
+        "description": {
+          "en": "Long drumstick pods cooked in tangy tamarind and lentil stew with mustard seeds.",
+          "my": "ဒန့်ဒလွန်သီးကို လက်တစ်ဆစ်ခန့်ဖြတ်၍ မန်ကျည်းမှည့် ပဲဟင်းချိုတွင် ထည့်ချက်သည်။"
+        }
+      }
+    ],
+    "regionalPreparations": [
+      {
+        "region": {
+          "en": "Myanmar & South Asia",
+          "my": "မြန်မာနှင့် တောင်အာရှ"
+        },
+        "technique": {
+          "en": "Quick Boiling & Pod Stewing",
+          "my": "ခဏမျှ ကျိုချက်ခြင်းနှင့် အသီးစチューချက်ခြင်း"
+        },
+        "description": {
+          "en": "Leaves are added at the very end of boiling for 2 minutes to retain bright green color and nutrients.",
+          "my": "အရွက်များကို အာဟာရမပျက်စေရန် ၂ မိနစ်ခန့်သာ ခဏမျှ ကျိုချက်သည်။"
+        }
+      }
     ]
   },
   {
@@ -738,6 +1194,56 @@
       "lemongrass",
       "tamarind",
       "butterfly-pea"
+    ],
+    "whyUsedInCooking": {
+      "en": "Delivers a sharp, fruity crimson sourness that cuts through greasy meats and brightens stir-fries and beverages.",
+      "my": "တောက်ပသော အနီရောင်နှင့် ချဉ်မြမြ အရသာဖြင့် အဆီများသော အသားဟင်းများကို ချဉ်စပ်မွှေးစေသည်။"
+    },
+    "dishes": [
+      {
+        "dishName": {
+          "en": "Myanmar Roselle Sour Fry (Chin Baung Kyaw)",
+          "my": "မြန်မာ့ချဉ်ပေါင်ကြော်"
+        },
+        "region": {
+          "en": "Myanmar",
+          "my": "မြန်မာ"
+        },
+        "description": {
+          "en": "Leaves stir-fried with small shrimp, bamboo shoots, garlic, and fresh chilies—the national staple dish.",
+          "my": "ချဉ်ပေါင်ရွက်ကို ပုစွန်၊ မျှစ်၊ ငရုတ်သီးစိမ်းတို့ဖြင့် စပ်စပ်လေး ကြော်ချက်သော မြန်မာတို့၏ အကြိုက်ဆုံးဟင်း။"
+        }
+      },
+      {
+        "dishName": {
+          "en": "Thai & Pan-Asian Hibiscus Iced Tea (Nam Kra-Jieb)",
+          "my": "ထိုင်းနှင့် အာရှ ချဉ်ပေါင်နီပွင့် အေးဖျော်ရည်"
+        },
+        "region": {
+          "en": "Thailand & Southeast Asia",
+          "my": "ထိုင်းနှင့် အရှေ့တောင်အာရှ"
+        },
+        "description": {
+          "en": "Red calyces boiled with sugar, strained, and served over ice for a classic summer cooler.",
+          "my": "အနီရောင် ပွင့်ဖတ်များကို သကြားဖြင့် ကျို၍ စစ်ယူကာ ရေခဲစိမ် သောက်သုံးသော အပူငြိမ်းဖျော်ရည်။"
+        }
+      }
+    ],
+    "regionalPreparations": [
+      {
+        "region": {
+          "en": "Southeast Asia (Myanmar & Thailand)",
+          "my": "အရှေ့တောင်အာရှ (မြန်မာနှင့် ထိုင်း)"
+        },
+        "technique": {
+          "en": "High-Heat Wok Stir-Fry & Decoction Boiling",
+          "my": "ဒယ်အပူပြင်းပြင်းကြော်ခြင်းနှင့် ပန်းပွင့်ကျိုချက်ခြင်း"
+        },
+        "description": {
+          "en": "Leaves are cooked in oil to release pleasant sour oxalic acids; dried flowers are boiled into vibrant red syrups.",
+          "my": "အရွက်ကို ဆီဖြင့် အပူပြင်းပြင်းကြော်၍ အချဉ်ဓာတ်ထုတ်ယူပြီး ပန်းပွင့်ကို ကျို၍ ဖျော်ရည်လုပ်သည်။"
+        }
+      }
     ]
   },
   {
@@ -820,6 +1326,70 @@
       "ginger",
       "turmeric",
       "lemongrass"
+    ],
+    "whyUsedInCooking": {
+      "en": "Offers a sharp, piney, camphoraceous citrus fragrance superior to ginger for seafood curries and spiced coconut broths.",
+      "my": "ဂျင်းထက် ပိုမိုစူးရှသော ထင်းရှူးနှင့် သံပရာရနံ့ဖြင့် ငါး၊ ပုစွန်နှင့် အုန်းနို့ဟင်းရည်များကို အလွန်မွှေးပျံ့စေသည်။"
+    },
+    "dishes": [
+      {
+        "dishName": {
+          "en": "Thai Tom Kha Gai (Chicken Galangal Coconut Soup)",
+          "my": "ထိုင်း တုံခါဂိုင်း ကြက်သား ပဒဲကော အုန်းနို့ဟင်းချို"
+        },
+        "region": {
+          "en": "Thailand",
+          "my": "ထိုင်း"
+        },
+        "description": {
+          "en": "Sliced galangal root simmered in silky coconut milk with chicken, lemongrass, and lime juice.",
+          "my": "ပဒဲကောဥပြားကို အုန်းနို့၊ ကြက်သား၊ စပါးလင်တို့ဖြင့် စိမ့်ချိုစွာ ကျိုချက်ထားသော ဟင်းချို။"
+        }
+      },
+      {
+        "dishName": {
+          "en": "Indonesian Beef Rendang & Spice Pastes (Bumbu)",
+          "my": "အင်ဒိုနီးရှား အမဲသား ရန်ဒန်းနှင့် ဟင်းခတ်အနှစ်"
+        },
+        "region": {
+          "en": "Indonesia & Malaysia",
+          "my": "အင်ဒိုနီးရှားနှင့် မလေးရှား"
+        },
+        "description": {
+          "en": "Essential component in pounded bumbu spice pastes for rich caramelized meat stews.",
+          "my": "အမဲသား ရန်ဒန်း ဟင်းခတ်အနှစ် ထောင်းရာတွင် မပါမဖြစ် ပါဝင်သော အမွှေးနံ့သာဥ။"
+        }
+      },
+      {
+        "dishName": {
+          "en": "Myanmar Traditional Herbal Curry Pastes",
+          "my": "မြန်မာ့ရိုးရာ တိုင်းရင်းဆေးဖက်ဝင် ဟင်းခတ်အနှစ်"
+        },
+        "region": {
+          "en": "Myanmar",
+          "my": "မြန်မာ"
+        },
+        "description": {
+          "en": "Pounded into aromatic pastes for river fish marinades and digestive poultry curries.",
+          "my": "ငါးနှင့် ကြက်သားဟင်းများတွင် အညှီနံ့ပျောက်၍ လေကြေစေရန် ထုထောင်းထည့်ချက်သည်။"
+        }
+      }
+    ],
+    "regionalPreparations": [
+      {
+        "region": {
+          "en": "Southeast Asia (Thailand, Indonesia, Myanmar)",
+          "my": "အရှေ့တောင်အာရှ (ထိုင်း၊ အင်ဒိုနီးရှား၊ မြန်မာ)"
+        },
+        "technique": {
+          "en": "Slicing Thick Disks & Wet Mortar Pounding",
+          "my": "ပါးပါးလှီးခြင်းနှင့် ညက်ညက်ထောင်းခြင်း"
+        },
+        "description": {
+          "en": "Sliced into tough woody coins for soup infusion, or ground in stone mortars for curry pastes.",
+          "my": "ဟင်းရည်အတွက် ပါးပါးလှီးထည့်ခြင်း သို့မဟုတ် အနှစ်အတွက် ကျောက်ဆုံတွင် ညက်အောင်ထောင်းခြင်း။"
+        }
+      }
     ]
   },
   {
@@ -904,6 +1474,56 @@
       "turmeric",
       "thanakha",
       "pennywort"
+    ],
+    "whyUsedInCooking": {
+      "en": "Imparts a sharp, intense medicinal bitterness that cleanses the palate, stimulates digestive enzymes, and cools liver heat.",
+      "my": "အလွန်ခါးသော အရသာဖြင့် ခံတွင်းသန့်စေပြီး အစာခြေအင်ဇိုင်းများကို နှိုးဆွပေးကာ အသည်းအပူကို ငြိမ်းစေသည်။"
+    },
+    "dishes": [
+      {
+        "dishName": {
+          "en": "Myanmar Blanched Neem Dip (Ta Mar Ywet Pyoke & Ngapi)",
+          "my": "မြန်မာ့တမာရွက်ပြုတ် တို့စရာနှင့် ငါးပိရည်"
+        },
+        "region": {
+          "en": "Myanmar",
+          "my": "မြန်မာ"
+        },
+        "description": {
+          "en": "Tender spring leaves and young blossoms double-blanched in water and eaten with spicy fermented fish dip.",
+          "my": "တမာရွက်နုနှင့် တမာပွင့်ကို ရေနွေး နှစ်ခါဖျော၍ ငါးပိရည်၊ ငရုတ်သီးတို့ဖြင့် တို့စားသည်။"
+        }
+      },
+      {
+        "dishName": {
+          "en": "Indian Tamil Veepampoo Rasam (Neem Flower Soup)",
+          "my": "အိန္ဒိယ တမီးလ် တမာပွင့် ဟင်းချို"
+        },
+        "region": {
+          "en": "India (South Asia)",
+          "my": "အိန္ဒိယ (တောင်အာရှ)"
+        },
+        "description": {
+          "en": "Dried neem flowers toasted in ghee and added to tangy tamarind pepper broth for New Year vitality.",
+          "my": "တမာပွင့်ခြောက်ကို ထောပတ်ဖြင့် လှော်၍ မန်ကျည်းမှည့် ငရုတ်ကောင်း ဟင်းချိုထဲ ခတ်သောက်ကြသည်။"
+        }
+      }
+    ],
+    "regionalPreparations": [
+      {
+        "region": {
+          "en": "Myanmar & South Asia",
+          "my": "မြန်မာနှင့် တောင်အာရှ"
+        },
+        "technique": {
+          "en": "Double Blanching & Ghee Toasting",
+          "my": "ရေနွေးနှစ်ခါဖျောခြင်းနှင့် ထောပတ်လှော်ခြင်း"
+        },
+        "description": {
+          "en": "Boiled in water twice to soften overwhelming bitterness before dipping, or toasted lightly in fats.",
+          "my": "ခါးလွန်းသော အခါးဓာတ်ကို လျှော့ချရန် ရေနွေးဖြင့် နှစ်ကြိမ်ဖျောပြီးမှ သုံးဆောင်သည်။"
+        }
+      }
     ]
   },
   {
@@ -986,6 +1606,56 @@
       "ginger",
       "turmeric",
       "cinnamon"
+    ],
+    "whyUsedInCooking": {
+      "en": "Releases pungent, savory, and caramelized allicin compounds that form the umami backbone of Asian cooking.",
+      "my": "စူးရှမွှေးပျံ့သော အယ်လီစင်ဓာတ်ဖြင့် အာရှဟင်းလျာများ၏ အရသာ အခြေခံအနှစ်ကို ဖန်တီးပေးသည်။"
+    },
+    "dishes": [
+      {
+        "dishName": {
+          "en": "Myanmar Fried Garlic Crisp & Garlic Oil (Kyat Thwon Phyu Seachwet)",
+          "my": "မြန်မာ့ကြက်သွန်ဖြူ ကြော်နှင့် ဆီချက်"
+        },
+        "region": {
+          "en": "Myanmar",
+          "my": "မြန်မာ"
+        },
+        "description": {
+          "en": "Golden crisp sliced garlic and its infused oil drizzled over Shan noodles, salads, and Mohinga.",
+          "my": "ကြက်သွန်ဖြူနီကြော်နှင့် ဆီချက်ကို ရှမ်းခေါက်ဆွဲ၊ အသုပ်များနှင့် မုန့်ဟင်းခါးပေါ် ဆမ်းစားသည်။"
+        }
+      },
+      {
+        "dishName": {
+          "en": "Pan-Asian Stir-Fries & Curry Pastes",
+          "my": "အာရှတစ်လွှား ဟင်းသီးဟင်းရွက်ကြော်နှင့် ဟင်းချက်အနှစ်"
+        },
+        "region": {
+          "en": "Across All Asia",
+          "my": "အာရှတစ်လွှား"
+        },
+        "description": {
+          "en": "Crushed cloves browned in hot wok oil as the first mandatory step for stir-fried greens and curries.",
+          "my": "ဟင်းသီးဟင်းရွက်ကြော်နှင့် ဟင်းချက်ရာတွင် ဆီပူထဲ ပထမဆုံး ဆီသတ်ရသော မရှိမဖြစ် ဟင်းခတ်။"
+        }
+      }
+    ],
+    "regionalPreparations": [
+      {
+        "region": {
+          "en": "Across Asia",
+          "my": "အာရှတစ်လွှား"
+        },
+        "technique": {
+          "en": "Crushing, Mincing & Oil Crisping",
+          "my": "ဖိထုခြင်း၊ စင်းခြင်းနှင့် ဆီချက်ကြော်ခြင်း"
+        },
+        "description": {
+          "en": "Crushed flat to generate active allicin enzyme, then fried gently to sweet golden crispness.",
+          "my": "အကျိုးပြုဓာတ်များ ထွက်လာစေရန် ဓားပြားဖြင့် ထုပြီးမှ ဆီအေးအေးဖြင့် ရွှေဝါရောင် ကြော်ယူသည်။"
+        }
+      }
     ]
   },
   {
@@ -1070,6 +1740,70 @@
       "roselle",
       "garlic",
       "ginger"
+    ],
+    "whyUsedInCooking": {
+      "en": "Delivers a rich, tart, slightly sweet sourness with natural pectin that thickens stews and balances spicy dishes.",
+      "my": "ချိုချဉ်အရသာနှင့် သဘာဝပက်တင်ဓာတ်ဖြင့် ဟင်းရည်များကို ပျစ်စေပြီး အစပ်အရသာကို ထိန်းညှိပေးသည်။"
+    },
+    "dishes": [
+      {
+        "dishName": {
+          "en": "Myanmar Tamarind Fish Curry & Sour Leaf Soup (Magyi Ywet Hin Cho)",
+          "my": "မြန်မာ့မန်ကျည်းမှည့် ငါးဟင်းနှင့် မန်ကျည်းရွက်ဟင်းချို"
+        },
+        "region": {
+          "en": "Myanmar",
+          "my": "မြန်မာ"
+        },
+        "description": {
+          "en": "Aged sour pulp simmered in rich fish curries, and fresh spring leaves boiled in sour country broths.",
+          "my": "ငါးဟင်းတွင် မန်ကျည်းမှည့်အနှစ် ထည့်ချက်ပြီး မန်ကျည်းရွက်နုကို ဟင်းချို ချဉ်ချဉ်လေး ခတ်ချက်သည်။"
+        }
+      },
+      {
+        "dishName": {
+          "en": "Thai Pad Thai & Tom Yum",
+          "my": "ထိုင်း ဖတ်ထိုင်း ခေါက်ဆွဲကြော်"
+        },
+        "region": {
+          "en": "Thailand",
+          "my": "ထိုင်း"
+        },
+        "description": {
+          "en": "Tamarind paste cooked with palm sugar and fish sauce creates the signature tangy sauce of Pad Thai.",
+          "my": "မန်ကျည်းမှည့်အနှစ်ကို ထန်းလျက်၊ ငါးငံပြာရည်တို့ဖြင့် ကျို၍ ဖတ်ထိုင်းခေါက်ဆွဲဆော့စ် ပြုလုပ်သည်။"
+        }
+      },
+      {
+        "dishName": {
+          "en": "South Indian Sambhar & Sinigang Sour Soup",
+          "my": "တောင်အိန္ဒိယ သံဘာပဲဟင်းနှင့် ဖိလစ်ပိုင် ဆီနီဂန်းဟင်းချို"
+        },
+        "region": {
+          "en": "India & Philippines",
+          "my": "အိန္ဒိယနှင့် ဖိလစ်ပိုင်"
+        },
+        "description": {
+          "en": "Pulp water forms the foundational souring broth for lentil stews and seafood soups.",
+          "my": "ပဲဟင်းနှင့် ပင်လယ်စာ ဟင်းချိုများတွင် အဓိက အချဉ်ရည်အဖြစ် မန်ကျည်းမှည့် ရေစိမ်အနှစ်ကို သုံးသည်။"
+        }
+      }
+    ],
+    "regionalPreparations": [
+      {
+        "region": {
+          "en": "Across South & Southeast Asia",
+          "my": "တောင်အာရှနှင့် အရှေ့တောင်အာရှ"
+        },
+        "technique": {
+          "en": "Soaking, Mashing & Straining Pulp",
+          "my": "ရေစိမ်ခြင်း၊ ချေမွှခြင်းနှင့် ဇကာစစ်ခြင်း"
+        },
+        "description": {
+          "en": "Aged sticky fruit pulp is soaked in warm water, kneaded by hand, and strained to yield pure sour liquid.",
+          "my": "မန်ကျည်းမှည့်အနှစ်ကို ရေနွေးတွင် စိမ်၊ လက်ဖြင့်ချေပြီး ဇကာစစ်၍ အချဉ်ရည် ယူသည်။"
+        }
+      }
     ]
   },
   {
@@ -1154,6 +1888,42 @@
       "peppermint",
       "lemongrass",
       "tulsi"
+    ],
+    "whyUsedInCooking": {
+      "en": "Imparts a delicate, apple-like sweet floral aroma that softens warm dessert poached fruits and herbal teas.",
+      "my": "ပန်းသီးနံ့သန်းသော သင်းပျံ့သည့် အပွင့်ရနံ့ဖြင့် အချိုပွဲများနှင့် ဆေးဖက်ဝင် ရေနွေးကြမ်းများကို မွှေးပျံ့စေသည်။"
+    },
+    "dishes": [
+      {
+        "dishName": {
+          "en": "Asian Herbal Evening Tisanes & Honey Infusions",
+          "my": "အာရှ ရိုးရာ အိပ်ရာဝင် ကမိုမိုင်းလ်နှင့် ပျားရည် ရေနွေးကြမ်း"
+        },
+        "region": {
+          "en": "Pan-Asian",
+          "my": "အာရှတစ်လွှား"
+        },
+        "description": {
+          "en": "Steeped blossoms combined with wild honey and wolfberries for a soothing bedtime drink.",
+          "my": "ကမိုမိုင်းလ် ပန်းပွင့်ခြောက်ကို ပျားရည်စစ်စစ်ဖြင့် နှပ်၍ ညဘက် သောက်သုံးသော ရေနွေးကြမ်း။"
+        }
+      }
+    ],
+    "regionalPreparations": [
+      {
+        "region": {
+          "en": "Global & Asian Tea Culture",
+          "my": "အာရှနှင့် ကမ္ဘာ့ လက်ဖက်ရည် ယဉ်ကျေးမှု"
+        },
+        "technique": {
+          "en": "Covered Pot Infusion",
+          "my": "အဖုံးအုပ်၍ နှပ်သောက်ခြင်း"
+        },
+        "description": {
+          "en": "Steeped in hot water (not boiling) under a tight lid to preserve sweet floral aromatic oils.",
+          "my": "ပန်းရနံ့များ မပျောက်စေရန် ဆူခါနီး ရေနွေးတွင် အဖုံးလုံအောင် အုပ်၍ နှပ်သောက်သည်။"
+        }
+      }
     ]
   },
   {
@@ -1238,6 +2008,56 @@
       "chamomile",
       "lemongrass",
       "rosemary"
+    ],
+    "whyUsedInCooking": {
+      "en": "Delivers an icy, refreshing menthol cooling pop that lifts cold summer salads, drinks, and spicy noodle toppings.",
+      "my": "အေးမြဆန်းသစ်သော မင်သော်ရနံ့ဖြင့် အသုပ်များ၊ အေးဖျော်ရည်များနှင့် အစပ်ခေါက်ဆွဲများတွင် လန်းဆန်းစေသည်။"
+    },
+    "dishes": [
+      {
+        "dishName": {
+          "en": "Vietnamese Pho & Fresh Spring Roll Herb Platter (Rau Thơm)",
+          "my": "ဗီယက်နမ် ဖိုခေါက်ဆွဲနှင့် နွေဦးလိပ် အသုတ်ရွက်"
+        },
+        "region": {
+          "en": "Vietnam",
+          "my": "ဗီယက်နမ်"
+        },
+        "description": {
+          "en": "Fresh sprigs served raw on herb platters alongside rice noodles and hot broths.",
+          "my": "လတ်ဆတ်သော ပူဒီနာရွက်ကို ခေါက်ဆွဲဟင်းရည်နှင့် အသုပ်လိပ်များနှင့်အတူ အစိမ်း တို့စားသည်။"
+        }
+      },
+      {
+        "dishName": {
+          "en": "Myanmar Fresh Cucumber & Meat Salads",
+          "my": "မြန်မာ့သခွားသီးသုပ်နှင့် အသားသုပ်များ"
+        },
+        "region": {
+          "en": "Myanmar",
+          "my": "မြန်မာ"
+        },
+        "description": {
+          "en": "Chopped mint leaves tossed into minced duck, chicken, or cucumber salads for herbal freshness.",
+          "my": "သခွားသီးသုပ်၊ ကြက်သားသုပ်နှင့် ဘဲသားသုပ်များတွင် လတ်ဆတ်သော ပူဒီနာရွက် ခတ်သုပ်သည်။"
+        }
+      }
+    ],
+    "regionalPreparations": [
+      {
+        "region": {
+          "en": "Southeast Asia",
+          "my": "အရှေ့တောင်အာရှ"
+        },
+        "technique": {
+          "en": "Raw Plucking & Chiffonade",
+          "my": "လတ်ဆတ်စွာ ခြွေယူခြင်းနှင့် ပါးပါးလှီးခြင်း"
+        },
+        "description": {
+          "en": "Plucked fresh at table or finely hand-torn right before serving to avoid bruising leaves.",
+          "my": "အရွက်များ မညှိုးစေရန် စားခါနီးမှ လက်ဖြင့် ချေဖျက်၍ သို့မဟုတ် ပါးပါးလှီး၍ ခတ်စားသည်။"
+        }
+      }
     ]
   },
   {
@@ -1322,6 +2142,42 @@
       "tulsi",
       "peppermint",
       "cinnamon"
+    ],
+    "whyUsedInCooking": {
+      "en": "Provides a robust, piney, resinous aroma that infuses deeply into roasted meats, oils, and root vegetables.",
+      "my": "စူးရှသော ထင်းရှူးရနံ့ဖြင့် အသားကင်များ၊ အာလူးကင်များနှင့် ဆီချက်များကို အလွန်မွှေးပျံ့စေသည်။"
+    },
+    "dishes": [
+      {
+        "dishName": {
+          "en": "Asian Fusion Roasted Meats & Garlic Potatoes",
+          "my": "အာရှ စတိုင် အသားကင်နှင့် အာလူးကင်"
+        },
+        "region": {
+          "en": "Pan-Asian Modern Cuisine",
+          "my": "ခေတ်မီ အာရှ ဟင်းလျာများ"
+        },
+        "description": {
+          "en": "Fresh sprigs roasted with garlic cloves, olive oil, and butter over lamb, poultry, or potatoes.",
+          "my": "ရိုစမေရီခက်ကို ကြက်သွန်ဖြူ၊ ဆီ၊ ထောပတ်တို့ဖြင့် အသားနှင့် အာလူးကင်များတွင် ထည့်ကင်သည်။"
+        }
+      }
+    ],
+    "regionalPreparations": [
+      {
+        "region": {
+          "en": "Global & Modern Asian",
+          "my": "ခေတ်မီ အာရှမီးဖိုချောင်"
+        },
+        "technique": {
+          "en": "Fat Basting & Searing",
+          "my": "ဆီ/ထောပတ် လောင်းကင်ခြင်း"
+        },
+        "description": {
+          "en": "Sautéed in sizzling hot butter or oil to infuse fat-soluble aromatic camphoraceous compounds.",
+          "my": "ထောပတ်ပူပူထဲ ရိုစမေရီခက်ထည့်၍ အသားပေါ် ဆမ်းကာ အနံ့မွှေးအောင် ပြုလုပ်သည်။"
+        }
+      }
     ]
   },
   {
@@ -1401,6 +2257,42 @@
       "ginger",
       "tulsi",
       "turmeric"
+    ],
+    "whyUsedInCooking": {
+      "en": "Carries a slightly earthy, tongue-tingling botanical profile used primarily in restorative herbal broths and tisanes.",
+      "my": "မြေနံ့သင်းပြီး လျှာပေါ်စပ်ဖျဉ်းဖျဉ်းဖြစ်စေသော အာနိသင်ဖြင့် ကိုယ်ခံအားတိုး ရေနွေးကြမ်းနှင့် ဟင်းရည်များတွင် သုံးသည်။"
+    },
+    "dishes": [
+      {
+        "dishName": {
+          "en": "Immune Restorative Herbal Broth & Honey Teas",
+          "my": "ကိုယ်ခံအားမြှင့် ရိုးရာ ဆေးဖက်ဝင် ဟင်းရည်နှင့် ရေနွေးကြမ်း"
+        },
+        "region": {
+          "en": "Modern Asian Herbalism",
+          "my": "ခေတ်မီ အာရှ တိုင်းရင်းဆေး"
+        },
+        "description": {
+          "en": "Dried roots and aerial parts simmered into warming tonic teas sweetened with raw honey.",
+          "my": "အီခီနေးရှား အမြစ်ခြောက်ကို ရေနွေးဖြင့် ကျို၍ ပျားရည်ထည့်ကာ သောက်သုံးသော အာဟာရရေနွေးကြမ်း။"
+        }
+      }
+    ],
+    "regionalPreparations": [
+      {
+        "region": {
+          "en": "Herbal Medicine & Teas",
+          "my": "တိုင်းရင်းဆေးနှင့် ရေနွေးကြမ်း"
+        },
+        "technique": {
+          "en": "Decoction Simmering",
+          "my": "ရေနွေးနွေးဖြင့် ကျိုချက်ခြင်း"
+        },
+        "description": {
+          "en": "Roots are simmered slowly for 12 minutes to extract immune-active alkylamides.",
+          "my": "အကျိုးပြု ဓာတ်ပေါင်းများ ထွက်ပေါ်လာစေရန် အမြစ်ကို မီးအေးအေးဖြင့် ၁၂ မိနစ် ကျိုချက်သည်။"
+        }
+      }
     ]
   },
   {
@@ -1478,6 +2370,56 @@
       "ginger",
       "garlic",
       "turmeric"
+    ],
+    "whyUsedInCooking": {
+      "en": "Imparts a sweet, woody, warming aromatic spice note that elevates meat curries, savory stews, and spiced drinks.",
+      "my": "ချိုမြိန်ပြီး ပူနွေးသောအနံ့ဖြင့် အသားဟင်းများ၊ အကင်များနှင့် လက်ဖက်ရည်များကို အလွန်မွှေးပျံ့စေသည်။"
+    },
+    "dishes": [
+      {
+        "dishName": {
+          "en": "Myanmar Beef & Mutton Stews, Spiced Masala Rice",
+          "my": "မြန်မာ့အမဲဟင်း၊ ဆိတ်သားဟင်းနှင့် ဒန်ပေါက်"
+        },
+        "region": {
+          "en": "Myanmar",
+          "my": "မြန်မာ"
+        },
+        "description": {
+          "en": "Whole bark quills cooked with cardamom and cloves in rich, fragrant meat curries and Danbauk biryani.",
+          "my": "သစ်ကြံပိုးခေါက်၊ ဖာလာ၊ လေးညှင်းတို့ဖြင့် အမဲသား၊ ဆိတ်သားဟင်းနှင့် ဒန်ပေါက်တွင် ထည့်ချက်သည်။"
+        }
+      },
+      {
+        "dishName": {
+          "en": "Vietnamese Pho & Chinese Five-Spice Powder",
+          "my": "ဗီယက်နမ် ဖိုခေါက်ဆွဲနှင့် တရုတ် ငါးမျိုးစပ် မဆလာ"
+        },
+        "region": {
+          "en": "Vietnam & China",
+          "my": "ဗီယက်နမ်နှင့် တရုတ်"
+        },
+        "description": {
+          "en": "A essential pillar of Pho beef broth and roasted pork char siu seasoning blends.",
+          "my": "ဖို အမဲရိုးဟင်းရည်နှင့် တရုတ် အသားကင် မဆလာအနှစ်များတွင် အဓိက ပါဝင်သည်။"
+        }
+      }
+    ],
+    "regionalPreparations": [
+      {
+        "region": {
+          "en": "Across Asia",
+          "my": "အာရှတစ်လွှား"
+        },
+        "technique": {
+          "en": "Whole Quill Frying & Powder Dusting",
+          "my": "အခေါက်အတုံး ဆီသတ်ခြင်းနှင့် အမှုန့်ဖြူးခြင်း"
+        },
+        "description": {
+          "en": "Whole inner quills are bloomed in hot ghee/oil at the start of cooking, or dusted finely into desserts.",
+          "my": "သစ်ကြံပိုးခေါက် အလိပ်ကို ဟင်းချက်စတွင် ဆီပူထဲ ခတ်အုပ်၍ အနံ့ဆွဲထုတ်သည်။"
+        }
+      }
     ]
   },
   {
@@ -1555,6 +2497,56 @@
       "ginger",
       "garlic",
       "lemongrass"
+    ],
+    "whyUsedInCooking": {
+      "en": "Fresh leaves supply a bright, citrusy-herbal pop; dried warm ground seeds provide an earthy, sweet nutty backbone.",
+      "my": "အရွက်စိမ်းက လန်းဆန်းသော ရနံ့ပေးပြီး အစေ့ခြောက်က ချိုမွှေးသည့် မြေနံ့အနှစ်ကို ပေးစွမ်းသည်။"
+    },
+    "dishes": [
+      {
+        "dishName": {
+          "en": "Myanmar Mohinga, Shan Noodles & Salad Garnish",
+          "my": "မြန်မာ့မုန့်ဟင်းခါး၊ ရှမ်းခေါက်ဆွဲနှင့် အသုပ်များ"
+        },
+        "region": {
+          "en": "Myanmar",
+          "my": "မြန်မာ"
+        },
+        "description": {
+          "en": "Chipped fresh coriander leaves sprinkled over noodle bowls; pounded seeds in curry pastes.",
+          "my": "နံနံပင်လတ်လတ်ဆတ်ဆတ်ကို မုန့်ဟင်းခါးနှင့် ခေါက်ဆွဲပေါ် ဖြူးစားပြီး နံနံစေ့ကို ဟင်းအနှစ်တွင် ထောင်းထည့်သည်။"
+        }
+      },
+      {
+        "dishName": {
+          "en": "Indian Masala Curries & Thai Green Curry Paste",
+          "my": "အိန္ဒိယ မဆလာဟင်းများနှင့် ထိုင်း အစိမ်းရောင် ဟင်းအနှစ်"
+        },
+        "region": {
+          "en": "India & Thailand",
+          "my": "အိန္ဒိယနှင့် ထိုင်း"
+        },
+        "description": {
+          "en": "Toasted coriander seeds ground as the primary volumetric spice in Indian garam masalas.",
+          "my": "နံနံစေ့ လှော်ပြီး ကြိတ်ထားသော အမှုန့်ကို မဆလာဟင်းနှင့် ဟင်းအနှစ်များတွင် အဓိက သုံးသည်။"
+        }
+      }
+    ],
+    "regionalPreparations": [
+      {
+        "region": {
+          "en": "Across Asia",
+          "my": "အာရှတစ်လွှား"
+        },
+        "technique": {
+          "en": "Dry-Toasting Seeds & Raw Leaf Garnishing",
+          "my": "နံနံစေ့ အပူလှော်ခြင်းနှင့် အရွက်စိမ်းဖြူးခြင်း"
+        },
+        "description": {
+          "en": "Whole seeds are dry-roasted in a pan before grinding; fresh tender leaves are added strictly unboiled.",
+          "my": "နံနံစေ့ကို ဒယ်အိုးတွင် မကြိတ်မီ လှော်ပေးပြီး အရွက်စိမ်းကို မပြုတ်ဘဲ အစိမ်း ဖြူးစားသည်။"
+        }
+      }
     ]
   },
   {
@@ -1632,6 +2624,56 @@
       "aloe-vera",
       "roselle",
       "lemongrass"
+    ],
+    "whyUsedInCooking": {
+      "en": "Acts as Asia’s signature natural royal-blue and indigo food dye, transforming rice, drinks, and glutinous sweets into visual masterpieces.",
+      "my": "အာရှ၏ သဘာဝ အပြာရောင်နှင့် ခရမ်းရောင် ဆိုးဆေးဖြစ်ပြီး ထမင်း၊ အချိုပွဲများနှင့် ဖျော်ရည်များကို လှပစေသည်။"
+    },
+    "dishes": [
+      {
+        "dishName": {
+          "en": "Malaysian Nasi Kerabu (Blue Rice)",
+          "my": "မလေးရှား နာဆီ ကာရာဘူ အပြာရောင်ထမင်း"
+        },
+        "region": {
+          "en": "Malaysia & Thailand",
+          "my": "မလေးရှားနှင့် ထိုင်း"
+        },
+        "description": {
+          "en": "Rice steamed with blue flower water served with fresh herbs, toasted coconut, and fried fish.",
+          "my": "အောင်မဲညို ပန်းပြုတ်ရည် အပြာရောင်ဖြင့် ချက်ထားသော ထမင်းကို အသုပ်ရွက်များနှင့် တွဲဖက်စားသုံးသည်။"
+        }
+      },
+      {
+        "dishName": {
+          "en": "Myanmar & Thai Color-Changing Sapphire Teas & Sticky Rice",
+          "my": "မြန်မာနှင့် ထိုင်း အောင်မဲညို ရေနွေးကြမ်းနှင့် ကောက်ညှင်း"
+        },
+        "region": {
+          "en": "Myanmar & Thailand",
+          "my": "မြန်မာနှင့် ထိုင်း"
+        },
+        "description": {
+          "en": "Blue tea turns vibrant purple with a squeeze of lime; blue glutinous rice cakes cooked with coconut.",
+          "my": "သံပရာရည် ညှစ်လိုက်ပါက အပြာမှ ခရမ်းရောင်သို့ ပြောင်းသော ရေနွေးကြမ်းနှင့် အပြာရောင် ကောက်ညှင်းမုန့်။"
+        }
+      }
+    ],
+    "regionalPreparations": [
+      {
+        "region": {
+          "en": "Southeast Asia",
+          "my": "အရှေ့တောင်အာရှ"
+        },
+        "technique": {
+          "en": "Hot Water Extraction & Citrus pH Color Shift",
+          "my": "ရေနွေးဖြင့် စိမ်ယူခြင်းနှင့် သံပရာရည် အရောင်ပြောင်းခြင်း"
+        },
+        "description": {
+          "en": "Steeped in hot water to extract deep indigo anthocyanins; lime is added to trigger a magically vibrant purple shift.",
+          "my": "ရေနွေးတွင် အပြာရောင် ထွက်အောင် နှပ်ယူပြီး သံပရာရည် ညှစ်ကာ ခရမ်းရောင် ပြောင်းစေသည်။"
+        }
+      }
     ]
   }
 ]
