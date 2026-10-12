@@ -1,0 +1,1637 @@
+[
+  {
+    "id": "turmeric",
+    "slug": "turmeric",
+    "name": {
+      "en": "Turmeric",
+      "my": "နနွင်း"
+    },
+    "scientificName": "Curcuma longa",
+    "category": "medicinal",
+    "image": "/src/assets/images/turmeric.webp",
+    "imageCredit": "Photo by Tamanna Rumee on Unsplash (Free License)",
+    "description": {
+      "en": "A flowering perennial of the ginger family renowned for its deep golden-orange rhizome. (Source: Traditional Pharmacopoeia & Phytotherapy Monograph) Recognized for bioactive curcuminoids supporting inflammatory balance and cellular defense.",
+      "my": "ချင်း (ဂျင်း) မျိုးရင်းဝင် ရွှေဝါရောင်မြေအောက် ပင်စည်ဥပင် ဖြစ်ပါသည်။ (ရင်းမြစ် - ရိုးရာတိုင်းရင်းဆေးကျမ်းနှင့် ရုက္ခဗေဒမိုနိုဂရပ်) ရောင်ရမ်းမှုကျဆင်းစေခြင်းနှင့် ဆဲလ်များကို ကာကွယ်ပေးသော ကာကူမင်ဒြပ်ပေါင်း ကြွယ်ဝစွာပါဝင်ပါသည်။"
+    },
+    "whereItGrows": {
+      "en": "Native to tropical South Asia and Southeast Asia. Widely cultivated in fertile plains and homestead gardens across Myanmar and India.",
+      "my": "တောင်အာရှနှင့် အရှေ့တောင်အာရှ အပူပိုင်းဒေသများတွင် မူလပေါက်ရောက်သည်။ မြန်မာနိုင်ငံနှင့် အိန္ဒိယတစ်လွှား မြေဆွေးမြေကောင်းသော ဥယျာဉ်ခြံများတွင် အများအပြား စိုက်ပျိုးကြသည်။"
+    },
+    "partsUsed": {
+      "en": "Rhizome (underground rootstock), fresh or dried and stone-ground into pure golden powder",
+      "my": "မြေအောက်ပင်စည်ဥ (နနွင်းတက်)၊ လတ်ဆတ်သောဥ သို့မဟုတ် အခြောက်လှန်း ကျောက်ပြင်သွေး/ကြိတ်ခွဲထားသော နနွင်းမှုန့်"
+    },
+    "benefits": [
+      {
+        "en": "Traditional use: Eases musculoskeletal stiffness and supports chronic joint comfort.",
+        "my": "ရိုးရာသုံးစွဲမှု - အဆစ်အမြစ်တောင့်တင်းခြင်းကို လျှော့ချပေးပြီး အရိုးအဆစ်လှုပ်ရှားမှုကို သက်သာစေပါသည်။"
+      },
+      {
+        "en": "Traditional use: Enhances digestive bile secretion and soothes abdominal discomfort.",
+        "my": "ရိုးရာသုံးစွဲမှု - အစာကြေသည်းခြေရည်ထွက်ရှိမှုကို ကူညီပြီး ဗိုက်ကယ်ဗိုက်အောင့်ခြင်းကို သက်သာစေပါသည်။"
+      },
+      {
+        "en": "Traditional topical use: Applied as a cooling antiseptic paste for minor scratches and skin glow.",
+        "my": "ရိုးရာလိမ်းဆေးသုံးစွဲမှု - အသားအရေကြည်လင်စေပြီး ဒဏ်ရာငယ်များကို ပိုးသတ်အနာကျက်စေရန် လိမ်းကျံကြသည်။"
+      }
+    ],
+    "howToUse": [
+      {
+        "method": "tea",
+        "en": "Golden Milk: Simmer 1/2 tsp pure turmeric powder in 200ml warm milk with a pinch of black pepper (piperine enhances curcumin absorption).",
+        "my": "နနွင်းနို့နွေးနွေး - နနွင်းစစ်စစ်မှုန့် လက်ဖက်ရည်ဇွန်းတစ်ဝက်ကို နို့နွေးနွေး ၂၀၀ မီလီလီတာနှင့် ငရုတ်ကောင်းမှုန့်အနည်းငယ်ရော၍ ကျိုသောက်ပါ။"
+      },
+      {
+        "method": "poultice",
+        "en": "Topical Paste: Mix fine turmeric powder with raw honey or aloe gel and apply to sore joints or blemishes.",
+        "my": "လိမ်းဆေးအနှစ် - နနွင်းမှုန့်ကို ပျားရည် သို့မဟုတ် ရှားစောင်းလက်ပတ်ဂျယ်လ်နှင့် သမအောင်ရောစပ်၍ နာကျင်သော အဆစ်ပေါ် လိမ်းပေးပါ။"
+      },
+      {
+        "method": "cooking",
+        "en": "Daily Cuisine: Sauté with cooking oil and onions in curries, broths, and rice to release fat-soluble nutrients.",
+        "my": "ဟင်းလျာများ - ဟင်းချက်ဆီနှင့် ကြက်သွန်တို့ဖြင့် ဆီသတ်ချက်ပြုတ်ကာ နေ့စဉ် အာဟာရအဖြစ် စားသုံးပါ။"
+      }
+    ],
+    "howToApply": {
+      "en": [
+        "Take 1/2 teaspoon of pure organic ground turmeric powder.",
+        "Blend with 1 teaspoon of soothing aloe vera gel or fresh plain yogurt until a smooth paste forms.",
+        "Apply thinly over clean skin or swollen knee/finger joints.",
+        "Leave on for 15-20 minutes, then rinse gently with lukewarm water and pat dry."
+      ],
+      "my": [
+        "သန့်စင်သော နနွင်းမှုန့် လက်ဖက်ရည်ဇွန်း တစ်ဝက်ခန့်ကို ယူပါ။",
+        "ရှားစောင်းလက်ပတ်ဂျယ်လ် လက်ဖက်ရည်ဇွန်း ၁ ဇွန်း သို့မဟုတ် ဒိန်ချဉ်စစ်စစ်ဖြင့် ပျစ်ပျစ်လေး ရောစပ်မွှေပါ။",
+        "အရေပြား သို့မဟုတ် ကိုက်ခဲရောင်ရမ်းနေသော ဒူး၊ လက်ဆစ်များပေါ် ညီညာစွာ သုတ်လိမ်းပါ။",
+        "၁၅ မှ ၂၀ မိနစ်ခန့် ထားပြီးနောက် ရေနွေးနွေးဖြင့် ဆေးကြောသန့်စင်ပါ။"
+      ]
+    },
+    "dosageAndFrequency": {
+      "en": "Culinary: 1/2 to 1 teaspoon daily with meals. Tea: 1 cup daily. Topical: 2-3 times weekly.",
+      "my": "အစားအသောက်တွင် - တစ်နေ့လျှင် လက်ဖက်ရည်ဇွန်း ၁/၂ မှ ၁ ဇွန်း။ ရေနွေးကြမ်း - တစ်နေ့ ၁ ခွက်။ လိမ်းဆေး - တစ်ပတ်လျှင် ၂-၃ ကြိမ်။"
+    },
+    "warnings": {
+      "en": "High medicinal doses should be avoided by individuals with bile duct obstruction, active gallstones, or those taking prescription anticoagulant blood thinners. Consult your healthcare provider.",
+      "my": "သည်းခြေပြွန်ပိတ်ဆို့နေသူများ၊ သည်းခြေကျောက်တည်နေသူများနှင့် သွေးကျဲဆေးသောက်သုံးနေသူများသည် ဆေးပမာဏများစွာ သောက်သုံးခြင်းကို ရှောင်ကြဉ်ပြီး ဆရာဝန်နှင့် တိုင်ပင်သင့်ပါသည်။"
+    },
+    "relatedHerbs": [
+      "ginger",
+      "galangal",
+      "garlic"
+    ]
+  },
+  {
+    "id": "ginger",
+    "slug": "ginger",
+    "name": {
+      "en": "Ginger",
+      "my": "ဂျင်း (ချင်း)"
+    },
+    "scientificName": "Zingiber officinale",
+    "category": "culinary",
+    "image": "/src/assets/images/ginger.webp",
+    "imageCredit": "Photo by Monika Grabkowska on Unsplash (Free License)",
+    "description": {
+      "en": "A warming aromatic rhizome with a pungent, invigorating flavor. (Source: Traditional Asian Pharmacopoeia & WHO Monographs on Selected Medicinal Plants) Highly celebrated for relieving nausea, warming digestion, and clearing cold dampness.",
+      "my": "ပူနွေးစပ်ရှသော အရသာနှင့် ရနံ့ရှိသည့် အဖိုးတန် မြေအောက်ပင်စည်ဥပင် ဖြစ်ပါသည်။ (ရင်းမြစ် - ရိုးရာအာရှတိုင်းရင်းဆေးကျမ်းနှင့် ကမ္ဘာ့ကျန်းမာရေးအဖွဲ့ ဆေးဖက်ဝင်အပင်မိုနိုဂရပ်) မူးဝေပျို့အန်သက်သာစေခြင်း၊ အစာကြေစေခြင်းနှင့် အအေးမိချွဲသလိပ်ကြေစေခြင်းတို့တွင် အထူးထင်ရှားပါသည်။"
+    },
+    "whereItGrows": {
+      "en": "Originated in maritime Southeast Asia. Extensively grown in tropical, humid regions with rich organic humus such as Kalaw and Shan State in Myanmar.",
+      "my": "အရှေ့တောင်အာရှ အပူပိုင်းဒေသများတွင် စတင်ပေါက်ရောက်သည်။ မြန်မာနိုင်ငံ ရှမ်းပြည်နယ် (ကလော၊ အောင်ပန်း) ကဲ့သို့ မြေဆီလွှာကောင်းမွန်သော တောင်ပေါ်ဒေသများတွင် အရည်အသွေးမြင့်မားစွာ ထွက်ရှိသည်။"
+    },
+    "partsUsed": {
+      "en": "Fresh or dried rhizome, peeled or sliced",
+      "my": "လတ်ဆတ်သော သို့မဟုတ် အခြောက်လှန်းထားသော ချင်းတက် (ဂျင်းဥ)"
+    },
+    "benefits": [
+      {
+        "en": "Traditional use: Highly effective for easing travel motion sickness and mild morning nausea.",
+        "my": "ရိုးရာသုံးစွဲမှု - ကားမူးလှေမူးခြင်းနှင့် နံနက်ခင်း မူးဝေအော့အန်ခြင်းကို ထိရောက်စွာ သက်သာစေပါသည်။"
+      },
+      {
+        "en": "Traditional use: Stimulates gastric emptying, relieves gas, and calms intestinal spasms.",
+        "my": "ရိုးရာသုံးစွဲမှု - အစာအိမ်လှုပ်ရှားမှုကို ကောင်းမွန်စေပြီး လေထိုးလေအောင့်နှင့် ဗိုက်ကယ်ခြင်းကို သက်သာစေပါသည်။"
+      },
+      {
+        "en": "Traditional use: Warming diaphoresis aids recovery from seasonal chills and wet coughs.",
+        "my": "ရိုးရာသုံးစွဲမှု - ကိုယ်တွင်းအပူဓာတ်ပေးကာ ချွေးထွက်စေပြီး ချောင်းဆိုးချွဲကျပ် အအေးမိခြင်းကို ပျောက်ကင်းစေပါသည်။"
+      }
+    ],
+    "howToUse": [
+      {
+        "method": "tea",
+        "en": "Fresh Ginger Tisane: Slice 4-5 thin rounds of fresh ginger and simmer in 300ml water for 8 minutes; sweeten with raw honey.",
+        "my": "ချင်းရေနွေးကြမ်း - ဂျင်းလတ်လတ်ဆတ်ဆတ် ၄-၅ ပြားကို ရေ ၃၀၀ မီလီလီတာတွင် ၈ မိနစ်ခန့် ကျိုပြီး ပျားရည်အနည်းငယ်ထည့်သောက်ပါ။"
+      },
+      {
+        "method": "cooking",
+        "en": "Culinary: Sauté shredded ginger into vegetable stir-fries, fish dishes, and steaming chicken soups.",
+        "my": "ဟင်းလျာများ - ဂျင်းမျှင်ကြော်၊ ငါးဟင်းနှင့် ကြက်စွပ်ပြုတ်တို့တွင် ထည့်သွင်းချက်ပြုတ် စားသုံးပါ။"
+      },
+      {
+        "method": "poultice",
+        "en": "Warm Compress: Grate fresh ginger, squeeze warm juice onto cloth, and place on stiff neck muscles.",
+        "my": "အပူကပ်ဆေး - ဂျင်းထောင်းရည်နွေးနွေးကို အဝတ်သန့်စင်ပေါ်ဆွတ်၍ ဇက်ကြောတောင့်တင်းသော နေရာတွင် ကပ်ပေးပါ။"
+      }
+    ],
+    "howToApply": {
+      "en": [
+        "Wash and thinly slice 15g of fresh mature ginger root.",
+        "Bring 350ml of clean drinking water to a rolling boil in a small pot.",
+        "Add ginger slices, lower flame to low, and cover with a lid for 7-10 minutes.",
+        "Strain hot liquid into a mug, add a teaspoon of honey or squeeze of lime, and sip slowly."
+      ],
+      "my": [
+        "ဂျင်းတက်လတ်လတ်ဆတ်ဆတ် ၁၅ ဂရမ်ကို ရေဆေးပြီး ပါးပါးလှီးပါ။",
+        "ရေ ၃၅၀ မီလီလီတာကို အိုးအသေးတွင် ပွက်ပွက်ဆူအောင် တည်ပါ။",
+        "လှီးထားသော ဂျင်းပြားများထည့်ကာ မီးအေးအေးဖြင့် ၇ မှ ၁၀ မိနစ်ခန့် အဖုံးအုပ်ကျိုပါ။",
+        "ခွက်ထဲသို့ စစ်ထည့်ပြီး ပျားရည် သို့မဟုတ် သံပရာရည် အနည်းငယ်ညှစ်ကာ ဖြည်းဖြည်းချင်း သောက်သုံးပါ။"
+      ]
+    },
+    "dosageAndFrequency": {
+      "en": "Fresh root: 1-4 grams daily (approx. 1-2 small sliced knobs). Tea: 1-2 cups as needed.",
+      "my": "ဂျင်းလတ်လတ်ဆတ်ဆတ် - တစ်နေ့လျှင် ၁ မှ ၄ ဂရမ်။ ရေနွေးကြမ်း - တစ်နေ့လျှင် ၁ မှ ၂ ခွက်။"
+    },
+    "warnings": {
+      "en": "Excessive intake may cause mild heartburn or gastric irritation in sensitive stomachs. Consult a doctor before consuming large amounts during pregnancy or alongside anticoagulant therapy.",
+      "my": "ပမာဏများလွန်းပါက ရင်ပူခြင်း သို့မဟုတ် ဗိုက်နာခြင်း ဖြစ်စေနိုင်သည်။ ကိုယ်ဝန်ဆောင်ချိန် သို့မဟုတ် သွေးကျဲဆေးသောက်နေရပါက ပမာဏများစွာ မသုံးစွဲမီ ဆရာဝန်နှင့် တိုင်ပင်ပါ။"
+    },
+    "relatedHerbs": [
+      "turmeric",
+      "galangal",
+      "lemongrass"
+    ]
+  },
+  {
+    "id": "tulsi",
+    "slug": "tulsi",
+    "name": {
+      "en": "Tulsi (Holy Basil)",
+      "my": "ပင်စိမ်းဖြူ (တူးလ်စီ)"
+    },
+    "scientificName": "Ocimum tenuiflorum",
+    "category": "aromatic",
+    "image": "/src/assets/images/tulsi.webp",
+    "imageCredit": "Photo by Chokniti Khongchum on Pexels (Free License)",
+    "description": {
+      "en": "Venerated across South and Southeast Asia as an adaptogenic 'Queen of Herbs'. (Source: Ayurvedic Classical Texts & Ethnobotanical Field Compendia) Known for balancing stress, supporting clear airways, and promoting mental clarity.",
+      "my": "အာရှတိုက်တစ်လွှား 'ဆေးဖက်ဝင်အပင်တို့၏ ဘုရင်မ' အဖြစ် တန်ဖိုးထားကြသော မွှေးပျံ့သည့် ပင်စိမ်းမျိုးနွယ် ဖြစ်ပါသည်။ (ရင်းမြစ် - အာယုဗ္ဗေဒကျမ်းများနှင့် တိုင်းရင်းရိုးရာဆေးမှတ်တမ်း) စိတ်ဖိစီးမှုကို ထိန်းညှိပေးခြင်း၊ အသက်ရှူလမ်းကြောင်းရှင်းလင်းစေခြင်းနှင့် ဉာဏ်ရည်ကြည်လင်စေခြင်းတို့တွင် အထူးအသုံးဝင်ပါသည်။"
+    },
+    "whereItGrows": {
+      "en": "Native to tropical India and cultivated throughout Myanmar, Thailand, and Southeast Asia around temple yards and rural households.",
+      "my": "အိန္ဒိယနှင့် အရှေ့တောင်အာရှ အပူပိုင်းဒေသ မူရင်းပင်ဖြစ်ပြီး မြန်မာနိုင်ငံရှိ အိမ်ဝင်းခြံနှင့် ဘုန်းတော်ကြီးကျောင်းများတွင် စိုက်ပျိုးလေ့ရှိသည်။"
+    },
+    "partsUsed": {
+      "en": "Fresh or sun-dried leaves, flowering tops, and tender stems",
+      "my": "လတ်ဆတ်သော သို့မဟုတ် နေရိပ်ခြောက် ပင်စိမ်းရွက်၊ ပန်းခိုင်နှင့် ရိုးတံနု"
+    },
+    "benefits": [
+      {
+        "en": "Traditional use: Adaptogenic action helps the body adapt to daily emotional and environmental stress.",
+        "my": "ရိုးရာသုံးစွဲမှု - စိတ်ဖိစီးမှုနှင့် ပင်ပန်းနွမ်းနယ်မှုဒဏ်ကို ခန္ဓာကိုယ်က ခံနိုင်ရည်ရှိအောင် ထိန်းညှိပေးပါသည်။"
+      },
+      {
+        "en": "Traditional use: Clears mucus from bronchial pathways and soothes throat irritation.",
+        "my": "ရိုးရာသုံးစွဲမှု - လည်ချောင်းယားယံခြင်းကို သက်သာစေပြီး အဆုတ်နှင့် လေပြွန်ချွဲသလိပ်များကို ရှင်းထုတ်ပေးပါသည်။"
+      },
+      {
+        "en": "Traditional use: Rich in antioxidant eugenol, supporting overall immune vitality.",
+        "my": "ရိုးရာသုံးစွဲမှု - သဘာဝဓာတ်တိုးဆန့်ကျင် ယူဂျီနောကြွယ်ဝသဖြင့် ကိုယ်ခံစွမ်းအားကို မြှင့်တင်ပေးပါသည်။"
+      }
+    ],
+    "howToUse": [
+      {
+        "method": "tea",
+        "en": "Herbal Infusion: Steep 6-8 fresh leaves or 1 tsp dried leaves in boiling water for 5 minutes; strain and drink warm.",
+        "my": "ပင်စိမ်းရေနွေးကြမ်း - ပင်စိမ်းရွက် လတ်လတ်ဆတ်ဆတ် ၆-၈ ရွက်ကို ရေနွေးဆူဆူတွင် ၅ မိနစ်ခန့် နှပ်ထားပြီး သောက်သုံးပါ။"
+      },
+      {
+        "method": "steam",
+        "en": "Steam Inhalation: Add a handful of crushed leaves to a bowl of steaming water; inhale vapor to clear nasal passages.",
+        "my": "ပေါင်းတင်ရှူရှိုက်နည်း - ရေနွေးဆူဆူဇလုံထဲသို့ ပင်စိမ်းရွက်ချေထည့်ပြီး အငွေ့ကို ရှူရှိုက်ပါက နှာစေးနှာပိတ် သက်သာစေပါသည်။"
+      },
+      {
+        "method": "cooking",
+        "en": "Culinary: Toss fresh leaves into spicy stir-fries or traditional country vegetable soups.",
+        "my": "ဟင်းချက်ပြုတ်မှု - တောချက်ဟင်းချို သို့မဟုတ် အစပ်ကြော်များတွင် အနံ့မွှေးစေရန် ခတ်စားပါ။"
+      }
+    ],
+    "howToApply": {
+      "en": [
+        "Harvest 8-10 clean, pesticide-free fresh tulsi leaves.",
+        "Tear leaves slightly to bruise the fragrant essential oil glands.",
+        "Place into a tea mug and pour 250ml freshly boiled spring water over the leaves.",
+        "Cover with a saucer for 5-8 minutes to preserve volatile essential oils.",
+        "Uncover, breathe in the calming aroma, and sip peacefully."
+      ],
+      "my": [
+        "သန့်ရှင်းလတ်ဆတ်သော ပင်စိမ်းရွက် ၈-၁၀ ရွက်ကို ခူးယူပါ။",
+        "ရနံ့ဆီထွက်လာစေရန် လက်ဖြင့် အနည်းငယ် ချေဖျက်ပါ။",
+        "ဖန်ခွက်ထဲထည့်ပြီး ဆူပွက်နေသော ရေနွေး ၂၅၀ မီလီလီတာကို လောင်းထည့်ပါ။",
+        "မရှိမဖြစ်အဆီငွေ့များ မပျံလွင့်စေရန် ပန်းကန်ပြားဖြင့် ၅ မှ ၈ မိနစ်ခန့် အုပ်ထားပါ။",
+        "အဖုံးဖွင့်ပြီး သင်းပျံ့သောအနံ့ကို ရှူရှိုက်ကာ ဖြည်းညင်းစွာ သောက်သုံးပါ။"
+      ]
+    },
+    "dosageAndFrequency": {
+      "en": "Tea: 1 to 2 cups daily. Fresh leaves: 4-6 leaves chewed fresh in the morning.",
+      "my": "ရေနွေးကြမ်း - တစ်နေ့လျှင် ၁ မှ ၂ ခွက်။ အရွက်လတ်လတ်ဆတ်ဆတ် - နံနက်ခင်းတွင် ၄ မှ ၆ ရွက် ဝါးစားနိုင်သည်။"
+    },
+    "warnings": {
+      "en": "May have mild anti-fertility and blood-thinning effects in very large quantities. Avoid excessive amounts during pregnancy or prior to scheduled surgeries.",
+      "my": "ပမာဏအလွန်အကျွံသုံးစွဲပါက သွေးကျဲစေနိုင်သော အာနိသင်ရှိသည်။ ကိုယ်ဝန်ဆောင်ချိန်နှင့် ခွဲစိတ်မှုမပြုလုပ်မီ အလွန်အကျွံ သုံးစွဲခြင်းကို ရှောင်ကြဉ်ပါ။"
+    },
+    "relatedHerbs": [
+      "lemongrass",
+      "rosemary",
+      "peppermint"
+    ]
+  },
+  {
+    "id": "aloe-vera",
+    "slug": "aloe-vera",
+    "name": {
+      "en": "Aloe Vera",
+      "my": "ရှားစောင်းလက်ပတ်"
+    },
+    "scientificName": "Aloe barbadensis miller",
+    "category": "skin-and-hair",
+    "image": "/src/assets/images/aloe-vera.webp",
+    "imageCredit": "Photo by Rosina Ferrando on Unsplash (Free License)",
+    "description": {
+      "en": "A succulent plant renowned for the cooling, mucilaginous clear gel inside its fleshy leaves. (Source: Traditional Dermatology & WHO Monograph) Highly prized for hydrating dry skin, soothing sunburns, and nourishing scalp roots.",
+      "my": "အရည်ရွှမ်းသော အရွက်အတွင်း၌ အေးမြကြည်လင်သည့် ဂျယ်လ်အနှစ်ပါရှိသော ရှားစောင်းပင် ဖြစ်ပါသည်။ (ရင်းမြစ် - ရိုးရာအရေပြားကုထုံးနှင့် ကမ္ဘာ့ကျန်းမာရေးအဖွဲ့ မိုနိုဂရပ်) နေလောင်ဒဏ်သက်သာစေခြင်း၊ အသားအရေစိုပြေစေခြင်းနှင့် ဆံပင်ကျွတ်သက်သာစေခြင်းတို့တွင် အထူးနာမည်ကြီးပါသည်။"
+    },
+    "whereItGrows": {
+      "en": "Native to the Arabian Peninsula and arid tropical zones. Thrives in sun-drenched gardens, rocky dry soils, and pots across Myanmar's central dry zone.",
+      "my": "အာရေဗျကျွန်းဆွယ်နှင့် ခြောက်သွေ့အပူပိုင်းဒေသ မူရင်းပင်ဖြစ်ပြီး မြန်မာနိုင်ငံ အလယ်ပိုင်း အပူပိုင်းဒေသနှင့် ခြံဝင်းအတွင်း နေရောင်ကောင်းစွာရသော နေရာများတွင် ရှင်သန်လွယ်သည်။"
+    },
+    "partsUsed": {
+      "en": "Inner clear leaf fillet gel (the outer yellow latex sap should be drained and discarded)",
+      "my": "အရွက်အတွင်းသား ကြည်လင်သော ဂျယ်လ်အနှစ် (အပြင်ခွံမှ အဝါရောင် အစေးခါးကို ရေစင်အောင် ဆေးကြောစွန့်ပစ်ရမည်)"
+    },
+    "benefits": [
+      {
+        "en": "Traditional use: Deeply calms redness, thermal burns, and superficial ultraviolet sunburn.",
+        "my": "ရိုးရာသုံးစွဲမှု - နေလောင်ဒဏ်ကြောင့် နီမြန်းခြင်း၊ မီးလောင်ဒဏ်ရာနှင့် အရေပြားစပ်ဖျဉ်းဖျဉ်းဖြစ်ခြင်းကို လျင်မြန်စွာ အေးမြစေပါသည်။"
+      },
+      {
+        "en": "Traditional use: Hydrates parched skin cells and accelerates skin tissue re-epithelialization.",
+        "my": "ရိုးရာသုံးစွဲမှု - ခြောက်သွေ့သောအသားအရေကို ရေဓာတ်ဖြည့်တင်းပေးပြီး ဆဲလ်အသစ်ပြန်လည်ဖြစ်ပေါ်မှုကို ကူညီသည်။"
+      },
+      {
+        "en": "Traditional hair tonic: Conditions brittle hair strands and gently relieves itchy dandruff flakes.",
+        "my": "ရိုးရာဆံကေသာထိန်းသိမ်းမှု - ဦးရေပြားဗောက်ယားယံခြင်းကို သက်သာစေပြီး ဆံပင်သားကို ပျော့ပျောင်းသန်စွမ်းစေပါသည်။"
+      }
+    ],
+    "howToUse": [
+      {
+        "method": "poultice",
+        "en": "Skin Cooling Gel: Fillet leaf, scoop clear inner pulp, blend smooth, and apply directly to sunburned or irritated skin.",
+        "my": "အရေပြားလိမ်းဂျယ်လ် - အခွံခွာပြီး အတွင်းသားအနှစ်ကြည်ကို ချေဖျက်ကာ နေလောင်ဒဏ်ရာနှင့် အရေပြားယားယံရာနေရာတွင် တိုက်ရိုက်လိမ်းပါ။"
+      },
+      {
+        "method": "hair-mask",
+        "en": "Scalp Treatment: Massage fresh gel into roots and hair shafts 30 minutes before washing.",
+        "my": "ဆံကေသာပေါင်းတင်နည်း - ခေါင်းမလျှော်မီ မိနစ် ၃၀ အလိုတွင် ဂျယ်လ်အနှစ်ကို ဦးရေပြားနှင့် ဆံပင်အနှံ့ နှိပ်နယ်လိမ်းပေးပါ။"
+      },
+      {
+        "method": "juice",
+        "en": "Internal Tonic (Traditional): Dilute 2 tbsp pure washed inner gel into fresh coconut water or fruit juice.",
+        "my": "အတွင်းသောက်ဆေး (ရိုးရာ) - အစေးစင်အောင် ဆေးထားသော အတွင်းသား ဇွန်း ၂ ဇွန်းကို အုန်းရည် သို့မဟုတ် ဖျော်ရည်နှင့် ရောစပ်သောက်သုံးပါ။"
+      }
+    ],
+    "howToApply": {
+      "en": [
+        "Cut a fresh, thick lower aloe vera leaf from the plant base.",
+        "Stand leaf upright in a glass for 10-15 minutes to allow bitter yellow aloin latex to drain out completely.",
+        "Trim thorny serrated edges with a sharp knife and peel off the flat green outer skin.",
+        "Scoop out the pure crystal clear inner gel and rinse gently with cool water.",
+        "Smooth over cleansed face, body, or scalp and leave to absorb naturally."
+      ],
+      "my": [
+        "အောက်ခြေမှ ရင့်သော ရှားစောင်းလက်ပတ်ရွက်ကြီး တစ်ရွက်ကို ဖြတ်ယူပါ။",
+        "အဝါရောင်အစေးခါးများ ထွက်ကျသွားစေရန် ခွက်တစ်ခုထဲတွင် မတ်မတ်ထောင်၍ ၁၀-၁၅ မိနစ်ခန့် ထားပါ။",
+        "ဆူးရှိသော ဘေးအနားများကို ဓားဖြင့် လှီးထုတ်ပြီး အပေါ်ခွံအစိမ်းကို ခွာထုတ်ပါ။",
+        "အတွင်းသား ကြည်လင်သော အနှစ်ကို ဇွန်းဖြင့် ခြစ်ယူကာ ရေအေးဖြင့် ညင်သာစွာ ဆေးကြောပါ။",
+        "သန့်စင်ထားသော မျက်နှာ၊ ခန္ဓာကိုယ် သို့မဟုတ် ဦးရေပြားပေါ်သို့ ညင်သာစွာ သုတ်လိမ်းပြီး အခြောက်ခံပါ။"
+      ]
+    },
+    "dosageAndFrequency": {
+      "en": "Topical: Apply 1-2 times daily as needed. Internal juice: Maximum 30ml pure washed gel daily.",
+      "my": "လိမ်းဆေး - တစ်နေ့လျှင် ၁ မှ ၂ ကြိမ်။ သောက်သုံးရန် - တစ်နေ့လျှင် အစေးစင်ဂျယ်လ် ၃၀ မီလီလီတာထက် မပိုသင့်ပါ။"
+    },
+    "warnings": {
+      "en": "Do NOT consume the yellow latex (aloin) layer under the skin; it is a harsh purgative laxative contraindicated in pregnancy and kidney disorders. Perform a small patch test before first topical use.",
+      "my": "အခွံအောက်ရှိ အဝါရောင်အစေးခါးကို မသောက်ရ (ဝမ်းလျှောစေနိုင်ပြီး ကိုယ်ဝန်ဆောင်နှင့် ကျောက်ကပ်လူနာများ လုံးဝမသောက်ရပါ)။ မျက်နှာပေါ်မလိမ်းမီ လက်မောင်းအတွင်းပိုင်းတွင် စမ်းသပ်လိမ်းကြည့်ပါ။"
+    },
+    "relatedHerbs": [
+      "thanakha",
+      "butterfly-pea",
+      "tulsi"
+    ]
+  },
+  {
+    "id": "lemongrass",
+    "slug": "lemongrass",
+    "name": {
+      "en": "Lemongrass",
+      "my": "စပါးလင်"
+    },
+    "scientificName": "Cymbopogon citratus",
+    "category": "tea",
+    "image": "/src/assets/images/lemongrass.webp",
+    "imageCredit": "Photo by Hans Braxmeier on Pexels (Free License)",
+    "description": {
+      "en": "A fragrant tropical clumping grass packed with essential citral oils. (Source: Southeast Asian Ethnobotanical Records & Traditional Pharmacopoeia) Famous for its bright lemon scent, fever-relieving tea, and mosquito-deterring qualities.",
+      "my": "သင်းပျံ့သော စီထရယ် (Citral) မရှိမဖြစ်ရနံ့ဆီများ ကြွယ်ဝသည့် အပူပိုင်း မြက်ပင်မျိုးနွယ် ဖြစ်ပါသည်။ (ရင်းမြစ် - အရှေ့တောင်အာရှ ရိုးရာတိုင်းရင်းဆေးမှတ်တမ်း) လန်းဆန်းစေသော သံပရာနံ့၊ အဖျားကျရေနွေးကြမ်းနှင့် ခြင်ပြေးစေသော အာနိသင်တို့ကြောင့် အလွန်ထင်ရှားပါသည်။"
+    },
+    "whereItGrows": {
+      "en": "Indigenous to maritime Southeast Asia and South Asia. Ubiquitously grown across home gardens throughout Myanmar, forming dense fragrant green clumps.",
+      "my": "အရှေ့တောင်အာရှနှင့် တောင်အာရှ မူရင်းပင်ဖြစ်ပြီး မြန်မာနိုင်ငံတစ်ဝန်းရှိ အိမ်တိုင်းလိုလို၏ ဥယျာဉ်ခြံများတွင် စိုက်ပျိုးကြသည်။"
+    },
+    "partsUsed": {
+      "en": "Lower white succulent stalks and fresh or dried green leaf blades",
+      "my": "အောက်ခြေ အဖြူရောင်ပင်စည်တံနှင့် လတ်ဆတ်သော သို့မဟုတ် အခြောက်လှန်းထားသော စပါးလင်ရွက်စိမ်း"
+    },
+    "benefits": [
+      {
+        "en": "Traditional use: Mild diaphoretic tea gently encourages perspiration to break feverish chills.",
+        "my": "ရိုးရာသုံးစွဲမှု - ချွေးထွက်စေပြီး ကိုယ်ပူအဖျားနှင့် ဇာတ်တက်ဖျားခြင်းကို ညင်သာစွာ ကျဆင်းစေပါသည်။"
+      },
+      {
+        "en": "Traditional use: Calms digestive cramping, abdominal distension, and bloating.",
+        "my": "ရိုးရာသုံးစွဲမှု - ဗိုက်ကယ်ခြင်း၊ လေထိုးလေအောင့်နှင့် အူမကြီးကြွက်သားရုန်းခြင်းကို သက်သာစေပါသည်။"
+      },
+      {
+        "en": "Traditional aromatic use: Natural citral scent refreshes the mind and acts as a natural insect deterrent.",
+        "my": "ရိုးရာရနံ့ကုထုံး - စိတ်ကြည်လင်လန်းဆန်းစေပြီး ခြင်နှင့် အင်းဆက်များကို သဘာဝအတိုင်း မောင်းထုတ်ပေးပါသည်။"
+      }
+    ],
+    "howToUse": [
+      {
+        "method": "tea",
+        "en": "Digestive Tisane: Bruise 2 fresh stalks, simmer in 400ml water for 10 minutes, and sip warm after heavy meals.",
+        "my": "စပါးလင်ရေနွေးကြမ်း - စပါးလင် ၂ ပင်ကို ထုပြီး ရေ ၄၀၀ မီလီလီတာတွင် ၁၀ မိနစ်ခန့် ကျို၍ အစာစားပြီးနောက် သောက်ပါ။"
+      },
+      {
+        "method": "cooking",
+        "en": "Culinary: Bruise whole stalks into Myanmar Mohinga broth, hot & sour soups, and curries.",
+        "my": "ဟင်းလျာများ - မုန့်ဟင်းခါးအနှစ်၊ ချဉ်စပ်ဟင်းချိုနှင့် ငါးဟင်းများတွင် အနံ့မွှေးစေရန် ထုထောင်းထည့်ချက်ပါ။"
+      },
+      {
+        "method": "oil",
+        "en": "Aromatherapy: Diffuse lemongrass oil in living spaces to purify air and keep mosquitoes away.",
+        "my": "ရနံ့ကုထုံး - စပါးလင်ဆီကို အနံ့ဖြန်းစက်တွင်ထည့်၍ အခန်းတွင်းလေထု သန့်စင်စေရန်နှင့် ခြင်ပြေးစေရန် အသုံးပြုပါ။"
+      }
+    ],
+    "howToApply": {
+      "en": [
+        "Take 2 fresh lemongrass stalks and discard the dry fibrous outer layers.",
+        "Use the flat side of a knife to bruise the lower white stalk to release essential citral oils.",
+        "Cut into 2-inch pieces and place into 400ml boiling water.",
+        "Simmer covered on low heat for 10 minutes, strain into a warm cup, and enjoy."
+      ],
+      "my": [
+        "လတ်ဆတ်သော စပါးလင် ၂ ပင်ကို အပြင်ဘက်အလွှာခြောက်များ ခွာထုတ်ပါ။",
+        "အဆီထွက်စေရန် ဓားပြားဖြင့် အောက်ခြေ အဖြူပိုင်းကို ဖိထုပါ။",
+        "၂ လက်မခန့် အပိုင်းများ ပိုင်းဖြတ်ပြီး ဆူပွက်နေသော ရေ ၄၀၀ မီလီလီတာထဲ ထည့်ပါ။",
+        "မီးအေးအေးဖြင့် ၁၀ မိနစ်ခန့် အဖုံးအုပ်ကျိုပြီးနောက် စစ်ယူ၍ နွေးနွေးလေး သောက်သုံးပါ။"
+      ]
+    },
+    "dosageAndFrequency": {
+      "en": "Tea: 1 to 2 cups daily. Culinary: As desired in soups and broths.",
+      "my": "ရေနွေးကြမ်း - တစ်နေ့လျှင် ၁ မှ ၂ ခွက်။ ဟင်းလျာများတွင် လိုသလို သုံးစွဲနိုင်သည်။"
+    },
+    "warnings": {
+      "en": "Medicinal high-concentration doses should be avoided during pregnancy as it may stimulate uterine blood flow. Dilute essential oils in a carrier oil prior to skin contact.",
+      "my": "ကိုယ်ဝန်ဆောင်မိခင်များ ဆေးပမာဏများစွာ သောက်သုံးခြင်းကို ရှောင်ကြဉ်သင့်ပါသည်။ စပါးလင်ဆီကို အရေပြားပေါ် တိုက်ရိုက်မလိမ်းဘဲ အုန်းဆီ သို့မဟုတ် သံလွင်ဆီနှင့် ရောစပ်ပြီးမှသာ လိမ်းပါ။"
+    },
+    "relatedHerbs": [
+      "ginger",
+      "tulsi",
+      "roselle"
+    ]
+  },
+  {
+    "id": "thanakha",
+    "slug": "thanakha",
+    "name": {
+      "en": "Thanakha",
+      "my": "သနပ်ခါး"
+    },
+    "scientificName": "Hesperethusa crenulata / Limonia acidissima",
+    "category": "myanmar-traditional",
+    "image": "/src/assets/images/thanakha.webp",
+    "imageCredit": "Photo by Paul Arps via Wikimedia Commons (CC BY 2.0)",
+    "description": {
+      "en": "Myanmar's iconic botanical cosmetic and skin protector made by grinding the aromatic bark of the thanakha tree on a circular kyauk pyin stone with clean water. (Source: Traditional Myanmar Medicine Pharmacopoeia & Phytochemical Studies) Celebrated for cooling properties, natural sun shielding, and oil control.",
+      "my": "မြန်မာ့ယဉ်ကျေးမှု၏ အထင်ကရ သဘာဝအလှကုန်နှင့် အရေပြားကာကွယ်ဆေး ဖြစ်ပြီး သနပ်ခါးပင်၏ အခေါက်ကို ကျောက်ပြင်ပေါ်တွင် ရေဖြင့် သွေးယူရပါသည်။ (ရင်းမြစ် - မြန်မာ့တိုင်းရင်းဆေးသမိုင်းနှင့် ဓာတုဗေဒသုတေသနစာတမ်းများ) အသားအရေအေးမြစေခြင်း၊ သဘာဝနေလောင်ဒဏ်ကာကွယ်ခြင်းနှင့် အဆီပြန်ခြင်းကို ထိန်းညှိပေးခြင်းတို့တွင် အထူးကျော်ကြားပါသည်။"
+    },
+    "whereItGrows": {
+      "en": "Native to Myanmar's central dry zone. The highest quality thanakha barks flourish in the semi-arid, rocky soils of Pakokku, Shinmataung, Ayadaw, and Shwebo.",
+      "my": "မြန်မာနိုင်ငံ အလယ်ပိုင်း အပူပိုင်းဒေသတွင် သဘာဝအလျောက် ဖြစ်ထွန်းသည်။ ပခုက္ကူ၊ ရှင်မတောင်၊ အရာတော်နှင့် ရွှေဘိုဒေသတို့မှ ထွက်ရှိသော သနပ်ခါးသည် အရည်အသွေး အကောင်းဆုံးအဖြစ် သတ်မှတ်ခံရသည်။"
+    },
+    "partsUsed": {
+      "en": "Bark and roots of mature branches and trunks (typically aged 15-35 years)",
+      "my": "ရင့်ကျက်သော သနပ်ခါးပင်၏ ပင်စည်အခေါက်နှင့် အမြစ် (အပင်သက်တမ်း ၁၅ နှစ်မှ ၃၅ နှစ်ဝန်းကျင်)"
+    },
+    "benefits": [
+      {
+        "en": "Traditional use: Provides a cooling physical and photoprotective barrier against intense tropical sun.",
+        "my": "ရိုးရာသုံးစွဲမှု - အပူပိုင်းဒေသ နေရောင်ခြည်ပြင်းထန်မှုဒဏ်မှ အသားအရေကို အေးမြစေပြီး သဘာဝအတိုင်း ကာကွယ်ပေးပါသည်။"
+      },
+      {
+        "en": "Traditional use: Absorbs excess epidermal sebum and tightens visible facial pores.",
+        "my": "ရိုးရာသုံးစွဲမှု - မျက်နှာပေါ်ရှိ ပိုလျှံသောအဆီများကို စုပ်ယူပေးပြီး ချွေးပေါက်များကို ကျဉ်းစေပါသည်။"
+      },
+      {
+        "en": "Traditional use: Mild natural astringent helps reduce heat rash and acne flare-ups.",
+        "my": "ရိုးရာသုံးစွဲမှု - မိတ်ဖု၊ ဝက်ခြံနှင့် မိတ်ယားယံခြင်းများကို သက်သာပျောက်ကင်းစေပါသည်။"
+      }
+    ],
+    "howToUse": [
+      {
+        "method": "poultice",
+        "en": "Facial Mask: Grind fresh bark on a kyauk pyin with water, apply smooth yellow paste to cheeks, forehead, and nose.",
+        "my": "မျက်နှာလိမ်းကျံခြင်း - ကျောက်ပြင်ပေါ်တွင် သနပ်ခါးတုံးကို ရေဖြင့်သွေး၍ ပါး၊ နဖူးနှင့် နှာခေါင်းပေါ်တွင် ပါးပါးကြည်ကြည် လိမ်းပေးပါ။"
+      },
+      {
+        "method": "body-paste",
+        "en": "Body Cooling: Apply a thicker layer over neck, arms, and shoulders after bathing to stay cool all day.",
+        "my": "ကိုယ်ခန္ဓာလိမ်းကျံခြင်း - ရေချိုးပြီးချိန်တွင် လည်ပင်း၊ လက်မောင်းနှင့် ပခုံးတို့တွင် လိမ်းပေးပါက တစ်နေ့လုံး အေးမြလန်းဆန်းစေပါသည်။"
+      }
+    ],
+    "howToApply": {
+      "en": [
+        "Place a genuine circular stone slab (kyauk pyin) on a stable surface.",
+        "Sprinkle 1-2 tablespoons of clean cool water on the stone center.",
+        "Hold the thanakha log firmly at an angle and grind in steady circular motions.",
+        "Collect the fragrant cream-colored paste with your fingers.",
+        "Apply smoothly across the face and neck in decorative or even layers, allowing it to dry into a velvety protective shield."
+      ],
+      "my": [
+        "သန့်ရှင်းသော ကျောက်ပြင်ဝိုင်းကို ညီညာသော နေရာတွင် တင်ပါ။",
+        "ကျောက်ပြင်အလယ်သို့ သန့်ရှင်းသော ရေအေး လက်ဖက်ရည်ဇွန်း ၁-၂ ဇွန်း ဆွတ်ဖျန်းပါ။",
+        "သနပ်ခါးတုံးကို လက်ဖြင့်ခိုင်မြဲစွာကိုင်၍ စက်ဝိုင်းပုံ ဝိုင်းသွေးပေးပါ။",
+        "မွှေးပျံ့သောအနှစ်ဝါဝါ လေးများကို လက်ချောင်းဖြင့် ခြစ်ယူပါ။",
+        "မျက်နှာနှင့် လည်ပင်းပေါ်တွင် ညီညာစွာ သို့မဟုတ် ပါးကွက်ကြား ပုံဖော်လိမ်းပေးပြီး အခြောက်ခံပါ။"
+      ]
+    },
+    "dosageAndFrequency": {
+      "en": "Topical application: Daily or twice daily as natural skincare and cooling protection.",
+      "my": "လိမ်းဆေး - နေ့စဉ် နံနက်နှင့် ညနေ သဘာဝအသားအရေထိန်းသိမ်းမှုအဖြစ် လိမ်းပေးနိုင်ပါသည်။"
+    },
+    "warnings": {
+      "en": "For external topical use only. Pure authentic wood should be used; avoid commercial premixed pastes containing artificial bleaches, parabens, or heavy synthetic fragrances.",
+      "my": "အပြင်ပန်းလိမ်းကျံရန်သာ ဖြစ်သည်။ ဓာတုအရောင်ချွတ်ဆေးနှင့် အမွှေးနံ့အတုများ ရောစပ်ထားသော အတုအပများကို ရှောင်ကြဉ်ပြီး သဘာဝသနပ်ခါးတုံးစစ်စစ်ကိုသာ သွေးလိမ်းသင့်ပါသည်။"
+    },
+    "relatedHerbs": [
+      "aloe-vera",
+      "turmeric",
+      "neem"
+    ]
+  },
+  {
+    "id": "pennywort",
+    "slug": "pennywort",
+    "name": {
+      "en": "Pennywort (Gotu Kola)",
+      "my": "မြင်းခွာရွက်"
+    },
+    "scientificName": "Centella asiatica",
+    "category": "myanmar-traditional",
+    "image": "/src/assets/images/pennywort.webp",
+    "imageCredit": "Photo by Forest & Kim Starr via Wikimedia Commons (CC BY 3.0)",
+    "description": {
+      "en": "A beloved fan-leafed creeping ground herb revered across Myanmar and Asia as a brain tonic and longevity botanical. (Source: Traditional Myanmar Medicine Pharmacopoeia & Ayurvedic Materia Medica) Traditionally consumed in vibrant salads, cooling fresh juices, and herbal teas.",
+      "my": "ဦးနှောက်ဉာဏ်ရည်ထက်မြက်စေခြင်းနှင့် အသက်ရှည်ကျန်းမာစေခြင်းတို့အတွက် မြန်မာ့ရိုးရာတိုင်းရင်းဆေးတွင် အထူးတန်ဖိုးထားသော မြေကပ်ပင်ငယ် ဖြစ်ပါသည်။ (ရင်းမြစ် - မြန်မာ့တိုင်းရင်းဆေးကျမ်းနှင့် အာယုဗ္ဗေဒဆေးကျမ်း) သုပ်စားခြင်း၊ ဖျော်ရည်ကြိတ်သောက်ခြင်းနှင့် ဟင်းချိုချက်စားခြင်းတို့တွင် အလွန်ထင်ရှားပါသည်။"
+    },
+    "whereItGrows": {
+      "en": "Native to tropical wetlands and moist valley soils across Myanmar, India, and Southeast Asia. Flourishes near river banks, paddy ridges, and shaded damp gardens.",
+      "my": "မြန်မာနိုင်ငံ၊ အိန္ဒိယနှင့် အရှေ့တောင်အာရှရှိ ရေဝပ်မြေစိုများနှင့် ချောင်းကမ်းပါး၊ လယ်ကန်သင်း၊ အရိပ်ရ စိုစွတ်သော နေရာများတွင် သဘာဝအတိုင်း ပေါက်ရောက်သည်။"
+    },
+    "partsUsed": {
+      "en": "Whole plant including fan-shaped leaves, slender petioles, and stolons",
+      "my": "မြင်းခွာပုံသဏ္ဌာန် အရွက်၊ ရိုးတံနုနှင့် နွယ်ပင်တစ်ပင်လုံး"
+    },
+    "benefits": [
+      {
+        "en": "Traditional use: Celebrated in folk medicine to enhance memory, concentration, and mental stamina.",
+        "my": "ရိုးရာသုံးစွဲမှု - မှတ်ဉာဏ်ကောင်းမွန်စေရန်၊ အာရုံစူးစိုက်မှုနှင့် ဦးနှောက်စွမ်းဆောင်ရည် တိုးတက်စေရန် အသုံးပြုကြသည်။"
+      },
+      {
+        "en": "Traditional use: Supports circulatory vein elasticity and eases lower-leg heaviness.",
+        "my": "ရိုးရာသုံးစွဲမှု - သွေးကြောနံရံများကို သန်မာစေပြီး ခြေထောက်သွေးပြန်ကြောဖောင်းခြင်းကို သက်သာစေပါသည်။"
+      },
+      {
+        "en": "Traditional use: Promotes internal tissue cooling and cellular wound healing via triterpenoid saponins.",
+        "my": "ရိုးရာသုံးစွဲမှု - ကိုယ်တွင်းအပူငြိမ်းစေပြီး အတွင်းဒဏ်ရာနှင့် အနာကျက်လွယ်စေရန် ကူညီပေးပါသည်။"
+      }
+    ],
+    "howToUse": [
+      {
+        "method": "cooking",
+        "en": "Traditional Salad (Myin Kwa Ywet Thoke): Toss shredded fresh leaves with roasted peanut powder, sesame seeds, crispy garlic, and lime juice.",
+        "my": "မြင်းခွာရွက်သုပ် - လတ်ဆတ်သော မြင်းခွာရွက်ကို ပါးပါးလှီး၍ မြေပဲဆံထောင်း၊ နှမ်း၊ ကြက်သွန်ဖြူကြော်၊ သံပရာရည်တို့ဖြင့် အရသာရှိစွာ သုပ်စားပါ။"
+      },
+      {
+        "method": "juice",
+        "en": "Fresh Green Elixir: Blend fresh washed leaves with cold water and a dash of palm jaggery; strain and drink immediately.",
+        "my": "မြင်းခွာရွက်ဖျော်ရည် - အရွက်များကို ရေဆေး၍ ရေအေး၊ ထန်းလျက်အနည်းငယ်ဖြင့် ကြိတ်ကာ စစ်ယူသောက်သုံးပါ။"
+      },
+      {
+        "method": "tea",
+        "en": "Dry Leaf Infusion: Steep 1 teaspoon of dried pennywort herb in hot water for 6 minutes.",
+        "my": "မြင်းခွာရွက်ခြောက် ရေနွေးကြမ်း - အခြောက်လှန်းထားသော အရွက် လက်ဖက်ရည်ဇွန်း ၁ ဇွန်းကို ရေနွေးတွင် ၆ မိနစ်ခန့် နှပ်သောက်ပါ။"
+      }
+    ],
+    "howToApply": {
+      "en": [
+        "Thoroughly rinse 100g of freshly harvested pennywort in cold water to remove any garden silt.",
+        "Chop finely with a chef's knife.",
+        "Combine in a mixing bowl with 2 tablespoons of crushed toasted peanuts, 1 teaspoon of toasted sesame oil, and a squeeze of fresh lime.",
+        "Toss lightly and enjoy immediately as an invigorating, brain-boosting meal accompaniment."
+      ],
+      "my": [
+        "လတ်ဆတ်သော မြင်းခွာရွက် ၁၀၀ ဂရမ်ကို သဲနှင့်မြေများ စင်ကြယ်သွားအောင် ရေအေးဖြင့် သေချာဆေးပါ။",
+        "ဓားဖြင့် ပါးပါးလှီးဖြတ်ပါ။",
+        "ဇလုံထဲတွင် မြေပဲထောင်း ၂ ဇွန်း၊ နှမ်းဆီမွှေး လက်ဖက်ရည်ဇွန်း ၁ ဇွန်း၊ သံပရာရည်အနည်းငယ်တို့ဖြင့် ရောပါ။",
+        "သမအောင် ညင်သာစွာနယ်ပြီး ဦးနှောက်နှင့် ခန္ဓာကိုယ်ကို လန်းဆန်းစေသော အာဟာရဟင်းလျာအဖြစ် စားသုံးပါ။"
+      ]
+    },
+    "dosageAndFrequency": {
+      "en": "Culinary salad or fresh juice: 1 serving (50-100g fresh leaves) 2-3 times per week.",
+      "my": "သုပ်စားခြင်း သို့မဟုတ် ဖျော်ရည် - တစ်ပတ်လျှင် ၂-၃ ကြိမ် (လတ်ဆတ်သော အရွက် ၅၀-၁၀၀ ဂရမ်ခန့်) စားသုံးနိုင်ပါသည်။"
+    },
+    "warnings": {
+      "en": "Avoid excessive long-term mega-dosing, which may cause mild headaches in sensitive individuals. Pregnant and nursing mothers should consult a physician before using concentrated extracts.",
+      "my": "ပမာဏများလွန်းစွာ ကာလကြာရှည် သောက်သုံးပါက ခေါင်းမူးခေါင်းကိုက် ဖြစ်တတ်သည်။ ကိုယ်ဝန်ဆောင်နှင့် နို့တိုက်မိခင်များ ဆေးအဆီအနှစ်ကို မသုံးစွဲမီ ဆရာဝန်နှင့် တိုင်ပင်ပါ။"
+    },
+    "relatedHerbs": [
+      "moringa",
+      "neem",
+      "turmeric"
+    ]
+  },
+  {
+    "id": "moringa",
+    "slug": "moringa",
+    "name": {
+      "en": "Moringa (Drumstick Tree)",
+      "my": "ဒန့်ဒလွန်"
+    },
+    "scientificName": "Moringa oleifera",
+    "category": "myanmar-traditional",
+    "image": "/src/assets/images/moringa.webp",
+    "imageCredit": "Photo by J.M. Garg via Wikimedia Commons (CC BY-SA 4.0)",
+    "description": {
+      "en": "A resilient fast-growing 'Miracle Tree' celebrated in Myanmar cuisine and traditional wellness for its dense spectrum of plant proteins, calcium, iron, and vitamin A. (Source: Traditional Myanmar Medicine Records & FAO Nutritional Databases) The leaves, pods, and flowers are all prized.",
+      "my": "ပရိုတင်း၊ ကယ်လ်ဆီယမ်၊ သံဓာတ်နှင့် ဗီတာမင်အေ အလွန်ကြွယ်ဝသဖြင့် မြန်မာ့ရိုးရာအစားအစာနှင့် ကျန်းမာရေးတွင် 'အံ့ဖွယ်ဆေးပင်' အဖြစ် တန်ဖိုးထားကြသော သစ်ပင်ဖြစ်ပါသည်။ (ရင်းမြစ် - မြန်မာ့တိုင်းရင်းဆေးမှတ်တမ်းနှင့် ကုလသမဂ္ဂ စားနပ်ရိက္ခာအဖွဲ့ အာဟာရဒေတာဘေ့စ်) အရွက်၊ အသီးနှင့် အပွင့်အားလုံးကို အသုံးချကြသည်။"
+    },
+    "whereItGrows": {
+      "en": "Native to the Indian subcontinent. Cultivated widely in lowlands, delta regions, and home gardens across every state and region of Myanmar.",
+      "my": "အိန္ဒိယတိုက်ငယ် မူရင်းပင်ဖြစ်ပြီး မြန်မာနိုင်ငံ ဒေသအသီးသီးရှိ မြေပြန့်လွင်ပြင်၊ မြစ်ဝကျွန်းပေါ်နှင့် အိမ်ခြံဝင်းများတွင် အလွယ်တကူ စိုက်ပျိုးဖြစ်ထွန်းသည်။"
+    },
+    "partsUsed": {
+      "en": "Tender small leaves, green seed pods (drumsticks), and white blossoms",
+      "my": "ဒန့်ဒလွန်ရွက်နု၊ ဒန့်ဒလွန်သီးစိမ်းနှင့် အပွင့်ဖြူများ"
+    },
+    "benefits": [
+      {
+        "en": "Traditional use: Outstanding natural micronutrient tonic that combats everyday fatigue and nutritional deficiencies.",
+        "my": "ရိုးရာသုံးစွဲမှု - အာဟာရချို့တဲ့ခြင်းနှင့် နေ့စဉ် မောပန်းနွမ်းနယ်ခြင်းကို တိုက်ဖျက်ပေးသည့် အစွမ်းထက် သဘာဝအားဆေး ဖြစ်ပါသည်။"
+      },
+      {
+        "en": "Traditional use: Helps stabilize healthy blood pressure and supports glycemic metabolic balance.",
+        "my": "ရိုးရာသုံးစွဲမှု - သွေးတိုးကျစေရန်နှင့် သွေးတွင်းသကြားဓာတ် ထိန်းညှိမှုကို အထောက်အကူပြုစေရန် သုံးစွဲကြသည်။"
+      },
+      {
+        "en": "Traditional use: Mild natural galactagogue traditionally consumed by postpartum mothers in soups.",
+        "my": "ရိုးရာသုံးစွဲမှု - မီးဖွားပြီးစ မိခင်များ နို့ထွက်ကောင်းစေရန် ဟင်းချိုချက်ပြုတ် တိုက်ကျွေးလေ့ရှိသည်။"
+      }
+    ],
+    "howToUse": [
+      {
+        "method": "cooking",
+        "en": "Traditional Leaf Soup (Dan Da Lun Hin Cho): Simmer fresh leaves with dried shrimp or fish and mild shallots.",
+        "my": "ဒန့်ဒလွန်ရွက် ဟင်းချို - ဒန့်ဒလွန်ရွက်နုများကို ပုစွန်ခြောက် သို့မဟုတ် ငါးခြောက်၊ ကြက်သွန်နီတို့ဖြင့် ဟင်းချိုခတ်ချက်ပါ။"
+      },
+      {
+        "method": "tea",
+        "en": "Leaf Powder Infusion: Stir 1 teaspoon of shade-dried moringa leaf powder into warm water or green smoothies.",
+        "my": "ဒန့်ဒလွန်ရွက်ခြောက်မှုန့် - အရိပ်ခြောက် အမှုန့် လက်ဖက်ရည်ဇွန်း ၁ ဇွန်းကို ရေနွေး သို့မဟုတ် ဖျော်ရည်တွင် ဖျော်သောက်ပါ။"
+      },
+      {
+        "method": "pod-curry",
+        "en": "Pod Stew: Cut green drumstick pods into lengths and stew in savory tamarind or lentil curries.",
+        "my": "ဒန့်ဒလွန်သီးဟင်း - ဒန့်ဒလွန်သီးကို လက်တစ်ဆစ်ခန့်ဖြတ်၍ ကုလားပဲဟင်း သို့မဟုတ် မန်ကျည်းမှည့်ဟင်းချိုတွင် ထည့်ချက်ပါ။"
+      }
+    ],
+    "howToApply": {
+      "en": [
+        "Strip 1 cup of fresh tender moringa leaves from their tough woody stems.",
+        "Wash leaves gently in cold water.",
+        "Bring 500ml water to boil with 1 tablespoon pounded dried shrimp and 2 sliced shallots.",
+        "Drop the moringa leaves into the pot, boil for just 2-3 minutes to preserve delicate vitamins, season lightly, and serve hot."
+      ],
+      "my": [
+        "ရိုးတံမာများမှ ဒန့်ဒလွန်ရွက်နု ၁ ခွက်စာကို ခြွေယူပါ။",
+        "အရွက်များကို ရေအေးဖြင့် ညင်သာစွာ ဆေးကြောပါ။",
+        "ရေ ၅၀၀ မီလီလီတာထဲသို့ ပုစွန်ခြောက်ထောင်း ၁ ဇွန်းနှင့် ကြက်သွန်နီပါးပါးလှီး ၂ လုံးထည့်ကာ ဆူအောင်တည်ပါ။",
+        "ဒန့်ဒလွန်ရွက်များကို ထည့်ပြီး ဗီတာမင်များ မပျက်စီးစေရန် ၂-၃ မိနစ်ခန့်သာ ဆူအောင်ထားပြီး ပူပူနွေးနွေး သုံးဆောင်ပါ။"
+      ]
+    },
+    "dosageAndFrequency": {
+      "en": "Fresh leaves in soup: 1-2 bowls 2-3 times weekly. Leaf powder: 1-2 teaspoons (3-6g) daily.",
+      "my": "ဟင်းချို - တစ်ပတ်လျှင် ၂-၃ ကြိမ်။ အရွက်ခြောက်မှုန့် - တစ်နေ့လျှင် လက်ဖက်ရည်ဇွန်း ၁ မှ ၂ ဇွန်း (၃-၆ ဂရမ်ခန့်)။"
+    },
+    "warnings": {
+      "en": "Roots and tree bark contain bitter alkaloids that should be avoided. Do not consume concentrated moringa root preparations during pregnancy.",
+      "my": "ဒန့်ဒလွန်ပင်၏ အမြစ်နှင့် အခေါက်များတွင် ပြင်းထန်သော အယ်လ်ကာလွိုက်များ ပါဝင်သဖြင့် ရှောင်ကြဉ်ရပါမည်။ အထူးသဖြင့် ကိုယ်ဝန်ဆောင်ချိန်တွင် အမြစ်ကို လုံးဝမသုံးစွဲရပါ။"
+    },
+    "relatedHerbs": [
+      "pennywort",
+      "neem",
+      "roselle"
+    ]
+  },
+  {
+    "id": "roselle",
+    "slug": "roselle",
+    "name": {
+      "en": "Roselle (Red Hibiscus)",
+      "my": "ချဉ်ပေါင် / ချဉ်ပေါင်နီ"
+    },
+    "scientificName": "Hibiscus sabdariffa",
+    "category": "tea",
+    "image": "/src/assets/images/roselle.webp",
+    "imageCredit": "Photo by Mokkie via Wikimedia Commons (CC BY-SA 3.0)",
+    "description": {
+      "en": "A beloved sour botanical staple in Myanmar households. The fleshy red calyces brew into a jewel-toned tart herbal tea, while the tender serrated leaves are the kingdom's favorite stir-fry. (Source: Traditional Myanmar Cuisine & Herbal Pharmacopoeia Monographs) Rich in vitamin C, anthocyanins, and fruit acids.",
+      "my": "မြန်မာအိမ်ထောင်စုတိုင်း၏ မရှိမဖြစ် ချဉ်ပေါင်ပင် ဖြစ်ပါသည်။ အနီရောင်ပွင့်ဖတ်များသည် ချဉ်မြမြ အနီရောင်ဆေးဖက်ဝင် ရေနွေးကြမ်းဖြစ်ပြီး အရွက်နုများသည် မြန်မာလူမျိုးတို့ အကြိုက်ဆုံး ဟင်းသီးဟင်းရွက် ဖြစ်ပါသည်။ (ရင်းမြစ် - မြန်မာ့ရိုးရာဟင်းလျာများနှင့် တိုင်းရင်းဆေးကျမ်း) ဗီတာမင်စီ၊ အန်သိုဆိုင်ယာနင်နှင့် သဘာဝအသီးအက်ဆစ်များ အထူးကြွယ်ဝပါသည်။"
+    },
+    "whereItGrows": {
+      "en": "Native to tropical West Africa and naturalized across tropical Asia. Grown in massive abundance across farmland and kitchen gardens across Myanmar.",
+      "my": "အပူပိုင်းဒေသ မူရင်းပင်ဖြစ်ပြီး အာရှတွင် ကျယ်ပြန့်စွာ စိုက်ပျိုးသည်။ မြန်မာနိုင်ငံတစ်ဝန်းရှိ စိုက်ခင်းများနှင့် အိမ်နောက်ဖေး ဥယျာဉ်များတွင် အလွန်ပေါများစွာ စိုက်ပျိုးကြသည်။"
+    },
+    "partsUsed": {
+      "en": "Fleshy ruby-red calyces (for tea, jams, and drinks) and tender green/red serrated leaves (for cooking)",
+      "my": "အနီရောင် ပွင့်ဖတ်အသား (ရေနွေးကြမ်း၊ ယိုနှင့် ဖျော်ရည်အတွက်) နှင့် ချဉ်ပေါင်ရွက်နု (ဟင်းချက်ရန်အတွက်)"
+    },
+    "benefits": [
+      {
+        "en": "Traditional use: Tart calyx tea helps support healthy cardiovascular systolic blood pressure.",
+        "my": "ရိုးရာသုံးစွဲမှု - ပွင့်ဖတ်နီရေနွေးကြမ်းသည် သွေးပေါင်ချိန်ကို ပုံမှန်ဖြစ်အောင် ထိန်းညှိပေးရာတွင် အထောက်အကူပြုသည်။"
+      },
+      {
+        "en": "Traditional use: Mild natural diuretic that gently flushes metabolic fluids through the urinary tract.",
+        "my": "ရိုးရာသုံးစွဲမှု - ဆီးရွှင်စေပြီး ခန္ဓာကိုယ်တွင်း ပိုလျှံသော အရည်များနှင့် အဆိပ်အတောက်များကို ဆီးမှတစ်ဆင့် စွန့်ထုတ်ပေးသည်။"
+      },
+      {
+        "en": "Traditional use: Abundant vitamin C and fruit acids stimulate appetite and soothe heat exhaustion.",
+        "my": "ရိုးရာသုံးစွဲမှု - ဗီတာမင်စီကြွယ်ဝသဖြင့် အပူငြိမ်းစေကာ အစာစားချင်စိတ်ကို နှိုးဆွပေးပါသည်။"
+      }
+    ],
+    "howToUse": [
+      {
+        "method": "tea",
+        "en": "Ruby Hibiscus Tea: Steep 4-5 dried calyces in 350ml boiling water for 10 minutes; enjoy hot or iced with lime.",
+        "my": "ချဉ်ပေါင်နီပွင့် ရေနွေးကြမ်း - ပွင့်ဖတ်ခြောက် ၄-၅ ဖတ်ကို ရေနွေးဆူဆူတွင် ၁၀ မိနစ်ခန့် နှပ်ပြီး သောက်သုံးပါ (အအေးခံ၍ ရေခဲထည့်သောက်လည်း ကောင်းပါသည်)။"
+      },
+      {
+        "method": "cooking",
+        "en": "Myanmar Sour Fry (Chin Baung Kyaw): Sauté fresh leaves with shrimp, green chilies, bamboo shoots, and garlic.",
+        "my": "ချဉ်ပေါင်ကြော် - ချဉ်ပေါင်ရွက်ကို ပုစွန်၊ မျှစ်၊ ငရုတ်သီးစိမ်း၊ ကြက်သွန်ဖြူတို့နှင့် ရောစပ်ပြီး မြန်မာ့ရိုးရာစတိုင် ကြော်ချက်စားပါ။"
+      },
+      {
+        "method": "cooler",
+        "en": "Iced Summer Cordial: Simmer calyces with natural cane sugar, chill, and dilute with sparkling water.",
+        "my": "ချဉ်ပေါင်နီ အအေးဖျော်ရည် - ပွင့်ဖတ်များကို သကြားအနည်းငယ်ဖြင့် ကျိုချက်အအေးခံပြီး သံပရာရည်၊ ရေခဲတို့ဖြင့် ဖျော်သောက်ပါ။"
+      }
+    ],
+    "howToApply": {
+      "en": [
+        "Take 4-6 whole dried roselle calyces (deep ruby-red).",
+        "Rinse quickly under cold tap water to remove any surface dust.",
+        "Place into a glass teapot or heat-resistant mug and pour 350ml boiling water.",
+        "Watch the liquid turn vibrant crimson; steep for 8-10 minutes.",
+        "Strain, sweeten with 1 teaspoon of raw honey if desired, and enjoy warm or poured over ice."
+      ],
+      "my": [
+        "အနီရင့်ရောင် ချဉ်ပေါင်နီပွင့်ဖတ်ခြောက် ၄-၆ ဖတ်ကို ယူပါ။",
+        "ဖုန်မှုန့်များ စင်ကြယ်စေရန် ရေအေးဖြင့် ခဏဆေးကြောပါ။",
+        "ဖန်လက်ဖက်ရည်အိုး သို့မဟုတ် ခွက်ထဲထည့်ပြီး ဆူပွက်နေသော ရေနွေး ၃၅၀ မီလီလီတာကို လောင်းထည့်ပါ။",
+        "အရည်မှာ ပတ္တမြားရောင် သန်းလာသည်အထိ ၈ မှ ၁၀ မိနစ်ခန့် နှပ်ထားပါ။",
+        "စစ်ယူပြီး ပျားရည် အနည်းငယ်ထည့်ကာ နွေးနွေးလေး သို့မဟုတ် ရေခဲစိမ်၍ သောက်သုံးပါ။"
+      ]
+    },
+    "dosageAndFrequency": {
+      "en": "Tea: 1 to 2 cups daily. Culinary leaves: Freely enjoyed in balanced meals.",
+      "my": "ရေနွေးကြမ်း - တစ်နေ့လျှင် ၁ မှ ၂ ခွက်။ အရွက် - ဟင်းလျာအဖြစ် လိုသလို စားသုံးနိုင်သည်။"
+    },
+    "warnings": {
+      "en": "Because roselle has a naturally mild hypotensive (blood-pressure lowering) and diuretic effect, individuals already taking antihypertensive medications should monitor blood pressure. Avoid very high medicinal doses during early pregnancy.",
+      "my": "သွေးပေါင်ကျစေသော သဘာဝအာနိသင်ရှိသဖြင့် သွေးကျဆေးသောက်နေရသူများ သွေးပေါင်ချိန်ကို သတိပြုသင့်သည်။ ကိုယ်ဝန်ဆောင်ကာလ အစောပိုင်းတွင် အလွန်အကျွံ သောက်သုံးခြင်းကို ရှောင်ကြဉ်ပါ။"
+    },
+    "relatedHerbs": [
+      "lemongrass",
+      "tamarind",
+      "butterfly-pea"
+    ]
+  },
+  {
+    "id": "galangal",
+    "slug": "galangal",
+    "name": {
+      "en": "Galangal (Greater Galangal)",
+      "my": "ပဒဲကော"
+    },
+    "scientificName": "Alpinia galanga",
+    "category": "myanmar-traditional",
+    "image": "/src/assets/images/galangal.webp",
+    "imageCredit": "Photo by David J. Stang via Wikimedia Commons (CC BY-SA 4.0)",
+    "description": {
+      "en": "A stout, aromatic perennial rhizome of the ginger family with a distinct piney, citrusy, and medicinal sharpness. (Source: Traditional Myanmar Medicine Pharmacopoeia & Southeast Asian Ethnobotany) A cornerstone in traditional herbal digestive decoctions and fragrant regional pastes.",
+      "my": "ချင်းမျိုးရင်းဝင် ဖြစ်သော်လည်း ထင်းရှူးနံ့သင်းပြီး ပိုမိုစူးရှသော ဆေးဖက်ဝင် မြေအောက်ဥပင် ဖြစ်ပါသည်။ (ရင်းမြစ် - မြန်မာ့တိုင်းရင်းဆေးသမိုင်းနှင့် အရှေ့တောင်အာရှ ရိုးရာဆေးကျမ်း) လေကြေဆေးဖက်ဝင် ရေနွေးကြမ်းများနှင့် ဟင်းခတ်အနှစ်များတွင် အဓိက အသုံးပြုကြသည်။"
+    },
+    "whereItGrows": {
+      "en": "Native to tropical Southeast Asia and Indonesia. Grown across Myanmar in moist, shaded tropical gardens and riverine forest edges.",
+      "my": "အရှေ့တောင်အာရှ အပူပိုင်းဒေသ မူရင်းပင်ဖြစ်ပြီး မြန်မာနိုင်ငံရှိ အရိပ်ကောင်းပြီး မြေဆီစိုစွတ်သော ဥယျာဉ်ခြံများတွင် စိုက်ပျိုးကြသည်။"
+    },
+    "partsUsed": {
+      "en": "Hard aromatic rhizome (fresh or dried cut slices)",
+      "my": "အမွှေးနံ့ပြင်းသော မြေအောက်ပင်စည်ဥ (ပဒဲကောဥ လတ်လတ်ဆတ်ဆတ် သို့မဟုတ် အခြောက်လှီးဖြတ်ထားသောအပြား)"
+    },
+    "benefits": [
+      {
+        "en": "Traditional use: Powerful warming carminative that disperses cold abdominal colic and persistent bloating.",
+        "my": "ရိုးရာသုံးစွဲမှု - ဗိုက်ကယ်ခြင်း၊ လေထိုးလေအောင့်နှင့် အစာမကြေ ရင်ပြည့်ခြင်းကို လျင်မြန်စွာ ပျောက်ကင်းစေပါသည်။"
+      },
+      {
+        "en": "Traditional use: Soothes throat tickles and clears thick phlegm when brewed as a warm decoction.",
+        "my": "ရိုးရာသုံးစွဲမှု - လည်ချောင်းယားယံခြင်းကို သက်သာစေပြီး ချွဲသလိပ်ပျော်စေရန် ရေနွေးကြမ်းကျိုသောက်ကြသည်။"
+      },
+      {
+        "en": "Traditional use: Contains antimicrobial essential oils that support gut microbial balance.",
+        "my": "ရိုးရာသုံးစွဲမှု - အစာအိမ်နှင့် အူလမ်းကြောင်းတွင်း မလိုလားအပ်သော ပိုးမွှားများကို သဘာဝအတိုင်း နှိမ်နင်းပေးသည်။"
+      }
+    ],
+    "howToUse": [
+      {
+        "method": "decoction",
+        "en": "Digestive Decoction: Simmer 3-4 crushed dried galangal slices with a piece of cinnamon in 400ml water for 12 minutes.",
+        "my": "ပဒဲကော ရေနွေးကြမ်း - ပဒဲကောခြောက် ၃-၄ ပြားကို သစ်ကြံပိုးခေါက်အနည်းငယ်ဖြင့် ရေ ၄၀၀ မီလီလီတာတွင် ၁၂ မိနစ်ခန့် ကျိုသောက်ပါ။"
+      },
+      {
+        "method": "cooking",
+        "en": "Culinary Paste: Pound fresh galangal with lemongrass, garlic, and shallots for rich fish and poultry marinades.",
+        "my": "ဟင်းခတ်အနှစ် - လတ်ဆတ်သော ပဒဲကောကို စပါးလင်၊ ကြက်သွန်ဖြူတို့နှင့် ရောထောင်း၍ ငါးနှင့် ကြက်သားဟင်းများတွင် အနံ့မွှေးစေရန် သုံးပါ။"
+      },
+      {
+        "method": "poultice",
+        "en": "Topical Warmth: Grate into a paste with warm rice liquor to apply onto sprained ankles or chills.",
+        "my": "အပူလိမ်းဆေး - ပဒဲကောကို အရက်ဦးရည်ဖြင့် သွေး၍ ခြေခေါက်လဲဒဏ်ရာ သို့မဟုတ် အကြောဆွဲသောနေရာများတွင် လိမ်းကျံပါ။"
+      }
+    ],
+    "howToApply": {
+      "en": [
+        "Take 2-3 dried slices (or 10g fresh bruised root) of authentic galangal.",
+        "Combine in a small saucepan with 350ml fresh water.",
+        "Bring to a boil, then reduce heat and simmer gently for 10-12 minutes.",
+        "Strain the golden aromatic brew into a mug and sip while pleasantly warm."
+      ],
+      "my": [
+        "ပဒဲကောခြောက် ၂-၃ ပြား (သို့မဟုတ် လတ်ဆတ်သောဥ ၁၀ ဂရမ်ခန့်ကို ထုထောင်းပါ)။",
+        "ရေ ၃၅၀ မီလီလီတာနှင့်အတူ အိုးအသေးထဲသို့ ထည့်ပါ။",
+        "ဆူပွက်အောင်တည်ပြီး မီးလျှော့ကာ ၁၀ မှ ၁၂ မိနစ်ခန့် ဖြည်းဖြည်းချင်း ကျိုပါ။",
+        "ရွှေဝါရောင် ရနံ့မွှေး ရေနွေးကြမ်းကို စစ်ယူ၍ နွေးနွေးလေး သောက်သုံးပါ။"
+      ]
+    },
+    "dosageAndFrequency": {
+      "en": "Decoction: 1 cup as needed for digestive upset. Culinary: 5-10g per recipe.",
+      "my": "ရေနွေးကြမ်း - လေထိုးလေအောင့်ဖြစ်ချိန်တွင် ၁ ခွက်။ ဟင်းချက်ရာတွင် - ၅ မှ ၁၀ ဂရမ်ခန့်။"
+    },
+    "warnings": {
+      "en": "Significantly sharper and warmer than common ginger; excessive doses may irritate gastric ulcers. Avoid medicinal mega-doses during pregnancy.",
+      "my": "ဂျင်းထက် ပိုမိုစပ်ရှားပြီး ပူနွေးသဖြင့် အစာအိမ်အနာရှိသူများ အလွန်အကျွံ မသုံးစွဲသင့်ပါ။ ကိုယ်ဝန်ဆောင်ချိန်တွင် ဆေးပမာဏများစွာ သောက်သုံးခြင်းကို ရှောင်ကြဉ်ပါ။"
+    },
+    "relatedHerbs": [
+      "ginger",
+      "turmeric",
+      "lemongrass"
+    ]
+  },
+  {
+    "id": "neem",
+    "slug": "neem",
+    "name": {
+      "en": "Neem (Margosa)",
+      "my": "တမာ"
+    },
+    "scientificName": "Azadirachta indica",
+    "category": "medicinal",
+    "image": "/src/assets/images/neem.webp",
+    "imageCredit": "Photo by Biswarup Ganguly via Wikimedia Commons (CC BY 3.0)",
+    "description": {
+      "en": "An iconic, profoundly bitter evergreen tree known as the 'Village Pharmacy' across Myanmar and the subcontinent. (Source: Traditional Myanmar Medicine Pharmacopoeia & Ayurvedic Classics) Revered for its deep blood-purifying properties, skin-clearing actions, and natural antimicrobial defense.",
+      "my": "မြန်မာနိုင်ငံနှင့် အာရှတိုက်တွင် 'ရွာတော်ဆေးတိုက်' ဟု တင်စားကြသော အလွန်ခါးပြီး အစွမ်းထက်သည့် သစ်ပင်ကြီး ဖြစ်ပါသည်။ (ရင်းမြစ် - မြန်မာ့တိုင်းရင်းဆေးကျမ်းနှင့် အာယုဗ္ဗေဒဆေးကျမ်းများ) သွေးသန့်စေခြင်း၊ အရေပြားရောဂါများ ပျောက်ကင်းစေခြင်းနှင့် ပိုးမွှားများကို သဘာဝအတိုင်း တိုက်ဖျက်ပေးခြင်းတို့တွင် အလွန်ထင်ရှားပါသည်။"
+    },
+    "whereItGrows": {
+      "en": "Native to Myanmar and the Indian subcontinent. Grows abundantly across Myanmar's central dry zone (Mandalay, Magway, Sagaing), providing dense shade in towns and villages.",
+      "my": "မြန်မာနိုင်ငံနှင့် အိန္ဒိယတိုက်ငယ် မူရင်းပင်ဖြစ်ပြီး မန္တလေး၊ မကွေး၊ စစ်ကိုင်း စသည့် အပူပိုင်းဒေသ မြို့ရွာများတွင် အရိပ်ရ အပင်ကြီးအဖြစ် အလွန်ပေါများစွာ ပေါက်ရောက်သည်။"
+    },
+    "partsUsed": {
+      "en": "Tender spring leaves, young flower shoots, bitter bark, and cold-pressed seed oil",
+      "my": "တမာရွက်နု၊ တမာပွင့်၊ အခေါက်ခါးနှင့် တမာစေ့ဆီ"
+    },
+    "benefits": [
+      {
+        "en": "Traditional use: Classic blood-cleansing bitter that helps clear stubborn skin boils, eczema, and blemishes.",
+        "my": "ရိုးရာသုံးစွဲမှု - သွေးသန့်စေသော အခါးဓာတ်ကြောင့် ဝက်ခြံ၊ မွေးကျွတ်နာနှင့် အရေပြားယားယံနာများကို သက်သာစေပါသည်။"
+      },
+      {
+        "en": "Traditional use: Natural oral antiseptic; twigs traditionally used to brush teeth and strengthen gums.",
+        "my": "ရိုးရာသုံးစွဲမှု - ခံတွင်းပိုးသတ်ပေးပြီး သွားနှင့် သွားဖုံးများ ခိုင်မာစေရန် တမာရိုးတံကို သွားတိုက်တံအဖြစ် သုံးခဲ့ကြသည်။"
+      },
+      {
+        "en": "Traditional culinary bitter: Steamed young leaves and flowers eaten with fish paste to cool summer liver heat.",
+        "my": "ရိုးရာအစားအသောက် - တမာရွက်နုနှင့် တမာပွင့်ကို ပြုတ်ပြီး ငါးပိရည်ဖြင့် တို့စားကာ နွေရာသီ အသည်းအပူငြိမ်းစေသည်။"
+      }
+    ],
+    "howToUse": [
+      {
+        "method": "cooking",
+        "en": "Traditional Boiled Green (Ta Mar Ywet Pyoke): Blanch young leaves and flower clusters in boiling water twice to temper bitterness; serve with spicy ngapi dip.",
+        "my": "တမာရွက်ပြုတ် တို့စရာ - တမာရွက်နုနှင့် တမာပွင့်ကို ရေနွေးဖျော၍ ငါးပိရည်၊ ငရုတ်သီးတို့ဖြင့် တွဲဖက်တို့စားပါ။"
+      },
+      {
+        "method": "poultice",
+        "en": "Skin Leaf Paste: Crush fresh leaves with a pinch of turmeric into a smooth paste; apply over itchy skin patches.",
+        "my": "အရေပြားလိမ်းဆေး - တမာရွက်ကို နနွင်းအနည်းငယ်နှင့် ထောင်း၍ ယားယံသောအနာနှင့် အဖုအပိမ့်များပေါ် လိမ်းပေးပါ။"
+      },
+      {
+        "method": "wash",
+        "en": "Herbal Bath: Boil a large bundle of leaves in bath water; use warm water to soothe itchy rashes.",
+        "my": "တမာရွက်ပြုတ်ရည် ရေချိုးခြင်း - တမာရွက်များကို ရေနွေးဖြင့် ကျိုချက်၍ အရေပြားယားယံခြင်း သက်သာစေရန် ရေချိုးပါ။"
+      }
+    ],
+    "howToApply": {
+      "en": [
+        "Pick 20-30 fresh clean neem leaves.",
+        "Pound in a stone mortar with 1 teaspoon of clean water and 1/4 teaspoon turmeric powder until a dense paste forms.",
+        "Cleanse the target skin area thoroughly with water.",
+        "Dab the bitter paste directly onto blemishes, bug bites, or inflamed skin patches.",
+        "Leave on for 20 minutes, then wash away with tepid water."
+      ],
+      "my": [
+        "လတ်ဆတ်သန့်ရှင်းသော တမာရွက် ၂၀-၃၀ ရွက်ကို ခူးယူပါ။",
+        "ကျောက်ဆုံထဲတွင် ရေ လက်ဖက်ရည်ဇွန်း ၁ ဇွန်း၊ နနွင်းမှုန့် ဇွန်း ၄ ပုံ ၁ ပုံတို့ဖြင့် ပျစ်ပျစ်လေး ထောင်းပါ။",
+        "လိမ်းမည့် အရေပြားနေရာကို ရေဖြင့် သန့်စင်အောင် ဆေးကြောပါ။",
+        "ဝက်ခြံ၊ ပိုးကောင်ကိုက်ရာ သို့မဟုတ် အဖုအပိမ့်ပေါ်သို့ တိုက်ရိုက်တို့လိမ်းပါ။",
+        "မိနစ် ၂၀ ခန့် ထားပြီးနောက် ရေနွေးနွေးဖြင့် ဆေးကြောပါ။"
+      ]
+    },
+    "dosageAndFrequency": {
+      "en": "Blanched culinary leaves: Small handful once or twice a week. Topical paste: As needed on affected skin.",
+      "my": "တို့စရာ - တစ်ပတ်လျှင် ၁-၂ ကြိမ် လက်တစ်ဆုပ်စာခန့်။ လိမ်းဆေး - လိုအပ်သလို အနာပေါ် လိမ်းပေးနိုင်ပါသည်။"
+    },
+    "warnings": {
+      "en": "Do NOT ingest neem seed oil (it is toxic internally and meant strictly for external use). Due to potent cooling and anti-fertility effects, pregnant women, infants, and couples trying to conceive must avoid internal consumption.",
+      "my": "တမာစေ့ဆီကို အတွင်းသောက်ဆေးအဖြစ် လုံးဝမသောက်ရပါ (အပြင်ပန်းလိမ်းရန်သာ ဖြစ်သည်)။ ကိုယ်ဝန်ဆောင်မိခင်များ၊ ကလေးငယ်များနှင့် ကိုယ်ဝန်ယူရန် ကြိုးစားနေသူများ သောက်သုံးခြင်းကို ရှောင်ကြဉ်ရပါမည်။"
+    },
+    "relatedHerbs": [
+      "turmeric",
+      "thanakha",
+      "pennywort"
+    ]
+  },
+  {
+    "id": "garlic",
+    "slug": "garlic",
+    "name": {
+      "en": "Garlic",
+      "my": "ကြက်သွန်ဖြူ"
+    },
+    "scientificName": "Allium sativum",
+    "category": "culinary",
+    "image": "/src/assets/images/garlic.webp",
+    "imageCredit": "Photo by Nick Fewings on Unsplash (Free License)",
+    "description": {
+      "en": "An indispensable, pungent bulb famed globally and across Myanmar kitchens. (Source: Traditional Pharmacopoeias & WHO Monographs on Selected Medicinal Plants) When crushed, its alliin enzyme converts to bioactive allicin, renowned for cardiovascular support and natural antibacterial potency.",
+      "my": "ကမ္ဘာတစ်ဝန်းနှင့် မြန်မာ့မီးဖိုချောင်တွင် မရှိမဖြစ် အရေးပါသော စူးရှသည့် ဥပင် ဖြစ်ပါသည်။ (ရင်းမြစ် - ရိုးရာဆေးကျမ်းများနှင့် ကမ္ဘာ့ကျန်းမာရေးအဖွဲ့ မိုနိုဂရပ်) ထောင်းထုလိုက်ချိန်တွင် အယ်လီစင် (Allicin) အစွမ်းထက်ဒြပ်ပေါင်း ထွက်ပေါ်လာပြီး နှလုံးသွေးကြောကျန်းမာရေးနှင့် သဘာဝပိုးသတ်အာနိသင်တို့တွင် အလွန်ထင်ရှားပါသည်။"
+    },
+    "whereItGrows": {
+      "en": "Native to Central Asia. Cultivated with supreme flavor in Myanmar's Shan highlands (Aungban, Taunggyi) and Kyaukse dry plains.",
+      "my": "အလယ်အာရှ မူရင်းပင်ဖြစ်ပြီး မြန်မာနိုင်ငံ ရှမ်းပြည်နယ် (အောင်ပန်း၊ တောင်ကြီး) နှင့် ကျောက်ဆည်လွင်ပြင်တို့တွင် အရည်အသွေးမြင့်မားစွာ စိုက်ပျိုးထွက်ရှိသည်။"
+    },
+    "partsUsed": {
+      "en": "Underground bulb divided into cloves, fresh or lightly cooked",
+      "my": "ကြက်သွန်ဖြူ ဥတက်အတွင်းရှိ အမွှာများ (အစိမ်း သို့မဟုတ် ချက်ပြုတ်ထားသည်)"
+    },
+    "benefits": [
+      {
+        "en": "Traditional use: Supports healthy blood pressure and balanced arterial lipid levels.",
+        "my": "ရိုးရာသုံးစွဲမှု - သွေးပေါင်ချိန်ကို ပုံမှန်ဖြစ်စေရန်နှင့် သွေးတွင်းအဆီ (ကိုလက်စထရော) ထိန်းညှိရန် အထောက်အကူပြုသည်။"
+      },
+      {
+        "en": "Traditional use: Potent natural antimicrobial defense during winter chills and respiratory congestion.",
+        "my": "ရိုးရာသုံးစွဲမှု - သဘာဝပိုးသတ်အာနိသင်ရှိပြီး အအေးမိဖျားနာခြင်းနှင့် အသက်ရှူလမ်းကြောင်းပိုးဝင်ခြင်းကို ကာကွယ်ပေးသည်။"
+      },
+      {
+        "en": "Traditional use: Stimulates digestive juices and disperses intestinal gas.",
+        "my": "ရိုးရာသုံးစွဲမှု - အစာကြေအရည်ထွက်မှုကို နှိုးဆွပေးပြီး လေပွလေထိုးခြင်းကို သက်သာစေပါသည်။"
+      }
+    ],
+    "howToUse": [
+      {
+        "method": "cooking",
+        "en": "Daily Cuisine: Crush cloves and let rest 5 minutes before lightly sautéing to activate and preserve allicin.",
+        "my": "နေ့စဉ် ဟင်းချက်ရာတွင် - အမွှာများကို ထုထောင်းပြီး ၅ မိနစ်ခန့်ထားကာမှ ဆီသတ်ချက်ပြုတ်ပါက အကျိုးပြုဒြပ်ပေါင်း အပြည့်အဝရရှိစေသည်။"
+      },
+      {
+        "method": "raw",
+        "en": "Morning Tonic (Traditional): Chew 1 small crushed clove with a spoonful of raw honey on an empty stomach.",
+        "my": "နံနက်ခင်းရိုးရာအားဆေး - ကြက်သွန်ဖြူ ၁ မြွှာကို ထောင်းပြီး ပျားရည် ၁ ဇွန်းနှင့်အတူ ဝါးစားသောက်သုံးပါ။"
+      },
+      {
+        "method": "infused-oil",
+        "en": "Garlic Oil: Gently warm sliced cloves in pure sesame or peanut oil to drizzle over salads and soups.",
+        "my": "ကြက်သွန်ဖြူဆီချက် - နှမ်းဆီ သို့မဟုတ် မြေပဲဆီတွင် ကြက်သွန်ဖြူနီကြော်ပြီး ဆီချက်အဖြစ် ဟင်းလျာများပေါ် ဆမ်းစားပါ။"
+      }
+    ],
+    "howToApply": {
+      "en": [
+        "Peel 1-2 fresh plump cloves of organic garlic.",
+        "Crush thoroughly with the flat blade of a heavy knife.",
+        "Allow the crushed garlic to sit at room temperature for 5-10 minutes to allow allinase enzyme to generate maximum allicin.",
+        "Mix with 1 teaspoon of raw unpasteurized honey and consume directly with a glass of warm water."
+      ],
+      "my": [
+        "သန့်ရှင်းသော ကြက်သွန်ဖြူ ၁-၂ မြွှာကို အခွံခွာပါ။",
+        "ဓားပြားဖြင့် ညက်ညက်ကျေအောင် ဖိထုပါ။",
+        "အကျိုးပြု အယ်လီစင်ဓာတ် အပြည့်အဝ ထွက်ပေါ်လာစေရန် အခန်းအပူချိန်တွင် ၅-၁၀ မိနစ်ခန့် ထားပါ။",
+        "ပျားရည်စစ်စစ် လက်ဖက်ရည်ဇွန်း ၁ ဇွန်းနှင့် ရောစပ်ပြီး ရေနွေးတစ်ခွက်နှင့်အတူ သောက်သုံးပါ။"
+      ]
+    },
+    "dosageAndFrequency": {
+      "en": "Raw crushed clove: 1-2 cloves daily with meals. Culinary: 2-4 cloves daily.",
+      "my": "အစိမ်းစားသုံးရန် - တစ်နေ့လျှင် ၁ မှ ၂ မြွှာ။ ဟင်းချက်ရာတွင် - တစ်နေ့လျှင် ၂ မှ ၄ မြွှာ။"
+    },
+    "warnings": {
+      "en": "Raw garlic in large amounts can irritate the stomach lining or cause heartburn. Because garlic exerts mild anti-platelet blood-thinning effects, stop high-dose use 1-2 weeks prior to surgical procedures.",
+      "my": "အစိမ်းပမာဏများစွာ စားပါက အစာအိမ်ရောင်ခြင်း သို့မဟုတ် ရင်ပူခြင်း ဖြစ်စေနိုင်သည်။ သွေးကျဲစေသော သဘာဝအာနိသင်ရှိသဖြင့် ခွဲစိတ်မှုမပြုလုပ်မီ ၁-၂ ပတ်အလိုတွင် ပမာဏများစွာ စားသုံးခြင်းကို ရှောင်ကြဉ်ပါ။"
+    },
+    "relatedHerbs": [
+      "ginger",
+      "turmeric",
+      "cinnamon"
+    ]
+  },
+  {
+    "id": "tamarind",
+    "slug": "tamarind",
+    "name": {
+      "en": "Tamarind",
+      "my": "မန်ကျည်း"
+    },
+    "scientificName": "Tamarindus indica",
+    "category": "culinary",
+    "image": "/src/assets/images/tamarind.webp",
+    "imageCredit": "Photo by B.navez via Wikimedia Commons (CC BY-SA 3.0)",
+    "description": {
+      "en": "A majestic tropical tree producing brown pods filled with sweet-tangy sticky pulp. (Source: Traditional Myanmar Medicine Pharmacopoeia & Tropical Agroforestry Materia) Celebrated across Myanmar for cooling the body, aiding digestion, and gently regulating bowel regularity.",
+      "my": "ချိုချဉ်အရသာရှိသော အနှစ်ပါသည့် အသီးတောင့်များ သီးလေ့ရှိသည့် မြန်မာ့အပူပိုင်းဒေသ၏ အဖိုးတန် သစ်ပင်ကြီး ဖြစ်ပါသည်။ (ရင်းမြစ် - မြန်မာ့တိုင်းရင်းဆေးကျမ်းနှင့် သစ်တောစိုက်ပျိုးရေးဆေးမှတ်တမ်း) ကိုယ်တွင်းအပူငြိမ်းစေခြင်း၊ အစာကြေစေခြင်းနှင့် ဝမ်းမှန်စေခြင်းတို့တွင် အထူးကျော်ကြားပါသည်။"
+    },
+    "whereItGrows": {
+      "en": "Indigenous to tropical Africa and deeply naturalized across Myanmar's central dry zone (Bagan, Popa, Meiktila, Magway), where ancient trees live for centuries.",
+      "my": "အပူပိုင်းဒေသ မူရင်းပင်ဖြစ်ပြီး ပုဂံ၊ ပုပ္ပား၊ မိတ္ထီလာ၊ မကွေး စသည့် မြန်မာနိုင်ငံ အလယ်ပိုင်း အပူပိုင်းဒေသတွင် နှစ်ရာချီ သက်တမ်းရှိသော မန်ကျည်းပင်ကြီးများကို တွေ့ရှိရသည်။"
+    },
+    "partsUsed": {
+      "en": "Aged ripe fruit pulp (magyi hmee), tender sour green spring leaves, and seeds",
+      "my": "ရင့်မှည့်သော မန်ကျည်းမှည့်အနှစ်၊ မန်ကျည်းရွက်နုနှင့် မန်ကျည်းစေ့"
+    },
+    "benefits": [
+      {
+        "en": "Traditional use: Mild natural laxative rich in tartaric acid and malic acid that promotes comfortable bowel movements.",
+        "my": "ရိုးရာသုံးစွဲမှု - သဘာဝအသီးအက်ဆစ်များ ပါဝင်သဖြင့် ဝမ်းချုပ်ခြင်းကို သက်သာစေပြီး ဝမ်းမှန်စေပါသည်။"
+      },
+      {
+        "en": "Traditional use: Refreshing cooling beverage soothes dehydration, sunstroke, and heat exhaustion.",
+        "my": "ရိုးရာသုံးစွဲမှု - နွေရာသီ နေလောင်ဒဏ်နှင့် အပူလျှပ်ခြင်းကြောင့် ရေဓာတ်ခန်းခြောက်မှုကို အေးမြလန်းဆန်းစေပါသည်။"
+      },
+      {
+        "en": "Traditional use: Tender young leaves eaten in soups to alleviate bilious nausea and sluggish liver.",
+        "my": "ရိုးရာသုံးစွဲမှု - မန်ကျည်းရွက်နု ဟင်းချိုသည် သည်းခြေဝေဒနာနှင့် မအီမသာဖြစ်ခြင်းကို သက်သာစေပါသည်။"
+      }
+    ],
+    "howToUse": [
+      {
+        "method": "drink",
+        "en": "Cooling Tamarind Water: Soak 1 tablespoon of aged pulp in warm water, mash, strain, and mix with a piece of jaggery.",
+        "my": "မန်ကျည်းဖျော်ရည် - မန်ကျည်းမှည့် ၁ ဇွန်းကို ရေနွေးတွင်စိမ်ချေပြီး စစ်ယူကာ ထန်းလျက်ခဲဖြင့် ရောစပ်သောက်သုံးပါ။"
+      },
+      {
+        "method": "cooking",
+        "en": "Myanmar Sour Soup (Magyi Ywet Hin Cho): Cook tender young sour leaves with dried river fish or seasonal beans.",
+        "my": "မန်ကျည်းရွက် ဟင်းချို - မန်ကျည်းရွက်နုများကို ငါးခြောက် သို့မဟုတ် ပဲတို့ဖြင့် ချဉ်ချဉ်လေး ဟင်းချိုချက်သောက်ပါ။"
+      },
+      {
+        "method": "poultice",
+        "en": "Warm Pulp Poultice: Warm tamarind pulp gently with salt and wrap over bruised, swollen joints to draw out heat.",
+        "my": "မန်ကျည်းမှည့် ကပ်ဆေး - မန်ကျည်းမှည့်ကို ဆားအနည်းငယ်နှင့် နွေးအောင်လုပ်ပြီး ညိုမည်းရောင်ရမ်းနေသော အဆစ်ပေါ် ကပ်ပေးပါ။"
+      }
+    ],
+    "howToApply": {
+      "en": [
+        "Take 20g of clean aged tamarind pulp without seeds.",
+        "Place into a cup and pour 200ml of warm water over it.",
+        "Let steep for 10 minutes, then mash thoroughly with a spoon to extract the thick tangy pulp.",
+        "Strain through a sieve to remove fibrous threads.",
+        "Add a small piece of natural Myanmar palm jaggery, stir until dissolved, and drink comfortably warm or chilled."
+      ],
+      "my": [
+        "အစေ့မပါသော သန့်ရှင်းသည့် မန်ကျည်းမှည့် ၂၀ ဂရမ်ခန့်ကို ယူပါ။",
+        "ခွက်ထဲထည့်ပြီး ရေနွေးနွေး ၂၀၀ မီလီလီတာ လောင်းထည့်ပါ။",
+        "၁၀ မိနစ်ခန့် စိမ်ထားပြီးနောက် အနှစ်များ ထွက်လာစေရန် ဇွန်းဖြင့် သေချာချေမွှပါ။",
+        "အမျှင်များ စင်သွားအောင် ဇကာဖြင့် စစ်ယူပါ။",
+        "သဘာဝ ထန်းလျက်ခဲ အနည်းငယ်ထည့်၍ အရည်ဖျော်ကာ နွေးနွေးလေး သို့မဟုတ် အအေးခံသောက်သုံးပါ။"
+      ]
+    },
+    "dosageAndFrequency": {
+      "en": "Tamarind water: 1 glass as needed for digestive heat or irregularity. Cooking: As desired.",
+      "my": "မန်ကျည်းဖျော်ရည် - ဝမ်းချုပ်ချိန် သို့မဟုတ် အပူများချိန်တွင် ၁ ခွက်။ ဟင်းလျာများတွင် လိုသလို သုံးနိုင်သည်။"
+    },
+    "warnings": {
+      "en": "High acidity may cause enamel erosion if sipped continuously; rinse mouth with plain water after drinking. Excessive consumption may cause loose stools.",
+      "my": "အချဉ်ဓာတ်ပြင်းသဖြင့် သောက်ပြီးပါက သွားကြွေလွှာမပျက်စီးစေရန် ရေရိုးရိုးဖြင့် ပလုတ်ကျင်းပေးပါ။ ပမာဏများလွန်းပါက ဝမ်းလျှောတတ်ပါသည်။"
+    },
+    "relatedHerbs": [
+      "roselle",
+      "garlic",
+      "ginger"
+    ]
+  },
+  {
+    "id": "chamomile",
+    "slug": "chamomile",
+    "name": {
+      "en": "Chamomile (German Chamomile)",
+      "my": "ကမိုမိုင်းလ် (ဂျာမန် ကမိုမိုင်းလ်)"
+    },
+    "scientificName": "Matricaria chamomilla",
+    "category": "tea",
+    "image": "/src/assets/images/chamomile.webp",
+    "imageCredit": "Photo by Marina Khrapova on Unsplash (Free License)",
+    "description": {
+      "en": "Delicate daisy-like blossoming herb carrying a sweet, apple-like aroma. (Source: German Commission E Monographs & European Medicines Agency) Highly celebrated for calming evening nervous tension, soothing the stomach, and easing restful sleep.",
+      "my": "ပန်းသီးနံ့သင်းပျံ့သော ဂန္ဓမာမျိုးနွယ် ပန်းဖြူလေးများ ဖြစ်ပါသည်။ (ရင်းမြစ် - ဂျာမန်ကော်မရှင်အီး မိုနိုဂရပ်နှင့် ဥရောပဆေးဝါးအေဂျင်စီ) ညနေခင်း အာရုံကြောဖိစီးမှု လျှော့ချပေးခြင်း၊ အစာအိမ်ငြိမ်းအေးစေခြင်းနှင့် နှစ်ခြိုက်စွာ အိပ်ပျော်စေခြင်းတို့တွင် ကမ္ဘာကျော် လူကြိုက်များပါသည်။"
+    },
+    "whereItGrows": {
+      "en": "Native to Southern and Eastern Europe and Western Asia. Cultivated worldwide in well-drained sunny temperate meadows and highland cool regions.",
+      "my": "ဥရောပတောင်ပိုင်းနှင့် အနောက်အာရှ မူရင်းပင်ဖြစ်ပြီး ကမ္ဘာတစ်ဝန်းရှိ နေရောင်ကောင်းသော တောင်ကုန်းလွင်ပြင် အေးမြသည့် ဒေသများတွင် စိုက်ပျိုးကြသည်။"
+    },
+    "partsUsed": {
+      "en": "Whole dried daisy-like blossom flower heads",
+      "my": "အခြောက်လှန်းထားသော ကမိုမိုင်းလ် ပန်းခိုင်ပွင့်ဖတ်တစ်ခုလုံး"
+    },
+    "benefits": [
+      {
+        "en": "Traditional use: Mild natural sedative action quiets racing thoughts and supports peaceful nocturnal sleep.",
+        "my": "ရိုးရာသုံးစွဲမှု - စိတ်အေးချမ်းစေပြီး ညဘက် နှစ်ခြိုက်စွာ အိပ်ပျော်စေရန် အထောက်အကူပြုပါသည်။"
+      },
+      {
+        "en": "Traditional use: Antispasmodic matricin soothes stomach cramping and irritable digestion.",
+        "my": "ရိုးရာသုံးစွဲမှု - အစာအိမ်နှင့် အူလမ်းကြောင်း ကြွက်သားညှစ်နာခြင်းကို သက်သာစေပါသည်။"
+      },
+      {
+        "en": "Traditional topical use: Cooling compress calms puffy irritated eyes and inflamed skin.",
+        "my": "ရိုးရာလိမ်းဆေး - မျက်လုံးညောင်းညာရောင်ရမ်းခြင်းနှင့် အရေပြားနီမြန်းခြင်းကို အေးမြသက်သာစေရန် ကပ်ပေးကြသည်။"
+      }
+    ],
+    "howToUse": [
+      {
+        "method": "tea",
+        "en": "Bedtime Tisane: Steep 1 tablespoon dried blossoms in 250ml boiling water for 6-8 minutes covered; sip 30 minutes before sleep.",
+        "my": "အိပ်ရာဝင် ရေနွေးကြမ်း - ပန်းပွင့်ခြောက် ၁ ဇွန်းကို ရေနွေး ၂၅၀ မီလီလီတာတွင် အဖုံးအုပ်၍ ၆-၈ မိနစ်ခန့် နှပ်ပြီး အိပ်ရာမဝင်မီ သောက်ပါ။"
+      },
+      {
+        "method": "compress",
+        "en": "Eye Soother: Chill steeped chamomile tea bags or cotton pads and place over tired, strained eyelids.",
+        "my": "မျက်လုံးအပူကပ်ခြင်း - ရေနွေးကြမ်းနှပ်ပြီး အိတ် သို့မဟုတ် ဂွမ်းစကို အအေးခံ၍ မျက်ခွံပေါ်တွင် ၁၀ မိနစ်ခန့် တင်ထားပါ။"
+      },
+      {
+        "method": "steam",
+        "en": "Facial Steam: Add dried flowers to a bowl of steaming water to open pores and soften dry facial skin.",
+        "my": "မျက်နှာပေါင်းတင်ခြင်း - ရေနွေးငွေ့ဇလုံထဲသို့ ပန်းပွင့်များထည့်ပြီး မျက်နှာကို အငွေ့ခံပေးပါ။"
+      }
+    ],
+    "howToApply": {
+      "en": [
+        "Take 2 tablespoons of fragrant dried chamomile flowers.",
+        "Place into a tea strainer or porcelain teapot.",
+        "Pour 300ml of boiling spring water directly over the petals.",
+        "Cover tightly with a lid to trap delicate volatile oils (chamazulene).",
+        "Infuse for 7 minutes, strain, add a teaspoon of wildflower honey, and sip in dim lighting before bed."
+      ],
+      "my": [
+        "မွှေးပျံ့သော ကမိုမိုင်းလ်ပန်းပွင့်ခြောက် ၂ ဇွန်းကို ယူပါ။",
+        "လက်ဖက်ရည်စစ်ဇကာ သို့မဟုတ် ကြွေအိုးထဲသို့ ထည့်ပါ။",
+        "ဆူပွက်နေသော ရေနွေး ၃၀၀ မီလီလီတာကို ပန်းပွင့်များပေါ် တိုက်ရိုက်လောင်းထည့်ပါ။",
+        "သဘာဝရနံ့ဆီများ မလွင့်ပြယ်စေရန် အဖုံးကို လုံခြုံစွာ အုပ်ထားပါ။",
+        "၇ မိနစ်ခန့် နှပ်ပြီး စစ်ယူကာ ပျားရည်အနည်းငယ်ထည့်၍ အိပ်ရာမဝင်မီ ဖြည်းညင်းစွာ သောက်သုံးပါ။"
+      ]
+    },
+    "dosageAndFrequency": {
+      "en": "Tea: 1 to 2 cups daily, ideally in the evening or after meals.",
+      "my": "ရေနွေးကြမ်း - တစ်နေ့လျှင် ၁ မှ ၂ ခွက် (ညနေခင်း သို့မဟုတ် အစာစားပြီးနောက် အထူးသင့်လျော်ပါသည်)။"
+    },
+    "warnings": {
+      "en": "Individuals with known severe allergies to the Asteraceae / daisy family (ragweed, marigolds) may experience allergic reactions. Consult a doctor if taking prescription sedative medication.",
+      "my": "ဂန္ဓမာမျိုးရင်းဝင် အပင်များနှင့် ဓာတ်မတည့်သူများ ဓာတ်မတည့်တုံ့ပြန်မှု ဖြစ်နိုင်သည်။ အိပ်ဆေးသောက်သုံးနေရပါက ဆရာဝန်နှင့် တိုင်ပင်ပါ။"
+    },
+    "relatedHerbs": [
+      "peppermint",
+      "lemongrass",
+      "tulsi"
+    ]
+  },
+  {
+    "id": "peppermint",
+    "slug": "peppermint",
+    "name": {
+      "en": "Peppermint",
+      "my": "ပူဒီနာ"
+    },
+    "scientificName": "Mentha × piperita",
+    "category": "tea",
+    "image": "/src/assets/images/peppermint.webp",
+    "imageCredit": "Photo by Jocelyn Morales on Unsplash (Free License)",
+    "description": {
+      "en": "An invigorating hybrid mint packed with icy menthol volatile oils. (Source: Traditional European Herbalism & WHO Monographs) Celebrated worldwide for relaxing gastrointestinal smooth muscles, clarifying nasal pathways, and cooling tension headaches.",
+      "my": "လန်းဆန်းအေးမြသော မင်သော် (Menthol) ရနံ့ဆီ အပြည့်ပါဝင်သည့် ပူဒီနာပင် ဖြစ်ပါသည်။ (ရင်းမြစ် - ဥရောပရိုးရာဆေးကျမ်းနှင့် ကမ္ဘာ့ကျန်းမာရေးအဖွဲ့ မိုနိုဂရပ်) အစာအိမ်နှင့် အူလမ်းကြောင်းကြွက်သားများကို ပြေလျော့စေခြင်း၊ နှာခေါင်းလမ်းကြောင်း ရှင်းလင်းစေခြင်းနှင့် ခေါင်းကိုက်သက်သာစေခြင်းတို့တွင် ကမ္ဘာကျော် လူကြိုက်များပါသည်။"
+    },
+    "whereItGrows": {
+      "en": "Native to Europe and the Middle East. Widely cultivated in cool temperate regions and moist garden beds throughout Shan State and Myanmar highlands.",
+      "my": "ဥရောပနှင့် အရှေ့အလယ်ပိုင်း မူရင်းပင်ဖြစ်ပြီး မြန်မာနိုင်ငံ ရှမ်းပြည်နယ် တောင်ပေါ်ဒေသများနှင့် ရေရရှိမှုကောင်းသော ဥယျာဉ်ခြံများတွင် အောင်မြင်စွာ စိုက်ပျိုးကြသည်။"
+    },
+    "partsUsed": {
+      "en": "Fresh or carefully dried green leaves and flowering tops",
+      "my": "လတ်ဆတ်သော သို့မဟုတ် အခြောက်လှန်းထားသော ပူဒီနာရွက်စိမ်း"
+    },
+    "benefits": [
+      {
+        "en": "Traditional use: Menthol relaxes lower gut smooth muscles to relieve bloating, gas, and digestive cramps.",
+        "my": "ရိုးရာသုံးစွဲမှု - အစာအိမ်နှင့် အူလမ်းကြောင်းကြွက်သားများကို ပြေလျော့စေပြီး လေထိုးလေအောင့်နှင့် ရင်ပြည့်ခြင်းကို သက်သာစေပါသည်။"
+      },
+      {
+        "en": "Traditional use: Invigorating crisp aroma awakens mental focus and eases midday brain fog.",
+        "my": "ရိုးရာသုံးစွဲမှု - စူးရှလန်းဆန်းသော အနံ့သည် ဦးနှောက်ကို နိုးကြားစေပြီး မွန်းတည့်ချိန် စိတ်ပင်ပန်းမှုကို ပြေပျောက်စေပါသည်။"
+      },
+      {
+        "en": "Traditional topical use: Cooling menthol applied to temples relieves tension and tightness.",
+        "my": "ရိုးရာလိမ်းကျံမှု - နားထင်တွင် လိမ်းပေးပါက ခေါင်းကိုက်ခေါင်းခဲခြင်းနှင့် ဇက်လေးခြင်းကို အေးမြသက်သာစေပါသည်။"
+      }
+    ],
+    "howToUse": [
+      {
+        "method": "tea",
+        "en": "After-Dinner Tisane: Steep 1 handful fresh leaves or 1 tsp dried mint in 250ml hot water for 5 minutes; drink warm.",
+        "my": "အစာစားပြီး ရေနွေးကြမ်း - ပူဒီနာရွက် လတ်လတ်ဆတ်ဆတ် လက်တစ်ဆုပ်စာကို ရေနွေးတွင် ၅ မိနစ်ခန့် နှပ်ပြီး သောက်သုံးပါ။"
+      },
+      {
+        "method": "steam",
+        "en": "Sinus Inhalation: Drop leaves into a steaming bowl and inhale through nose to break nasal congestion.",
+        "my": "ပေါင်းတင်ရှူရှိုက်ခြင်း - ရေနွေးငွေ့ဇလုံထဲ ပူဒီနာရွက်ထည့်ပြီး နှာခေါင်းပိတ်သက်သာစေရန် ရှူရှိုက်ပါ။"
+      },
+      {
+        "method": "cooking",
+        "en": "Culinary Garnish: Chop fresh leaves into cold yogurt dips, fresh cucumber salads, and summer teas.",
+        "my": "ဟင်းလျာများ - သခွားသီးသုပ်၊ ဒိန်ချဉ်နှင့် အသုပ်စုံများတွင် လန်းဆန်းစေရန် ထည့်သွင်းစားသုံးပါ။"
+      }
+    ],
+    "howToApply": {
+      "en": [
+        "Pluck 8-10 fresh fragrant peppermint leaves.",
+        "Gently rub the leaves between palms to rupture microscopic menthol glands.",
+        "Place into a tea cup and pour 250ml hot (not boiling, approx 90°C) water.",
+        "Cover for 5 minutes to hold in the volatile cooling vapors.",
+        "Inhale steam gently through the nose, then sip slowly after meals."
+      ],
+      "my": [
+        "လတ်ဆတ်မွှေးပျံ့သော ပူဒီနာရွက် ၈-၁၀ ရွက်ကို ခူးယူပါ။",
+        "မင်သော်ဆီထွက်စေရန် လက်ဖဝါးဖြင့် ညင်သာစွာ ပွတ်ချေပါ။",
+        "ခွက်ထဲထည့်ပြီး ရေနွေး ၂၅၀ မီလီလီတာကို လောင်းထည့်ပါ။",
+        "အေးမြသောအငွေ့များ မလွင့်ပြယ်စေရန် ၅ မိနစ်ခန့် အဖုံးအုပ်ထားပါ။",
+        "ရေနွေးငွေ့ကို နှာခေါင်းဖြင့် ညင်သာစွာ ရှူရှိုက်ပြီးနောက် အစာစားပြီးချိန်တွင် သောက်သုံးပါ။"
+      ]
+    },
+    "dosageAndFrequency": {
+      "en": "Tea: 1 to 3 cups daily after meals.",
+      "my": "ရေနွေးကြမ်း - တစ်နေ့လျှင် ၁ မှ ၃ ခွက် အစာစားပြီးနောက် သောက်သုံးနိုင်သည်။"
+    },
+    "warnings": {
+      "en": "May relax the lower esophageal sphincter and worsen symptoms of severe acid reflux / GERD in susceptible individuals. Do not apply undiluted peppermint essential oil directly to infant faces.",
+      "my": "အစာပြွန်အောက်ခြေကြွက်သားကို ပြေလျော့စေသဖြင့် အစာခြေရည်ဆန်တက်တတ်သူများ (GERD) သတိပြုသင့်သည်။ ပူဒီနာဆီစစ်စစ်ကို ကလေးငယ်များ၏ မျက်နှာပေါ် တိုက်ရိုက်မလိမ်းရပါ။"
+    },
+    "relatedHerbs": [
+      "chamomile",
+      "lemongrass",
+      "rosemary"
+    ]
+  },
+  {
+    "id": "rosemary",
+    "slug": "rosemary",
+    "name": {
+      "en": "Rosemary",
+      "my": "ရိုစမေရီ"
+    },
+    "scientificName": "Salvia rosmarinus",
+    "category": "aromatic",
+    "image": "/src/assets/images/rosemary.webp",
+    "imageCredit": "Photo by Milada Vigerova on Unsplash (Free License)",
+    "description": {
+      "en": "A woody Mediterranean evergreen shrub with needle-like leaves and a rich camphoraceous, pine aroma. (Source: Traditional Herbal Pharmacopoeias & European Commission Monographs) Celebrated across history for supporting memory retention, scalp circulation, and hair follicle strength.",
+      "my": "ထင်းရှူးရနံ့ သင်းပျံ့သည့် အမြဲစိမ်း အပင်ပုမျိုးနွယ် ဖြစ်ပါသည်။ (ရင်းမြစ် - ဥရောပရိုးရာဆေးကျမ်းနှင့် ကော်မရှင်မိုနိုဂရပ်) ရှေးခေတ်သမိုင်းတစ်လျှောက် မှတ်ဉာဏ်ကောင်းစေခြင်း၊ ဦးရေပြား သွေးလည်ပတ်မှု ကောင်းမွန်စေခြင်းနှင့် ဆံပင်မွေးညင်းပေါက်များ သန်မာစေခြင်းတို့တွင် အလွန်ထင်ရှားပါသည်။"
+    },
+    "whereItGrows": {
+      "en": "Native to rocky cliffs and coastal sunlit regions of the Mediterranean basin. Grows happily in sunny gardens with sandy, well-aerated soils.",
+      "my": "မြေထဲပင်လယ် ကမ်းရိုးတန်း နေရောင်ကောင်းသော ကျောက်ဆောင်ဒေသ မူရင်းပင်ဖြစ်ပြီး သဲဆန်ပြီး ရေစီးဆင်းမှုကောင်းသော မြေတွင် ကောင်းစွာဖြစ်ထွန်းသည်။"
+    },
+    "partsUsed": {
+      "en": "Fresh or dried needle leaves and aromatic flowering twig tops",
+      "my": "အပ်ပုံသဏ္ဌာန် အရွက်များ၊ အကိုင်းနုနှင့် ပန်းခိုင်များ"
+    },
+    "benefits": [
+      {
+        "en": "Traditional use: Rich in carnosic and rosmarinic acids that stimulate alertness and recall memory.",
+        "my": "ရိုးရာသုံးစွဲမှု - ဉာဏ်ရည်ထက်မြက်စေရန်၊ အာရုံစူးစိုက်မှုနှင့် မှတ်ဉာဏ်ကောင်းမွန်စေရန် အသုံးပြုကြသည်။"
+      },
+      {
+        "en": "Traditional hair rinse: Stimulates blood microcirculation around scalp hair follicles to support fuller hair.",
+        "my": "ရိုးရာဆံကေသာထိန်းသိမ်းမှု - ဦးရေပြား သွေးလှည့်ပတ်မှု ကောင်းစေပြီး ဆံပင်ကျွတ်သက်သာကာ ဆံပင်သန်စွမ်းစေပါသည်။"
+      },
+      {
+        "en": "Traditional culinary use: Potent antioxidant herb that preserves fats and aids rich protein digestion.",
+        "my": "ရိုးရာဟင်းချက်နည်း - ဓာတ်တိုးဆန့်ကျင်အာနိသင် မြင့်မားသဖြင့် အသားဟင်းများတွင် အဆီအဆိမ့်ကြေလွယ်စေရန် ထည့်ချက်ကြသည်။"
+      }
+    ],
+    "howToUse": [
+      {
+        "method": "hair-rinse",
+        "en": "Botanical Scalp Rinse: Simmer 3 fresh sprigs in 500ml water for 15 minutes, cool completely, and pour over clean scalp after washing.",
+        "my": "ဆံပင်ပေါင်းတင် ရေဆေးရည် - ရိုစမေရီ ၃ ခက်ကို ရေ ၅၀၀ မီလီလီတာတွင် ၁၅ မိနစ် ကျိုပြီး အအေးခံကာ ခေါင်းလျှော်ပြီး ဦးရေပြားပေါ် လောင်းချနှိပ်နယ်ပါ။"
+      },
+      {
+        "method": "tea",
+        "en": "Memory Infusion: Steep 1 teaspoon dried needles in hot water for 7 minutes; strain and drink during study.",
+        "my": "ဉာဏ်ရည်ကြည် ရေနွေးကြမ်း - အရွက်ခြောက် လက်ဖက်ရည်ဇွန်း ၁ ဇွန်းကို ရေနွေးတွင် ၇ မိနစ် နှပ်ပြီး စာဖတ်ချိန်တွင် သောက်သုံးပါ။"
+      },
+      {
+        "method": "cooking",
+        "en": "Culinary: Roast with potatoes, vegetables, and savory dishes to release pine-pine aromas.",
+        "my": "ဟင်းလျာများ - အာလူးကင်၊ ဟင်းသီးဟင်းရွက်နှင့် အသားကင်များတွင် အနံ့မွှေးစေရန် ထည့်သွင်းချက်ပြုတ်ပါ။"
+      }
+    ],
+    "howToApply": {
+      "en": [
+        "Take 4-5 fresh rosemary sprigs (or 2 tablespoons dried needles).",
+        "Bring 500ml pure water to a boil in a covered pot.",
+        "Add rosemary, lower heat, and simmer gently for 15 minutes.",
+        "Remove from heat and let steep covered until completely cooled to room temperature.",
+        "Strain into a spray bottle; spritz directly onto scalp roots nightly and massage gently without rinsing."
+      ],
+      "my": [
+        "လတ်ဆတ်သော ရိုစမေရီ ၄-၅ ခက် (သို့မဟုတ် အရွက်ခြောက် ၂ ဇွန်း) ကို ယူပါ။",
+        "ရေ ၅၀၀ မီလီလီတာကို အိုးအဖုံးအုပ်၍ ဆူအောင်တည်ပါ။",
+        "ရိုစမေရီထည့်ပြီး မီးအေးအေးဖြင့် ၁၅ မိနစ်ခန့် ဖြည်းဖြည်းချင်း ကျိုပါ။",
+        "မီးဖိုပေါ်မှချပြီး အခန်းအပူချိန်ရောက်သည်အထိ အဖုံးအုပ် အအေးခံပါ။",
+        "ဖြန်းဆေးဘူးထဲသို့ စစ်ထည့်ကာ ညစဉ် ဦးရေပြားအရင်းများသို့ ဖြန်းပြီး ရေပြန်မဆေးဘဲ ညင်သာစွာ နှိပ်နယ်ပေးပါ။"
+      ]
+    },
+    "dosageAndFrequency": {
+      "en": "Tea: 1 cup daily. Scalp tonic: Spray and massage daily or 3-4 times a week.",
+      "my": "ရေနွေးကြမ်း - တစ်နေ့လျှင် ၁ ခွက်။ ဦးရေပြားဖြန်းဆေး - တစ်နေ့တစ်ကြိမ် သို့မဟုတ် တစ်ပတ်လျှင် ၃-၄ ကြိမ်။"
+    },
+    "warnings": {
+      "en": "Culinary amounts are completely safe. High medicinal doses should be avoided by individuals with epilepsy or high blood pressure, and during pregnancy.",
+      "my": "ဟင်းချက်ရာတွင် သုံးစွဲခြင်းသည် အန္တရာယ်ကင်းပါသည်။ ဝက်ရူးပြန်ရောဂါရှိသူများ၊ သွေးတိုးရောဂါသည်များနှင့် ကိုယ်ဝန်ဆောင်များ ဆေးပမာဏများစွာ သုံးစွဲခြင်းကို ရှောင်ကြဉ်ပါ။"
+    },
+    "relatedHerbs": [
+      "tulsi",
+      "peppermint",
+      "cinnamon"
+    ]
+  },
+  {
+    "id": "echinacea",
+    "slug": "echinacea",
+    "name": {
+      "en": "Echinacea (Purple Coneflower)",
+      "my": "အီခီနေးရှား"
+    },
+    "scientificName": "Echinacea purpurea",
+    "category": "medicinal",
+    "image": "/src/assets/images/echinacea.webp",
+    "imageCredit": "Photo by Hans Braxmeier on Pexels (Free License)",
+    "description": {
+      "en": "A majestic perennial prairie flower with magenta petals and spiky copper cones. (Source: Native American Ethnobotany & European Herbal Monographs) One of the world's most widely studied botanicals for priming white blood cells at the first onset of seasonal colds.",
+      "my": "ခရမ်းရောင်ပွင့်ဖတ်နှင့် ကြေးနီရောင်ပန်းဝတ်ဆံပါရှိသော လှပသည့် ပန်းပွင့်ဆေးပင် ဖြစ်ပါသည်။ (ရင်းမြစ် - အမေရိကန်တိုင်းရင်းဆေးမှတ်တမ်းနှင့် ဥရောပဆေးဖက်ဝင်အပင်မိုနိုဂရပ်) ရာသီတုပ်ကွေးနှင့် အအေးမိဖျားနာစတင်ချိန်တွင် သွေးဖြူဥစနစ်ကို လှုံ့ဆော်ပေးသော အစွမ်းထက် ဆေးပင်အဖြစ် ကမ္ဘာတစ်ဝန်း ကျော်ကြားပါသည်။"
+    },
+    "whereItGrows": {
+      "en": "Native to central and eastern North American prairies and open woodlands. Widely cultivated internationally in temperate herbal gardens.",
+      "my": "မြောက်အမေရိက လွင်ပြင်ဒေသများ မူရင်းပင်ဖြစ်ပြီး ယခုအခါ ကမ္ဘာတစ်ဝန်းရှိ သမပိုင်းဒေသ ဆေးဖက်ဝင် ဥယျာဉ်များတွင် ကျယ်ပြန့်စွာ စိုက်ပျိုးကြသည်။"
+    },
+    "partsUsed": {
+      "en": "Above-ground flowering aerial herb and dried roots (containing echinacosides and alkylamides)",
+      "my": "မြေပေါ်ရှိ ပန်းပွင့်၊ ပင်စည်အရွက်နှင့် အခြောက်လှန်းထားသော အမြစ်ဥ"
+    },
+    "benefits": [
+      {
+        "en": "Traditional use: Primes immune defenses at the very first scratchy throat or sneeze of a seasonal cold.",
+        "my": "ရိုးရာသုံးစွဲမှု - အအေးမိဖျားနာ၊ ချောင်းဆိုးနှင့် လည်ချောင်းယားစတင်ချိန်တွင် ကိုယ်ခံအားစနစ်ကို နိုးကြားစေပါသည်။"
+      },
+      {
+        "en": "Traditional use: Mild tingling sensation activates oral and lymphatic immune defenses.",
+        "my": "ရိုးရာသုံးစွဲမှု - လျှာပေါ်တွင် စပ်ဖျဉ်းဖျဉ်းဖြစ်စေသော အယ်လ်ကီလမိုက်ဒြပ်ပေါင်းသည် ပြန်ရည်ကြောစနစ်ကို လှုံ့ဆော်ပေးသည်။"
+      },
+      {
+        "en": "Traditional use: Topical extract aids recovery of minor skin abrasions and superficial cuts.",
+        "my": "ရိုးရာလိမ်းဆေး - အရေပြားပွန်းပဲ့ဒဏ်ရာများနှင့် အနာငယ်များကို အနာကျက်မြန်စေရန် ကူညီပေးပါသည်။"
+      }
+    ],
+    "howToUse": [
+      {
+        "method": "tea",
+        "en": "Immune Tisane: Steep 1 tablespoon dried aerial herb or root in boiling water for 10-12 minutes; drink warm with lemon.",
+        "my": "ကိုယ်ခံအား ရေနွေးကြမ်း - အခြောက်လှန်းထားသော အပင် သို့မဟုတ် အမြစ် ၁ ဇွန်းကို ရေနွေးတွင် ၁၀-၁၂ မိနစ် နှပ်ပြီး သံပရာရည်ဖြင့် သောက်ပါ။"
+      },
+      {
+        "method": "gargle",
+        "en": "Throat Gargle: Brew a strong tea and gargle warm liquid 3 times daily to soothe irritated tonsils.",
+        "my": "လည်ချောင်းပလုတ်ကျင်းဆေး - ပြင်းပြင်းနှပ်ထားသော ရေနွေးကြမ်းနွေးနွေးဖြင့် တစ်နေ့ ၃ ကြိမ် ပလုတ်ကျင်းပေးပါက လည်ချောင်းနာ သက်သာစေသည်။"
+      }
+    ],
+    "howToApply": {
+      "en": [
+        "Take 1 rounded tablespoon of dried echinacea herb or chopped root.",
+        "Place into a glass or ceramic pot and pour 250ml boiling water over it.",
+        "Cover tightly and allow to steep for 10-15 minutes to extract potent alkylamides.",
+        "Strain, add a squeeze of fresh lemon and raw honey, and drink slowly.",
+        "Best used at the immediate onset of symptoms for 5-7 consecutive days."
+      ],
+      "my": [
+        "အခြောက်လှန်းထားသော အီခီနေးရှား ၁ ဇွန်းခန့်ကို ယူပါ။",
+        "ဖန်ခွက် သို့မဟုတ် ကြွေအိုးထဲထည့်ပြီး ဆူပွက်နေသော ရေနွေး ၂၅၀ မီလီလီတာကို လောင်းထည့်ပါ။",
+        "အဖုံးအုပ်၍ ၁၀ မှ ၁၅ မိနစ်ခန့် ကြာအောင် နှပ်ထားပါ။",
+        "စစ်ယူပြီး သံပရာရည်နှင့် ပျားရည် အနည်းငယ်ထည့်ကာ ဖြည်းညင်းစွာ သောက်သုံးပါ။",
+        "ဖျားနာလက္ခဏာ စတင်ချိန်တွင် ၅ မှ ၇ ရက်ခန့် ဆက်တိုက်သောက်သုံးပါက အကောင်းဆုံး ဖြစ်ပါသည်။"
+      ]
+    },
+    "dosageAndFrequency": {
+      "en": "Short-term use: 1 to 2 cups daily for 5-10 days during acute seasonal symptoms.",
+      "my": "တုပ်ကွေးလက္ခဏာဖြစ်ချိန်တွင် - တစ်နေ့လျှင် ၁ မှ ၂ ခွက် (၅ မှ ၁၀ ရက်အထိ ဆက်တိုက် သောက်သုံးနိုင်သည်)။"
+    },
+    "warnings": {
+      "en": "Not intended for continuous year-round daily use. Individuals with progressive autoimmune conditions (lupus, multiple sclerosis, rheumatoid arthritis) or severe daisy allergies should avoid high doses.",
+      "my": "တစ်နှစ်ပတ်လုံး နေ့စဉ် ဆက်တိုက်သောက်သုံးရန် မသင့်ပါ။ ကိုယ်ခံအားလွန်ကဲသော ရောဂါသည်များ (Lupus, Multiple Sclerosis) နှင့် ဂန္ဓမာပန်းမျိုးနွယ်နှင့် ဓာတ်မတည့်သူများ သောက်သုံးခြင်းကို ရှောင်ကြဉ်ပါ။"
+    },
+    "relatedHerbs": [
+      "ginger",
+      "tulsi",
+      "turmeric"
+    ]
+  },
+  {
+    "id": "cinnamon",
+    "slug": "cinnamon",
+    "name": {
+      "en": "Cinnamon (Ceylon Cinnamon)",
+      "my": "သစ်ကြံပိုး"
+    },
+    "scientificName": "Cinnamomum verum",
+    "category": "aromatic",
+    "image": "/src/assets/images/cinnamon.webp",
+    "imageCredit": "Photo by Mae Mu on Unsplash (Free License)",
+    "description": {
+      "en": "A fragrant, warming inner tree bark famed since antiquity for its sweet aroma and high cinnamaldehyde content. (Source: Traditional Asian Pharmacopoeia & Phytotherapy Research) Renowned for supporting healthy blood sugar balance and warming digestion.",
+      "my": "ရှေးခေတ်ကတည်းက အဖိုးတန် ကျော်ကြားခဲ့သော အမွှေးနံ့သာ သစ်ခေါက် ဖြစ်ပါသည်။ (ရင်းမြစ် - ရိုးရာအာရှတိုင်းရင်းဆေးကျမ်းနှင့် ရုက္ခဗေဒသုတေသန) ချိုမြိန်သောရနံ့နှင့်အတူ သွေးတွင်းသကြားဓာတ် ထိန်းညှိပေးခြင်း၊ အစာကြေစေခြင်းနှင့် ခန္ဓာကိုယ်ကို နွေးထွေးစေခြင်းတို့တွင် အလွန်ထင်ရှားပါသည်။"
+    },
+    "whereItGrows": {
+      "en": "Indigenous to Sri Lanka and parts of coastal South and Southeast Asia. Flourishes in warm tropical humid lowlands and rainforest borders.",
+      "my": "သီရိလင်္ကာနှင့် အရှေ့တောင်အာရှ အပူပိုင်းဒေသ မူရင်းပင်ဖြစ်ပြီး စိုထိုင်းဆကောင်းသော အပူပိုင်း မိုးသစ်တောစပ်ဒေသများတွင် ရှင်သန်ဖြစ်ထွန်းသည်။"
+    },
+    "partsUsed": {
+      "en": "Inner bark curls (quills), peeled and sun-dried into golden-brown rolls, or ground powder",
+      "my": "သစ်ကြံပိုးခေါက် အတွင်းသားအလွှာ (အခေါက်လိပ်) သို့မဟုတ် သစ်ကြံပိုးခေါက် အမှုန့်စစ်စစ်"
+    },
+    "benefits": [
+      {
+        "en": "Traditional use: Supports healthy post-meal glucose metabolism and insulin sensitivity.",
+        "my": "ရိုးရာသုံးစွဲမှု - အစာစားပြီးချိန်တွင် သွေးတွင်းသကြားဓာတ် ထိန်းညှိမှုကို ကူညီပေးပါသည်။"
+      },
+      {
+        "en": "Traditional use: Deeply warming aromatic qualities disperse gastrointestinal gas and abdominal chills.",
+        "my": "ရိုးရာသုံးစွဲမှု - ကိုယ်တွင်းအပူဓာတ်ပေးကာ ဗိုက်ကယ်ခြင်းနှင့် လေထိုးလေအောင့်ကို သက်သာစေပါသည်။"
+      },
+      {
+        "en": "Traditional use: Rich polyphenols support oral hygiene and freshen the breath.",
+        "my": "ရိုးရာသုံးစွဲမှု - ခံတွင်းရနံ့ မွှေးပျံ့စေပြီး သွားနှင့် သွားဖုံးပိုးမွှားများကို သဘာဝအတိုင်း တားဆီးပေးသည်။"
+      }
+    ],
+    "howToUse": [
+      {
+        "method": "tea",
+        "en": "Cinnamon Stick Infusion: Simmer 1 whole cinnamon quill in 300ml water for 10 minutes; drink warm.",
+        "my": "သစ်ကြံပိုးခေါက် ရေနွေးကြမ်း - သစ်ကြံပိုးခေါက် ၁ ချောင်းကို ရေ ၃၀၀ မီလီလီတာတွင် ၁၀ မိနစ်ခန့် ကျိုပြီး သောက်သုံးပါ။"
+      },
+      {
+        "method": "cooking",
+        "en": "Culinary: Sprinkle 1/2 tsp ground powder into morning oatmeal, curries, and spiced teas.",
+        "my": "ဟင်းလျာများ - နံနက်စာ ဂျုံယာဂု၊ အသားဟင်းများနှင့် လက်ဖက်ရည်တို့တွင် အမွှေးနံ့သာအဖြစ် ထည့်သွင်းစားသုံးပါ။"
+      }
+    ],
+    "howToApply": {
+      "en": [
+        "Take 1 whole Ceylon cinnamon quill or 1/2 teaspoon pure ground powder.",
+        "Add to 300ml boiling water in a small pot.",
+        "Simmer gently for 8-10 minutes until liquid turns deep amber.",
+        "Strain into a mug, stir in raw honey or squeeze of lemon, and enjoy."
+      ],
+      "my": [
+        "သစ်ကြံပိုးခေါက် ၁ ချောင်း သို့မဟုတ် အမှုန့် လက်ဖက်ရည်ဇွန်းတစ်ဝက်ကို ယူပါ။",
+        "ဆူပွက်နေသော ရေ ၃၀၀ မီလီလီတာထဲ ထည့်ပါ။",
+        "ပယင်းရောင် သန်းလာသည်အထိ မီးအေးအေးဖြင့် ၈ မှ ၁၀ မိနစ်ခန့် ကျိုပါ။",
+        "ခွက်ထဲ စစ်ထည့်ပြီး ပျားရည် သို့မဟုတ် သံပရာရည်အနည်းငယ်ထည့်ကာ သောက်သုံးပါ။"
+      ]
+    },
+    "dosageAndFrequency": {
+      "en": "Culinary powder: 1/2 to 1 teaspoon daily with food. Tea: 1 cup daily.",
+      "my": "အမှုန့် - တစ်နေ့လျှင် လက်ဖက်ရည်ဇွန်း ၁/၂ မှ ၁ ဇွန်း။ ရေနွေးကြမ်း - တစ်နေ့လျှင် ၁ ခွက်။"
+    },
+    "warnings": {
+      "en": "Prefer true Ceylon cinnamon over cheap Cassia varieties, as Cassia contains high levels of coumarin which may stress liver function in large daily amounts.",
+      "my": "ကတ်စီးယား (Cassia) ခေါက်တုများတွင် အသည်းကို ထိခိုက်စေနိုင်သော ကူမာရင်ဓာတ် များပြားသဖြင့် သီရိလင်္ကာ သစ်ကြံပိုးခေါက်စစ်စစ် (Ceylon cinnamon) ကိုသာ ရွေးချယ်သုံးစွဲသင့်ပါသည်။"
+    },
+    "relatedHerbs": [
+      "ginger",
+      "garlic",
+      "turmeric"
+    ]
+  },
+  {
+    "id": "coriander",
+    "slug": "coriander",
+    "name": {
+      "en": "Coriander (Cilantro)",
+      "my": "နံနံပင်"
+    },
+    "scientificName": "Coriandrum sativum",
+    "category": "culinary",
+    "image": "/src/assets/images/coriander.webp",
+    "imageCredit": "Photo by Foodiesfeed on Unsplash (Free License)",
+    "description": {
+      "en": "A refreshing aromatic annual herb whose vibrant green leaves and dried golden seeds are staples in kitchens worldwide. (Source: Traditional Ethnobotany & Ayurvedic Materia Medica) Celebrated for aiding smooth digestion, cooling internal heat, and lending bright herbal brightness to meals.",
+      "my": "ရနံ့မွှေးပျံ့ပြီး လန်းဆန်းစေသည့် ဟင်းခတ်ဆေးပင် ဖြစ်ပါသည်။ (ရင်းမြစ် - ရိုးရာတိုင်းရင်းဆေးမှတ်တမ်းနှင့် အာယုဗ္ဗေဒဆေးကျမ်း) အရွက်စိမ်းများနှင့် အစေ့ခြောက်နှစ်မျိုးစလုံးကို အစာကြေစေခြင်း၊ ကိုယ်တွင်းအပူငြိမ်းစေခြင်းနှင့် ဟင်းလျာများ မွှေးပျံ့စေခြင်းတို့တွင် အထူးတန်ဖိုးထား အသုံးပြုကြသည်။"
+    },
+    "whereItGrows": {
+      "en": "Native to the Mediterranean and Southwestern Asia. Extensively grown in rich garden loams across every town and kitchen garden in Myanmar.",
+      "my": "မြေထဲပင်လယ်နှင့် အာရှအနောက်တောင်ပိုင်း မူရင်းပင်ဖြစ်ပြီး မြန်မာနိုင်ငံ ဒေသအနှံ့အပြားရှိ ဟင်းသီးဟင်းရွက် ဥယျာဉ်များတွင် ကျယ်ပြန့်စွာ စိုက်ပျိုးကြသည်။"
+    },
+    "partsUsed": {
+      "en": "Fresh tender green leaves (cilantro) and dried fragrant spherical seeds (coriander)",
+      "my": "လတ်ဆတ်သော နံနံရွက်စိမ်းနုများနှင့် အခြောက်လှန်းထားသော နံနံစေ့မွှေးများ"
+    },
+    "benefits": [
+      {
+        "en": "Traditional use: Gently promotes digestive enzyme production to alleviate post-meal heavy bloating.",
+        "my": "ရိုးရာသုံးစွဲမှု - အစာကြေအင်ဇိုင်းများ ထွက်ရှိမှုကို အားပေးပြီး အစာစားပြီး ဗိုက်ကယ်ရင်ပြည့်ခြင်းကို သက်သာစေပါသည်။"
+      },
+      {
+        "en": "Traditional use: Cooling properties temper rich spices and internal heat sensations.",
+        "my": "ရိုးရာသုံးစွဲမှု - စပ်ရှားပူလောင်သော ဟင်းလျာများ၏ အပူဒဏ်ကို ထိန်းညှိပေးပြီး ကိုယ်တွင်းအပူငြိမ်းစေပါသည်။"
+      },
+      {
+        "en": "Traditional seed tea: Infusion of crushed seeds supports urinary tract clarity and ease.",
+        "my": "ရိုးရာနံနံစေ့ပြုတ်ရည် - နံနံစေ့ပြုတ်ရည်သည် ဆီးလမ်းကြောင်းရှင်းလင်းစေရန်နှင့် ဆီးအောင့်ခြင်းကို သက်သာစေရန် ကူညီသည်။"
+      }
+    ],
+    "howToUse": [
+      {
+        "method": "cooking",
+        "en": "Culinary Garnish: Chop fresh leaves and sprinkle generously over noodle soups (Mohinga, Shan noodles) and curries.",
+        "my": "ဟင်းလျာများ - မုန့်ဟင်းခါး၊ ရှမ်းခေါက်ဆွဲနှင့် ဟင်းရည်များပေါ်တွင် နံနံပင်လတ်လတ်ဆတ်ဆတ် ဖြူးစားပါ။"
+      },
+      {
+        "method": "seed-tea",
+        "en": "Coriander Seed Tea: Lightly crush 1 teaspoon of seeds, steep in hot water for 8 minutes, and sip for digestive ease.",
+        "my": "နံနံစေ့ ရေနွေးကြမ်း - နံနံစေ့ လက်ဖက်ရည်ဇွန်း ၁ ဇွန်းကို အနည်းငယ်ထုပြီး ရေနွေးတွင် ၈ မိနစ် နှပ်သောက်ပါ။"
+      }
+    ],
+    "howToApply": {
+      "en": [
+        "Take 1 teaspoon of fragrant whole coriander seeds.",
+        "Lightly crush in a mortar with a pestle to split the seeds.",
+        "Add to 300ml freshly boiled water and cover for 8-10 minutes.",
+        "Strain into a warm teacup and sip after meals to ease indigestion."
+      ],
+      "my": [
+        "မွှေးပျံ့သော နံနံစေ့ လက်ဖက်ရည်ဇွန်း ၁ ဇွန်းကို ယူပါ။",
+        "ကျောက်ဆုံထဲတွင် အစေ့ကွဲရုံ ညင်သာစွာ ထုပါ။",
+        "ဆူပွက်နေသော ရေနွေး ၃၀၀ မီလီလီတာထဲ ထည့်ကာ ၈ မှ ၁၀ မိနစ်ခန့် အဖုံးအုပ်ထားပါ။",
+        "ခွက်ထဲသို့ စစ်ထည့်ပြီး အစာစားပြီးနောက် အစာကြေစေရန် သောက်သုံးပါ။"
+      ]
+    },
+    "dosageAndFrequency": {
+      "en": "Fresh leaves: Generously in cooking. Seed tea: 1 cup as needed for digestion.",
+      "my": "အရွက် - ဟင်းလျာများတွင် လိုသလို သုံးနိုင်သည်။ နံနံစေ့ရေနွေးကြမ်း - အစာမကြေချိန်တွင် ၁ ခွက်။"
+    },
+    "warnings": {
+      "en": "Generally very safe. Rare individuals may have botanical allergies to the Apiaceae / parsley family.",
+      "my": "ယေဘုယျအားဖြင့် အလွန်ဘေးကင်းပါသည်။ နံနံမျိုးရင်းဝင် အပင်များနှင့် ဓာတ်မတည့်သူများသာ သတိပြုရန် လိုပါသည်။"
+    },
+    "relatedHerbs": [
+      "ginger",
+      "garlic",
+      "lemongrass"
+    ]
+  },
+  {
+    "id": "butterfly-pea",
+    "slug": "butterfly-pea",
+    "name": {
+      "en": "Butterfly Pea (Blue Pea)",
+      "my": "အောင်မဲညို"
+    },
+    "scientificName": "Clitoria ternatea",
+    "category": "skin-and-hair",
+    "image": "/src/assets/images/butterfly-pea.webp",
+    "imageCredit": "Photo by Mokkie via Wikimedia Commons (CC BY-SA 4.0)",
+    "description": {
+      "en": "A climbing vine bearing vivid cobalt-blue blossoms rich in anthocyanin antioxidants. (Source: Southeast Asian Traditional Medicine & Ethnobotany) Celebrated for brewing color-changing sapphire herbal tea, strengthening hair roots, and promoting eye health.",
+      "my": "တောက်ပသော အပြာရောင်ပန်းပွင့်များ ပွင့်လေ့ရှိသည့် ဆေးဖက်ဝင် နွယ်ပင် ဖြစ်ပါသည်။ (ရင်းမြစ် - အရှေ့တောင်အာရှ ရိုးရာတိုင်းရင်းဆေးမှတ်တမ်း) အရောင်ပြောင်းလဲနိုင်သော နီလာရောင် ရေနွေးကြမ်း၊ ဆံပင်သန်စွမ်းစေခြင်းနှင့် မျက်စိအားကောင်းစေခြင်းတို့တွင် အထူးကျော်ကြားပါသည်။"
+    },
+    "whereItGrows": {
+      "en": "Native to tropical equatorial Asia. Grows eagerly along fence lines and trellises in sunny tropical gardens throughout Myanmar.",
+      "my": "အပူပိုင်းအာရှ မူရင်းပင်ဖြစ်ပြီး မြန်မာနိုင်ငံတစ်ဝန်းရှိ ခြံစည်းရိုးများနှင့် နေရောင်ရသော စင်များပေါ်တွင် လွယ်ကူစွာ ရှင်သန်နွယ်တက်သည်။"
+    },
+    "partsUsed": {
+      "en": "Fresh or sun-dried deep blue flower petals",
+      "my": "လတ်ဆတ်သော သို့မဟုတ် နေရိပ်ခြောက် အောင်မဲညို ပန်းပွင့်ဖတ်များ"
+    },
+    "benefits": [
+      {
+        "en": "Traditional use: Rich ternatin anthocyanins support scalp microcirculation and natural hair luster.",
+        "my": "ရိုးရာသုံးစွဲမှု - သဘာဝဓာတ်တိုးဆန့်ကျင်ပစ္စည်းများ ကြွယ်ဝသဖြင့် ဆံပင်သန်စွမ်းစေပြီး ဆံပင်နက်မှောင်စေရန် ကူညီပေးပါသည်။"
+      },
+      {
+        "en": "Traditional use: High antioxidant content supports ocular microvascular health and eye comfort.",
+        "my": "ရိုးရာသုံးစွဲမှု - မျက်စိသွေးကြောငယ်များကို ကျန်းမာစေပြီး မျက်စိအားကောင်းစေရန် အထောက်အကူပြုသည်။"
+      },
+      {
+        "en": "Traditional tea: Calming infusion soothes everyday nervous restlessness and stress.",
+        "my": "ရိုးရာရေနွေးကြမ်း - စိတ်ဖိစီးမှုနှင့် ဂနာမငြိမ်ဖြစ်ခြင်းကို တည်ငြိမ်အေးချမ်းစေပါသည်။"
+      }
+    ],
+    "howToUse": [
+      {
+        "method": "tea",
+        "en": "Blue Flower Tisane: Steep 5-6 dried flowers in 300ml hot water; squeeze fresh lime to watch the tea magically turn from sapphire blue to royal purple.",
+        "my": "အောင်မဲညို ရေနွေးကြမ်း - ပန်းပွင့်ခြောက် ၅-၆ ပွင့်ကို ရေနွေးတွင် ၅ မိနစ် နှပ်သောက်ပါ (သံပရာရည် အနည်းငယ်ညှစ်ထည့်ပါက အပြာရောင်မှ ခရမ်းရောင်သို့ အံ့ဖွယ်ပြောင်းလဲသွားပါသည်)။"
+      },
+      {
+        "method": "hair-rinse",
+        "en": "Botanical Hair Wash: Brew a strong pot of blue tea, cool, and rinse hair after shampooing to impart shine.",
+        "my": "ဆံကေသာပေါင်းတင် ရေဆေးရည် - ပန်းပွင့်ပြုတ်ရည် အပြာရောင်ကို အအေးခံပြီး ခေါင်းလျှော်ပြီးချိန်တွင် ဆံပင်ပေါ် လောင်းချနှိပ်နယ်ပေးပါ။"
+      }
+    ],
+    "howToApply": {
+      "en": [
+        "Take 5-7 dried (or freshly plucked) butterfly pea flowers.",
+        "Place into a clear glass teapot and pour 300ml hot water (approx 85-90°C).",
+        "Watch the deep indigo blue pigment swirl into the water for 5 minutes.",
+        "Strain into a cup; drink as a sapphire blue tea, or add 1 teaspoon lemon juice to turn it radiant purple."
+      ],
+      "my": [
+        "အောင်မဲညိုပန်းပွင့်ခြောက် ၅-၇ ပွင့်ကို ယူပါ။",
+        "ဖန်အိုးထဲထည့်ပြီး ရေနွေး ၃၀၀ မီလီလီတာကို လောင်းထည့်ပါ။",
+        "နီလာပြာရောင် ထွက်ပေါ်လာစေရန် ၅ မိနစ်ခန့် နှပ်ထားပါ။",
+        "ခွက်ထဲ စစ်ထည့်ပြီး အပြာရောင် ရေနွေးကြမ်းအဖြစ် သောက်သုံးနိုင်သလို သံပရာရည် ၁ ဇွန်းထည့်၍ ခရမ်းရောင်အဖြစ်လည်း အရသာရှိစွာ သောက်သုံးနိုင်ပါသည်။"
+      ]
+    },
+    "dosageAndFrequency": {
+      "en": "Tea: 1 to 2 cups daily. Hair rinse: 2-3 times weekly.",
+      "my": "ရေနွေးကြမ်း - တစ်နေ့လျှင် ၁ မှ ၂ ခွက်။ ဆံပင်ဆေးရည် - တစ်ပတ်လျှင် ၂-၃ ကြိမ်။"
+    },
+    "warnings": {
+      "en": "Very safe when consumed as flower tea. Avoid consuming seeds or root extracts in high doses during pregnancy.",
+      "my": "ပန်းပွင့်ကို ရေနွေးကြမ်းအဖြစ် သောက်သုံးခြင်းသည် အလွန်ဘေးကင်းပါသည်။ သို့သော် အစေ့နှင့် အမြစ်များကို ကိုယ်ဝန်ဆောင်ချိန်တွင် မသောက်သုံးသင့်ပါ။"
+    },
+    "relatedHerbs": [
+      "aloe-vera",
+      "roselle",
+      "lemongrass"
+    ]
+  }
+]

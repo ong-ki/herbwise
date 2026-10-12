@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="sageGradMaskable" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#476d50" />
+      <stop offset="100%" stop-color="#293b2d" />
+    </linearGradient>
+    <linearGradient id="goldGradMaskable" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f6cc8d" />
+      <stop offset="100%" stop-color="#e59325" />
+    </linearGradient>
+  </defs>
+  <!-- Full Edge-to-Edge Solid Background for Maskable Icon -->
+  <rect x="0" y="0" width="512" height="512" fill="url(#sageGradMaskable)" />
+
+  <!-- Botanical Emblem Center inside 75% Safe Zone -->
+  <g transform="translate(256, 256) scale(0.85)">
+    <!-- Golden Decorative Ring -->
+    <circle r="155" fill="none" stroke="url(#goldGradMaskable)" stroke-width="4" stroke-dasharray="12 8" opacity="0.45" />
+    <circle r="136" fill="#243327" opacity="0.85" />
+    
+    <!-- Central Botanical Leaf / Sprout Motif -->
+    <path d="M-40,110 C-10,60 30,10 90,-80" fill="none" stroke="url(#goldGradMaskable)" stroke-width="12" stroke-linecap="round" />
+    
+    <path d="M-40,110 C-110,60 -110,-40 -20,-90 C40,-130 90,-80 90,-80 C80,-10 30,40 -40,110 Z" 
+          fill="#FAF9F5" 
+          opacity="0.95" />
+    
+    <path d="M-30,90 C-40,40 -30,-10 20,-60" fill="none" stroke="#5c8866" stroke-width="6" stroke-linecap="round" opacity="0.7" />
+    
+    <path d="M10,-10 C40,-50 100,-60 120,-30 C130,10 90,40 50,30 C30,25 20,10 10,-10 Z" 
+          fill="url(#goldGradMaskable)" 
+          opacity="0.9" />
+          
+    <circle cx="65" cy="-85" r="14" fill="#FAF9F5" />
+  </g>
+</svg>

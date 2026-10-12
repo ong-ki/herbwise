@@ -1,0 +1,76 @@
+@import "tailwindcss";
+
+@theme {
+  --color-sage-50: #f2f7f4;
+  --color-sage-100: #e3ede6;
+  --color-sage-200: #c9dbce;
+  --color-sage-300: #a4c2ab;
+  --color-sage-400: #7ba384;
+  --color-sage-500: #5c8866;
+  --color-sage-600: #476d50;
+  --color-sage-700: #3a5740;
+  --color-sage-800: #304634;
+  --color-sage-900: #293b2d;
+
+  --color-offwhite: #FAF9F5;
+  --color-offwhite-subtle: #F3F2EC;
+
+  --color-charcoal-50: #f6f7f6;
+  --color-charcoal-100: #e8eae8;
+  --color-charcoal-200: #cfd4cf;
+  --color-charcoal-300: #adb4ae;
+  --color-charcoal-400: #868f87;
+  --color-charcoal-500: #6b736c;
+  --color-charcoal-600: #545b55;
+  --color-charcoal-700: #444a45;
+  --color-charcoal-800: #393e3a;
+  --color-charcoal-900: #212522;
+
+  --color-turmeric-50: #fefaf2;
+  --color-turmeric-100: #fdf3df;
+  --color-turmeric-200: #fbe3be;
+  --color-turmeric-300: #f6cc8d;
+  --color-turmeric-400: #efaE52;
+  --color-turmeric-500: #e59325;
+  --color-turmeric-600: #c9741a;
+  --color-turmeric-700: #a55617;
+  --color-turmeric-800: #864419;
+  --color-turmeric-900: #6f3918;
+
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-myanmar: 'Noto Sans Myanmar', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --shadow-soft-xs: 0 1px 2px 0 rgba(33, 37, 34, 0.04);
+  --shadow-soft-sm: 0 2px 6px 0 rgba(33, 37, 34, 0.06);
+  --shadow-soft-md: 0 6px 16px -2px rgba(33, 37, 34, 0.08);
+  --shadow-soft-lg: 0 12px 28px -4px rgba(33, 37, 34, 0.10);
+}
+
+@layer base {
+  body {
+    background-color: var(--color-offwhite, #FAF9F5);
+    color: var(--color-charcoal-900, #212522);
+    font-family: var(--font-sans);
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Myanmar script typographic compensation & line wrapping */
+  :lang(my),
+  [lang="my"],
+  .myanmar-text {
+    font-family: var(--font-myanmar), 'Inter', sans-serif;
+    line-height: 1.85;
+    word-break: normal;
+    overflow-wrap: break-word;
+    text-wrap: pretty;
+    letter-spacing: 0.01em;
+  }
+
+  /* Prevent vertical clipping of tall Myanmar diacritics (kinzi, yit, yapin) */
+  :lang(my) .truncate,
+  .myanmar-text.truncate {
+    padding-top: 1px;
+    padding-bottom: 2px;
+  }
+}

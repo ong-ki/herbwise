@@ -1,0 +1,6 @@
+{
+  "name": "HerbWise",
+  "description": "Mobile-first bilingual herb discovery and learning app in English and Myanmar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
