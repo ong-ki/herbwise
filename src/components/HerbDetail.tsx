@@ -16,6 +16,9 @@ import {
   Tag,
   Link2,
   Leaf,
+  Utensils,
+  Globe2,
+  Flame,
 } from 'lucide-react';
 import { EducationNotice } from './ui/EducationNotice';
 
@@ -27,7 +30,7 @@ interface HerbDetailProps {
   onSelectRelated?: (herbId: string) => void;
 }
 
-type TabType = 'overview' | 'benefits' | 'howToUse' | 'warnings';
+type TabType = 'overview' | 'benefits' | 'culinary' | 'regionalPrep' | 'howToUse' | 'warnings';
 
 export const HerbDetail: React.FC<HerbDetailProps> = ({
   herb,
@@ -43,12 +46,16 @@ export const HerbDetail: React.FC<HerbDetailProps> = ({
   const [openSections, setOpenSections] = useState({
     overview: true,
     benefits: true,
+    culinary: true,
+    regionalPrep: true,
     howToUse: true,
     warnings: true,
   });
 
   const overviewRef = useRef<HTMLDivElement>(null);
   const benefitsRef = useRef<HTMLDivElement>(null);
+  const culinaryRef = useRef<HTMLDivElement>(null);
+  const regionalPrepRef = useRef<HTMLDivElement>(null);
   const howToUseRef = useRef<HTMLDivElement>(null);
   const warningsRef = useRef<HTMLDivElement>(null);
 
@@ -58,6 +65,8 @@ export const HerbDetail: React.FC<HerbDetailProps> = ({
     const refMap = {
       overview: overviewRef,
       benefits: benefitsRef,
+      culinary: culinaryRef,
+      regionalPrep: regionalPrepRef,
       howToUse: howToUseRef,
       warnings: warningsRef,
     };
@@ -192,6 +201,28 @@ export const HerbDetail: React.FC<HerbDetailProps> = ({
             </button>
             <button
               type="button"
+              onClick={() => scrollToSection('culinary')}
+              className={`px-3 py-1.5 rounded-lg whitespace-nowrap font-medium transition-colors cursor-pointer ${
+                activeTab === 'culinary'
+                  ? 'bg-emerald-800 text-white'
+                  : 'text-stone-600 hover:bg-stone-200/60'
+              }`}
+            >
+              {t('culinaryTab')}
+            </button>
+            <button
+              type="button"
+              onClick={() => scrollToSection('regionalPrep')}
+              className={`px-3 py-1.5 rounded-lg whitespace-nowrap font-medium transition-colors cursor-pointer ${
+                activeTab === 'regionalPrep'
+                  ? 'bg-emerald-800 text-white'
+                  : 'text-stone-600 hover:bg-stone-200/60'
+              }`}
+            >
+              {t('regionalPrep')}
+            </button>
+            <button
+              type="button"
               onClick={() => scrollToSection('howToUse')}
               className={`px-3 py-1.5 rounded-lg whitespace-nowrap font-medium transition-colors cursor-pointer ${
                 activeTab === 'howToUse'
@@ -306,6 +337,118 @@ export const HerbDetail: React.FC<HerbDetailProps> = ({
                       </span>
                     </div>
                   ))}
+                </div>
+              )}
+            </div>
+
+            {/* SECTION: WHY USED IN COOKING & DISHES */}
+            <div ref={culinaryRef} className="scroll-mt-32">
+              <button
+                type="button"
+                onClick={() => toggleSection('culinary')}
+                className="w-full flex items-center justify-between pb-2 border-b border-stone-200 text-left cursor-pointer"
+              >
+                <div className="flex items-center gap-2">
+                  <Utensils className="w-4 h-4 text-emerald-700" />
+                  <h3 className="text-base font-bold text-stone-900">
+                    {t('dishesGoesIn')} ({language === 'my' ? 'ဟင်းချက်နည်းလမ်းညွှန်' : 'Culinary Guide'})
+                  </h3>
+                </div>
+                {openSections.culinary ? (
+                  <ChevronUp className="w-4 h-4 text-stone-400" />
+                ) : (
+                  <ChevronDown className="w-4 h-4 text-stone-400" />
+                )}
+              </button>
+
+              {openSections.culinary && (
+                <div className="pt-3 space-y-4">
+                  {/* Why Used in Cooking */}
+                  {herb.whyUsedInCooking && (
+                    <div className="bg-amber-50/70 border border-amber-200/80 rounded-2xl p-4 space-y-1">
+                      <span className="text-xs font-bold text-amber-900 uppercase tracking-wide block">
+                        {t('whyUsedInCooking')}
+                      </span>
+                      <p className="text-xs sm:text-sm text-stone-800 leading-relaxed">
+                        {getText(herb.whyUsedInCooking)}
+                      </p>
+                    </div>
+                  )}
+
+                  {/* Dishes List */}
+                  {herb.dishes && herb.dishes.length > 0 && (
+                    <div className="space-y-2.5">
+                      <span className="text-xs font-semibold text-stone-600 block">
+                        {t('dishesGoesIn')}
+                      </span>
+                      {herb.dishes.map((dish, dIdx) => (
+                        <div
+                          key={dIdx}
+                          className="bg-stone-50 rounded-2xl p-3.5 border border-stone-200/80 space-y-1"
+                        >
+                          <div className="flex items-center justify-between gap-2">
+                            <h4 className="text-xs sm:text-sm font-bold text-stone-900">
+                              {getText(dish.dishName)}
+                            </h4>
+                            <span className="text-[10px] font-semibold text-emerald-800 bg-emerald-100 px-2 py-0.5 rounded-full shrink-0">
+                              {getText(dish.region)}
+                            </span>
+                          </div>
+                          <p className="text-xs text-stone-700 leading-relaxed">
+                            {getText(dish.description)}
+                          </p>
+                        </div>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              )}
+            </div>
+
+            {/* SECTION: REGIONAL PREPARATIONS ACROSS ASIA */}
+            <div ref={regionalPrepRef} className="scroll-mt-32">
+              <button
+                type="button"
+                onClick={() => toggleSection('regionalPrep')}
+                className="w-full flex items-center justify-between pb-2 border-b border-stone-200 text-left cursor-pointer"
+              >
+                <div className="flex items-center gap-2">
+                  <Globe2 className="w-4 h-4 text-emerald-700" />
+                  <h3 className="text-base font-bold text-stone-900">
+                    {t('regionalPrep')}
+                  </h3>
+                </div>
+                {openSections.regionalPrep ? (
+                  <ChevronUp className="w-4 h-4 text-stone-400" />
+                ) : (
+                  <ChevronDown className="w-4 h-4 text-stone-400" />
+                )}
+              </button>
+
+              {openSections.regionalPrep && (
+                <div className="pt-3 space-y-3">
+                  {herb.regionalPreparations && herb.regionalPreparations.length > 0 ? (
+                    herb.regionalPreparations.map((prep, pIdx) => (
+                      <div
+                        key={pIdx}
+                        className="bg-white rounded-2xl border border-stone-200 p-3.5 space-y-1.5 shadow-xs"
+                      >
+                        <div className="flex items-center justify-between gap-2 border-b border-stone-100 pb-1.5">
+                          <span className="text-xs font-bold text-emerald-900">
+                            {getText(prep.region)}
+                          </span>
+                          <span className="text-[11px] font-medium text-stone-600 bg-stone-100 px-2 py-0.5 rounded">
+                            {getText(prep.technique)}
+                          </span>
+                        </div>
+                        <p className="text-xs text-stone-700 leading-relaxed pt-0.5">
+                          {getText(prep.description)}
+                        </p>
+                      </div>
+                    ))
+                  ) : (
+                    <p className="text-xs text-stone-500">No regional preparations listed.</p>
+                  )}
                 </div>
               )}
             </div>

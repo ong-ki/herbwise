@@ -77,6 +77,12 @@ export interface TranslationDictionary {
   sectionHowToUse: string;
   sectionHowToApply: string;
   sectionDosage: string;
+  whyUsedInCooking: string;
+  dishesGoesIn: string;
+  regionalPrep: string;
+  culinaryTab: string;
+  sectionCulinary: string;
+  sectionRegionalPrep: string;
   sectionWarnings: string;
   sectionRelated: string;
   pwaInstallBtn: string;
@@ -166,6 +172,12 @@ export const translations: Record<Language, TranslationDictionary> = {
     sectionHowToUse: 'How to Use (Methods)',
     sectionHowToApply: 'How to Apply (Steps)',
     sectionDosage: 'Dosage & Frequency',
+    whyUsedInCooking: 'Why It Is Used in Cooking',
+    dishesGoesIn: 'Which Dishes It Goes In',
+    regionalPrep: 'Regional Preparations Across Asia',
+    culinaryTab: 'Culinary Guide',
+    sectionCulinary: 'Why Used in Cooking & Dishes',
+    sectionRegionalPrep: 'Regional Preparations Across Asia',
     sectionWarnings: 'Warnings & Safety',
     sectionRelated: 'Related Herbs',
     pwaInstallBtn: 'Install App',
@@ -253,6 +265,12 @@ export const translations: Record<Language, TranslationDictionary> = {
     sectionHowToUse: 'အသုံးပြုနည်း ပုံစံများ',
     sectionHowToApply: 'လိမ်းကျံ/သုံးစွဲနည်း အဆင့်ဆင့်',
     sectionDosage: 'သင့်တော်သော ပမာဏနှင့် အကြိမ်ရေ',
+    whyUsedInCooking: 'ဟင်းချက်ရာတွင် သုံးစွဲရသည့် အကြောင်းရင်း',
+    dishesGoesIn: 'ထည့်သွင်းချက်ပြုတ်သော ဟင်းလျာများ',
+    regionalPrep: 'အာရှဒေသအလိုက် ပြင်ဆင်ချက်ပြုတ်ပုံများ',
+    culinaryTab: 'ဟင်းချက်နည်း လမ်းညွှန်',
+    sectionCulinary: 'ဟင်းချက်ရာတွင် သုံးစွဲပုံနှင့် ဟင်းလျာများ',
+    sectionRegionalPrep: 'အာရှဒေသအလိုက် ပြင်ဆင်ချက်ပြုတ်ပုံ',
     sectionWarnings: 'သတိပြုရန်နှင့် ဘေးထွက်ဆိုးကျိုး',
     sectionRelated: 'ဆက်စပ် ဆေးဖက်ဝင်အပင်များ',
     pwaInstallBtn: 'အက်ပ် သွင်းယူမည်',
